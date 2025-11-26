@@ -1,0 +1,648 @@
+[
+  {
+    "project_name_ar": "فحص بصري تنبؤي الذكي",
+    "project_name_en": "Predictive Visual Inspection AI",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "تحسين التجربة",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Reduce errors",
+        "Improve UX",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "تطوير الألعاب باستخدام unreal engine",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Anomaly Detection",
+    "team_members": [
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T7188",
+        "skills": [
+          "تحليل البيانات",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T2052",
+        "skills": [
+          "أمن سيبراني",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T4846",
+        "skills": [
+          "هندسة برمجيات",
+          "Software Engineering"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 62,
+    "delivery_date": "2024-07-25",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير الألعاب باستخدام unreal engine القديم",
+      "name_en": "Legacy تطوير الألعاب باستخدام unreal engine Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي المتقدّم",
+    "project_name_en": "Predictive Visual Inspection Predict",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تقليل الأخطاء",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Reduce errors",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "تطوير الألعاب باستخدام unreal engine",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Object Detection",
+    "team_members": [
+      {
+        "name_ar": "أمل",
+        "name_en": "Amal",
+        "id": "T9520",
+        "skills": [
+          "رؤية حاسوبية",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T8753",
+        "skills": [
+          "أمن سيبراني",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T8036",
+        "skills": [
+          "أمن سيبراني",
+          "Cybersecurity"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 18,
+    "delivery_date": "2025-12-03",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي الذكي",
+    "project_name_en": "Predictive Visual Inspection Predict",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تقليل الأخطاء",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Reduce errors",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "تطوير الألعاب باستخدام unreal engine",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Pose Estimation",
+    "team_members": [
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T3275",
+        "skills": [
+          "ذكاء اصطناعي",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T3013",
+        "skills": [
+          "DevOps",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T5072",
+        "skills": [
+          "أمن سيبراني",
+          "Software Engineering"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 61,
+    "delivery_date": "2026-08-31",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير الألعاب باستخدام unreal engine القديم",
+      "name_en": "Legacy تطوير الألعاب باستخدام unreal engine Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي الفوري",
+    "project_name_en": "Predictive Visual Inspection Coop",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "تحسين الدقة",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Reduce errors",
+        "Improve accuracy",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "تطوير الألعاب باستخدام unreal engine",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Anomaly Detection",
+    "team_members": [
+      {
+        "name_ar": "أحمد",
+        "name_en": "Ahmed",
+        "id": "T8279",
+        "skills": [
+          "تطوير الويب",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T8938",
+        "skills": [
+          "سحابة",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T2333",
+        "skills": [
+          "أمن سيبراني",
+          "Cloud"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 0,
+    "delivery_date": "2026-09-02",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي التعاوني",
+    "project_name_en": "Predictive Visual Inspection Pro",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تقليل التكاليف",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Improve UX",
+        "Reduce costs",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "تطوير الألعاب باستخدام unreal engine",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Anomaly Detection",
+    "team_members": [
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T3094",
+        "skills": [
+          "هندسة برمجيات",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "أمل",
+        "name_en": "Amal",
+        "id": "T5937",
+        "skills": [
+          "DevOps",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T3753",
+        "skills": [
+          "هندسة برمجيات",
+          "Data Analysis"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 59,
+    "delivery_date": "2026-09-14",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير الألعاب باستخدام unreal engine القديم",
+      "name_en": "Legacy تطوير الألعاب باستخدام unreal engine Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي السحابي",
+    "project_name_en": "Predictive Visual Inspection AI",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تسريع الإنجاز",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Speed up delivery",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "تطوير الألعاب باستخدام unreal engine",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Anomaly Detection",
+    "team_members": [
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T5593",
+        "skills": [
+          "تطوير الويب",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T8803",
+        "skills": [
+          "تحليل البيانات",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T9757",
+        "skills": [
+          "هندسة برمجيات",
+          "Data Analysis"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 6,
+    "delivery_date": "2025-11-12",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير الألعاب باستخدام unreal engine القديم",
+      "name_en": "Legacy تطوير الألعاب باستخدام unreal engine Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي السحابي",
+    "project_name_en": "Predictive Visual Inspection Cloud",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تقليل الأخطاء",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Improve UX",
+        "Reduce errors",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "تطوير الألعاب باستخدام unreal engine",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Object Detection",
+    "team_members": [
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T5244",
+        "skills": [
+          "تحليل البيانات",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T2436",
+        "skills": [
+          "تحليل البيانات",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T6574",
+        "skills": [
+          "إنترنت الأشياء",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 20,
+    "delivery_date": "2024-08-25",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير الألعاب باستخدام unreal engine القديم",
+      "name_en": "Legacy تطوير الألعاب باستخدام unreal engine Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي التنبؤي",
+    "project_name_en": "Predictive Visual Inspection AI",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "رفع الكفاءة",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Increase efficiency",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "تطوير الألعاب باستخدام unreal engine",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Anomaly Detection",
+    "team_members": [
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T7941",
+        "skills": [
+          "أمن سيبراني",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T3069",
+        "skills": [
+          "DevOps",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T4639",
+        "skills": [
+          "تحليل البيانات",
+          "Cloud"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 58,
+    "delivery_date": "2024-01-19",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير الألعاب باستخدام unreal engine القديم",
+      "name_en": "Legacy تطوير الألعاب باستخدام unreal engine Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي الفوري",
+    "project_name_en": "Predictive Visual Inspection Predict",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "تحسين التجربة",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Improve UX",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "تطوير الألعاب باستخدام unreal engine",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Anomaly Detection",
+    "team_members": [
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T1562",
+        "skills": [
+          "إنترنت الأشياء",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T6060",
+        "skills": [
+          "DevOps",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T5480",
+        "skills": [
+          "إنترنت الأشياء",
+          "Software Engineering"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 9,
+    "delivery_date": "2025-03-17",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي التنبؤي",
+    "project_name_en": "Predictive Visual Inspection Coop",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تقليل التكاليف",
+        "تحسين التجربة"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Reduce costs",
+        "Improve UX"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "تطوير الألعاب باستخدام unreal engine",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Pose Estimation",
+    "team_members": [
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T8987",
+        "skills": [
+          "سحابة",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T3608",
+        "skills": [
+          "ذكاء اصطناعي",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T7427",
+        "skills": [
+          "أمن سيبراني",
+          "Cloud"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 17,
+    "delivery_date": "2026-08-27",
+    "related_old_project": null
+  }
+]

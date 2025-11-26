@@ -1,0 +1,654 @@
+[
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي السحابي",
+    "project_name_en": "Interactive Content Recommender Pro",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تقليل التكاليف",
+        "تحسين التجربة"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Reduce costs",
+        "Improve UX"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": ".NetCore",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "A/B Testing",
+    "team_members": [
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T9741",
+        "skills": [
+          "إنترنت الأشياء",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T7583",
+        "skills": [
+          "إنترنت الأشياء",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T9052",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Cybersecurity"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 17,
+    "delivery_date": "2026-06-14",
+    "related_old_project": {
+      "name_ar": "مشروع .NetCore القديم",
+      "name_en": "Legacy .NetCore Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي الفوري",
+    "project_name_en": "Interactive Content Recommender Pro",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تقليل الأخطاء",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Reduce errors",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": ".NetCore",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "Recommendation Systems",
+    "team_members": [
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T3992",
+        "skills": [
+          "رؤية حاسوبية",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T3526",
+        "skills": [
+          "رؤية حاسوبية",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T3772",
+        "skills": [
+          "ذكاء اصطناعي",
+          "IoT"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 50,
+    "delivery_date": "2025-10-28",
+    "related_old_project": {
+      "name_ar": "مشروع .NetCore القديم",
+      "name_en": "Legacy .NetCore Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي المتقدّم",
+    "project_name_en": "Interactive Content Recommender Coop",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "تسريع الإنجاز",
+        "تحسين الدقة"
+      ],
+      "en": [
+        "Reduce costs",
+        "Speed up delivery",
+        "Improve accuracy"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": ".NetCore",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "Recommendation Systems",
+    "team_members": [
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T1849",
+        "skills": [
+          "تطوير الويب",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T4874",
+        "skills": [
+          "هندسة برمجيات",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T9264",
+        "skills": [
+          "سحابة",
+          "Data Analysis"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 9,
+    "delivery_date": "2025-07-05",
+    "related_old_project": {
+      "name_ar": "مشروع .NetCore القديم",
+      "name_en": "Legacy .NetCore Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي التنبؤي",
+    "project_name_en": "Interactive Content Recommender RT",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "تحسين التجربة",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Improve UX",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": ".NetCore",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "Recommendation Systems",
+    "team_members": [
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T2663",
+        "skills": [
+          "تطوير الويب",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T3057",
+        "skills": [
+          "رؤية حاسوبية",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T7664",
+        "skills": [
+          "هندسة برمجيات",
+          "Data Analysis"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 62,
+    "delivery_date": "2026-10-21",
+    "related_old_project": {
+      "name_ar": "مشروع .NetCore القديم",
+      "name_en": "Legacy .NetCore Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي الذكي",
+    "project_name_en": "Interactive Content Recommender Predict",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تعزيز الأمان",
+        "تسريع الإنجاز",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Enhance security",
+        "Speed up delivery",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": ".NetCore",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "Recommendation Systems",
+    "team_members": [
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T8612",
+        "skills": [
+          "إنترنت الأشياء",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T3742",
+        "skills": [
+          "ذكاء اصطناعي",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T8900",
+        "skills": [
+          "رؤية حاسوبية",
+          "IoT"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 31,
+    "delivery_date": "2025-05-28",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي الفوري",
+    "project_name_en": "Interactive Content Recommender Predict",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تقليل التكاليف",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Reduce costs",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": ".NetCore",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "Personalization",
+    "team_members": [
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T2469",
+        "skills": [
+          "سحابة",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T3288",
+        "skills": [
+          "DevOps",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T8077",
+        "skills": [
+          "تطوير الويب",
+          "IoT"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 37,
+    "delivery_date": "2026-10-30",
+    "related_old_project": {
+      "name_ar": "مشروع .NetCore القديم",
+      "name_en": "Legacy .NetCore Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي التعاوني",
+    "project_name_en": "Interactive Content Recommender Predict",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تسريع الإنجاز",
+        "تحسين الدقة"
+      ],
+      "en": [
+        "Improve UX",
+        "Speed up delivery",
+        "Improve accuracy"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": ".NetCore",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "A/B Testing",
+    "team_members": [
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T4450",
+        "skills": [
+          "هندسة برمجيات",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T6381",
+        "skills": [
+          "ذكاء اصطناعي",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T1033",
+        "skills": [
+          "إنترنت الأشياء",
+          "Software Engineering"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 43,
+    "delivery_date": "2024-01-09",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي التعاوني",
+    "project_name_en": "Interactive Content Recommender AI",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تسريع الإنجاز",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Improve UX",
+        "Speed up delivery",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": ".NetCore",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "Recommendation Systems",
+    "team_members": [
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T9825",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T3022",
+        "skills": [
+          "أمن سيبراني",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T6864",
+        "skills": [
+          "سحابة",
+          "UI/UX"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 81,
+    "delivery_date": "2024-01-18",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي الفوري",
+    "project_name_en": "Interactive Content Recommender Predict",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "تحسين الدقة",
+        "تحسين التجربة"
+      ],
+      "en": [
+        "Reduce errors",
+        "Improve accuracy",
+        "Improve UX"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": ".NetCore",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "Recommendation Systems",
+    "team_members": [
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T4623",
+        "skills": [
+          "تطوير الويب",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T6947",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T9074",
+        "skills": [
+          "إنترنت الأشياء",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 14,
+    "delivery_date": "2024-01-15",
+    "related_old_project": {
+      "name_ar": "مشروع .NetCore القديم",
+      "name_en": "Legacy .NetCore Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي التعاوني",
+    "project_name_en": "Interactive Content Recommender RT",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "تعزيز الأمان",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Reduce costs",
+        "Enhance security",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": ".NetCore",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "Recommendation Systems",
+    "team_members": [
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T2070",
+        "skills": [
+          "إنترنت الأشياء",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T2065",
+        "skills": [
+          "واجهة المستخدم",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T4734",
+        "skills": [
+          "DevOps",
+          "Computer Vision"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 8,
+    "delivery_date": "2025-01-27",
+    "related_old_project": {
+      "name_ar": "مشروع .NetCore القديم",
+      "name_en": "Legacy .NetCore Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  }
+]

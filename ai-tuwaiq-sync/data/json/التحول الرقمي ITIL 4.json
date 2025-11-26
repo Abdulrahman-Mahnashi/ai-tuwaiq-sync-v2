@@ -1,0 +1,654 @@
+[
+  {
+    "project_name_ar": "منظّم اختبارات ذكي التعاوني",
+    "project_name_en": "Intelligent Test Orchestrator Coop",
+    "description_ar": "منظّم اختبارات وCI/CD ذكي يحدد الأولويات ويقلل زمن البناء.",
+    "description_en": "Smart CI/CD and test orchestrator that prioritizes and reduces build time.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "تسريع الإنجاز",
+        "تحسين التجربة"
+      ],
+      "en": [
+        "Reduce errors",
+        "Speed up delivery",
+        "Improve UX"
+      ]
+    },
+    "tools": [
+      "Python",
+      "GitHub Actions",
+      "pytest",
+      "Selenium",
+      "Docker"
+    ],
+    "bootcamp": "التحول الرقمي ITIL 4",
+    "AI_Domain": "DevOps",
+    "AI_Type": "CI/CD Intelligence",
+    "team_members": [
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T2253",
+        "skills": [
+          "تحليل البيانات",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T7805",
+        "skills": [
+          "ذكاء اصطناعي",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T9875",
+        "skills": [
+          "إنترنت الأشياء",
+          "UI/UX"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 1,
+    "delivery_date": "2024-07-14",
+    "related_old_project": {
+      "name_ar": "مشروع التحول الرقمي ITIL 4 القديم",
+      "name_en": "Legacy التحول الرقمي ITIL 4 Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "منظّم اختبارات ذكي السحابي",
+    "project_name_en": "Intelligent Test Orchestrator RT",
+    "description_ar": "منظّم اختبارات وCI/CD ذكي يحدد الأولويات ويقلل زمن البناء.",
+    "description_en": "Smart CI/CD and test orchestrator that prioritizes and reduces build time.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "تحسين الدقة",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Reduce errors",
+        "Improve accuracy",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "GitHub Actions",
+      "pytest",
+      "Selenium",
+      "Docker"
+    ],
+    "bootcamp": "التحول الرقمي ITIL 4",
+    "AI_Domain": "DevOps",
+    "AI_Type": "Incident Triage",
+    "team_members": [
+      {
+        "name_ar": "أمل",
+        "name_en": "Amal",
+        "id": "T5490",
+        "skills": [
+          "هندسة برمجيات",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T2633",
+        "skills": [
+          "رؤية حاسوبية",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T8723",
+        "skills": [
+          "سحابة",
+          "Computer Vision"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 19,
+    "delivery_date": "2026-05-29",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "منظّم اختبارات ذكي الذكي",
+    "project_name_en": "Intelligent Test Orchestrator RT",
+    "description_ar": "منظّم اختبارات وCI/CD ذكي يحدد الأولويات ويقلل زمن البناء.",
+    "description_en": "Smart CI/CD and test orchestrator that prioritizes and reduces build time.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "رفع الكفاءة",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Increase efficiency",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Python",
+      "GitHub Actions",
+      "pytest",
+      "Selenium",
+      "Docker"
+    ],
+    "bootcamp": "التحول الرقمي ITIL 4",
+    "AI_Domain": "DevOps",
+    "AI_Type": "CI/CD Intelligence",
+    "team_members": [
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T2774",
+        "skills": [
+          "هندسة برمجيات",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "أحمد",
+        "name_en": "Ahmed",
+        "id": "T1407",
+        "skills": [
+          "سحابة",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T8325",
+        "skills": [
+          "أمن سيبراني",
+          "Software Engineering"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 45,
+    "delivery_date": "2024-08-11",
+    "related_old_project": {
+      "name_ar": "مشروع التحول الرقمي ITIL 4 القديم",
+      "name_en": "Legacy التحول الرقمي ITIL 4 Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "منظّم اختبارات ذكي التنبؤي",
+    "project_name_en": "Intelligent Test Orchestrator Predict",
+    "description_ar": "منظّم اختبارات وCI/CD ذكي يحدد الأولويات ويقلل زمن البناء.",
+    "description_en": "Smart CI/CD and test orchestrator that prioritizes and reduces build time.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تعزيز الأمان",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Enhance security",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "GitHub Actions",
+      "pytest",
+      "Selenium",
+      "Docker"
+    ],
+    "bootcamp": "التحول الرقمي ITIL 4",
+    "AI_Domain": "DevOps",
+    "AI_Type": "Incident Triage",
+    "team_members": [
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T2374",
+        "skills": [
+          "واجهة المستخدم",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T8758",
+        "skills": [
+          "DevOps",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T4808",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Software Engineering"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 20,
+    "delivery_date": "2025-05-31",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "منظّم اختبارات ذكي التنبؤي",
+    "project_name_en": "Intelligent Test Orchestrator Coop",
+    "description_ar": "منظّم اختبارات وCI/CD ذكي يحدد الأولويات ويقلل زمن البناء.",
+    "description_en": "Smart CI/CD and test orchestrator that prioritizes and reduces build time.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "رفع الكفاءة",
+        "تحسين الدقة"
+      ],
+      "en": [
+        "Reduce errors",
+        "Increase efficiency",
+        "Improve accuracy"
+      ]
+    },
+    "tools": [
+      "Python",
+      "GitHub Actions",
+      "pytest",
+      "Selenium",
+      "Docker"
+    ],
+    "bootcamp": "التحول الرقمي ITIL 4",
+    "AI_Domain": "DevOps",
+    "AI_Type": "Test Prioritization",
+    "team_members": [
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T9938",
+        "skills": [
+          "هندسة برمجيات",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T4862",
+        "skills": [
+          "أمن سيبراني",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T8913",
+        "skills": [
+          "DevOps",
+          "DevOps"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 29,
+    "delivery_date": "2024-06-15",
+    "related_old_project": {
+      "name_ar": "مشروع التحول الرقمي ITIL 4 القديم",
+      "name_en": "Legacy التحول الرقمي ITIL 4 Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "منظّم اختبارات ذكي الفوري",
+    "project_name_en": "Intelligent Test Orchestrator Coop",
+    "description_ar": "منظّم اختبارات وCI/CD ذكي يحدد الأولويات ويقلل زمن البناء.",
+    "description_en": "Smart CI/CD and test orchestrator that prioritizes and reduces build time.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "تعزيز الأمان",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Reduce costs",
+        "Enhance security",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Python",
+      "GitHub Actions",
+      "pytest",
+      "Selenium",
+      "Docker"
+    ],
+    "bootcamp": "التحول الرقمي ITIL 4",
+    "AI_Domain": "DevOps",
+    "AI_Type": "CI/CD Intelligence",
+    "team_members": [
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T2862",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T9113",
+        "skills": [
+          "واجهة المستخدم",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T8982",
+        "skills": [
+          "واجهة المستخدم",
+          "DevOps"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 12,
+    "delivery_date": "2026-05-06",
+    "related_old_project": {
+      "name_ar": "مشروع التحول الرقمي ITIL 4 القديم",
+      "name_en": "Legacy التحول الرقمي ITIL 4 Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "منظّم اختبارات ذكي المتقدّم",
+    "project_name_en": "Intelligent Test Orchestrator Predict",
+    "description_ar": "منظّم اختبارات وCI/CD ذكي يحدد الأولويات ويقلل زمن البناء.",
+    "description_en": "Smart CI/CD and test orchestrator that prioritizes and reduces build time.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تقليل الأخطاء",
+        "تحسين الدقة"
+      ],
+      "en": [
+        "Improve UX",
+        "Reduce errors",
+        "Improve accuracy"
+      ]
+    },
+    "tools": [
+      "Python",
+      "GitHub Actions",
+      "pytest",
+      "Selenium",
+      "Docker"
+    ],
+    "bootcamp": "التحول الرقمي ITIL 4",
+    "AI_Domain": "DevOps",
+    "AI_Type": "Test Prioritization",
+    "team_members": [
+      {
+        "name_ar": "أمل",
+        "name_en": "Amal",
+        "id": "T3718",
+        "skills": [
+          "واجهة المستخدم",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T9572",
+        "skills": [
+          "تطوير الويب",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "أحمد",
+        "name_en": "Ahmed",
+        "id": "T7082",
+        "skills": [
+          "DevOps",
+          "IoT"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 13,
+    "delivery_date": "2025-05-29",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "منظّم اختبارات ذكي الفوري",
+    "project_name_en": "Intelligent Test Orchestrator AI",
+    "description_ar": "منظّم اختبارات وCI/CD ذكي يحدد الأولويات ويقلل زمن البناء.",
+    "description_en": "Smart CI/CD and test orchestrator that prioritizes and reduces build time.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تحسين الدقة",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Improve accuracy",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "GitHub Actions",
+      "pytest",
+      "Selenium",
+      "Docker"
+    ],
+    "bootcamp": "التحول الرقمي ITIL 4",
+    "AI_Domain": "DevOps",
+    "AI_Type": "Test Prioritization",
+    "team_members": [
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T2098",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T4074",
+        "skills": [
+          "تطوير الويب",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T9810",
+        "skills": [
+          "هندسة برمجيات",
+          "Cybersecurity"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 27,
+    "delivery_date": "2024-07-12",
+    "related_old_project": {
+      "name_ar": "مشروع التحول الرقمي ITIL 4 القديم",
+      "name_en": "Legacy التحول الرقمي ITIL 4 Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "منظّم اختبارات ذكي السحابي",
+    "project_name_en": "Intelligent Test Orchestrator RT",
+    "description_ar": "منظّم اختبارات وCI/CD ذكي يحدد الأولويات ويقلل زمن البناء.",
+    "description_en": "Smart CI/CD and test orchestrator that prioritizes and reduces build time.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تحسين التجربة",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Improve UX",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Python",
+      "GitHub Actions",
+      "pytest",
+      "Selenium",
+      "Docker"
+    ],
+    "bootcamp": "التحول الرقمي ITIL 4",
+    "AI_Domain": "DevOps",
+    "AI_Type": "CI/CD Intelligence",
+    "team_members": [
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T7982",
+        "skills": [
+          "إنترنت الأشياء",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T7017",
+        "skills": [
+          "إنترنت الأشياء",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T5173",
+        "skills": [
+          "DevOps",
+          "DevOps"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 30,
+    "delivery_date": "2025-02-18",
+    "related_old_project": {
+      "name_ar": "مشروع التحول الرقمي ITIL 4 القديم",
+      "name_en": "Legacy التحول الرقمي ITIL 4 Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "منظّم اختبارات ذكي السحابي",
+    "project_name_en": "Intelligent Test Orchestrator AI",
+    "description_ar": "منظّم اختبارات وCI/CD ذكي يحدد الأولويات ويقلل زمن البناء.",
+    "description_en": "Smart CI/CD and test orchestrator that prioritizes and reduces build time.",
+    "objectives": {
+      "ar": [
+        "تعزيز الأمان",
+        "رفع الكفاءة",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Enhance security",
+        "Increase efficiency",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "GitHub Actions",
+      "pytest",
+      "Selenium",
+      "Docker"
+    ],
+    "bootcamp": "التحول الرقمي ITIL 4",
+    "AI_Domain": "DevOps",
+    "AI_Type": "CI/CD Intelligence",
+    "team_members": [
+      {
+        "name_ar": "أمل",
+        "name_en": "Amal",
+        "id": "T6409",
+        "skills": [
+          "إنترنت الأشياء",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T5542",
+        "skills": [
+          "إنترنت الأشياء",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T4429",
+        "skills": [
+          "واجهة المستخدم",
+          "AI"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 6,
+    "delivery_date": "2025-04-19",
+    "related_old_project": {
+      "name_ar": "مشروع التحول الرقمي ITIL 4 القديم",
+      "name_en": "Legacy التحول الرقمي ITIL 4 Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  }
+]

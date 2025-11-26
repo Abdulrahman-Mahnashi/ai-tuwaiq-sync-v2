@@ -1,0 +1,666 @@
+[
+  {
+    "project_name_ar": "مُحسّن تكاليف سحابي المتقدّم",
+    "project_name_en": "Cloud Cost Optimizer Cloud",
+    "description_ar": "خدمة سحابية تُحسّن التكاليف وتراقب الاستهلاك وتدير التوسّع تلقائيًا.",
+    "description_en": "Cloud service that optimizes costs, monitors usage, and auto-scales workloads.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تعزيز الأمان",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Improve UX",
+        "Enhance security",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Cloud SDK"
+    ],
+    "bootcamp": "إدارة عمليات الحوسبة السحابية",
+    "AI_Domain": "Cloud",
+    "AI_Type": "Auto-Scaling",
+    "team_members": [
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T7771",
+        "skills": [
+          "أمن سيبراني",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T2647",
+        "skills": [
+          "واجهة المستخدم",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T3587",
+        "skills": [
+          "سحابة",
+          "Software Engineering"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 85,
+    "delivery_date": "2026-09-04",
+    "related_old_project": {
+      "name_ar": "مشروع إدارة عمليات الحوسبة السحابية القديم",
+      "name_en": "Legacy إدارة عمليات الحوسبة السحابية Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُحسّن تكاليف سحابي الذكي",
+    "project_name_en": "Cloud Cost Optimizer Predict",
+    "description_ar": "خدمة سحابية تُحسّن التكاليف وتراقب الاستهلاك وتدير التوسّع تلقائيًا.",
+    "description_en": "Cloud service that optimizes costs, monitors usage, and auto-scales workloads.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تعزيز الأمان",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Improve UX",
+        "Enhance security",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Cloud SDK"
+    ],
+    "bootcamp": "إدارة عمليات الحوسبة السحابية",
+    "AI_Domain": "Cloud",
+    "AI_Type": "Infra Monitoring",
+    "team_members": [
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T7846",
+        "skills": [
+          "واجهة المستخدم",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T7504",
+        "skills": [
+          "هندسة برمجيات",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T5742",
+        "skills": [
+          "ذكاء اصطناعي",
+          "AI"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 46,
+    "delivery_date": "2025-09-03",
+    "related_old_project": {
+      "name_ar": "مشروع إدارة عمليات الحوسبة السحابية القديم",
+      "name_en": "Legacy إدارة عمليات الحوسبة السحابية Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُحسّن تكاليف سحابي السحابي",
+    "project_name_en": "Cloud Cost Optimizer Pro",
+    "description_ar": "خدمة سحابية تُحسّن التكاليف وتراقب الاستهلاك وتدير التوسّع تلقائيًا.",
+    "description_en": "Cloud service that optimizes costs, monitors usage, and auto-scales workloads.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "تعزيز الأمان",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Reduce costs",
+        "Enhance security",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Cloud SDK"
+    ],
+    "bootcamp": "إدارة عمليات الحوسبة السحابية",
+    "AI_Domain": "Cloud",
+    "AI_Type": "Infra Monitoring",
+    "team_members": [
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T6417",
+        "skills": [
+          "واجهة المستخدم",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T5215",
+        "skills": [
+          "واجهة المستخدم",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T6523",
+        "skills": [
+          "رؤية حاسوبية",
+          "IoT"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 46,
+    "delivery_date": "2025-01-30",
+    "related_old_project": {
+      "name_ar": "مشروع إدارة عمليات الحوسبة السحابية القديم",
+      "name_en": "Legacy إدارة عمليات الحوسبة السحابية Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُحسّن تكاليف سحابي السحابي",
+    "project_name_en": "Cloud Cost Optimizer Coop",
+    "description_ar": "خدمة سحابية تُحسّن التكاليف وتراقب الاستهلاك وتدير التوسّع تلقائيًا.",
+    "description_en": "Cloud service that optimizes costs, monitors usage, and auto-scales workloads.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "تحسين التجربة",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Improve UX",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Cloud SDK"
+    ],
+    "bootcamp": "إدارة عمليات الحوسبة السحابية",
+    "AI_Domain": "Cloud",
+    "AI_Type": "Auto-Scaling",
+    "team_members": [
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T6301",
+        "skills": [
+          "تطوير الويب",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T5272",
+        "skills": [
+          "سحابة",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T8319",
+        "skills": [
+          "رؤية حاسوبية",
+          "Cybersecurity"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 64,
+    "delivery_date": "2025-09-10",
+    "related_old_project": {
+      "name_ar": "مشروع إدارة عمليات الحوسبة السحابية القديم",
+      "name_en": "Legacy إدارة عمليات الحوسبة السحابية Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُحسّن تكاليف سحابي التعاوني",
+    "project_name_en": "Cloud Cost Optimizer Cloud",
+    "description_ar": "خدمة سحابية تُحسّن التكاليف وتراقب الاستهلاك وتدير التوسّع تلقائيًا.",
+    "description_en": "Cloud service that optimizes costs, monitors usage, and auto-scales workloads.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تحسين التجربة",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Improve UX",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Cloud SDK"
+    ],
+    "bootcamp": "إدارة عمليات الحوسبة السحابية",
+    "AI_Domain": "Cloud",
+    "AI_Type": "Infra Monitoring",
+    "team_members": [
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T7642",
+        "skills": [
+          "DevOps",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T2923",
+        "skills": [
+          "رؤية حاسوبية",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T4618",
+        "skills": [
+          "تطوير الويب",
+          "UI/UX"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 8,
+    "delivery_date": "2026-09-06",
+    "related_old_project": {
+      "name_ar": "مشروع إدارة عمليات الحوسبة السحابية القديم",
+      "name_en": "Legacy إدارة عمليات الحوسبة السحابية Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُحسّن تكاليف سحابي الفوري",
+    "project_name_en": "Cloud Cost Optimizer Coop",
+    "description_ar": "خدمة سحابية تُحسّن التكاليف وتراقب الاستهلاك وتدير التوسّع تلقائيًا.",
+    "description_en": "Cloud service that optimizes costs, monitors usage, and auto-scales workloads.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "تعزيز الأمان",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Reduce errors",
+        "Enhance security",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Cloud SDK"
+    ],
+    "bootcamp": "إدارة عمليات الحوسبة السحابية",
+    "AI_Domain": "Cloud",
+    "AI_Type": "Auto-Scaling",
+    "team_members": [
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T8319",
+        "skills": [
+          "DevOps",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T2279",
+        "skills": [
+          "إنترنت الأشياء",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "أمل",
+        "name_en": "Amal",
+        "id": "T2011",
+        "skills": [
+          "DevOps",
+          "DevOps"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 57,
+    "delivery_date": "2025-02-18",
+    "related_old_project": {
+      "name_ar": "مشروع إدارة عمليات الحوسبة السحابية القديم",
+      "name_en": "Legacy إدارة عمليات الحوسبة السحابية Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُحسّن تكاليف سحابي السحابي",
+    "project_name_en": "Cloud Cost Optimizer AI",
+    "description_ar": "خدمة سحابية تُحسّن التكاليف وتراقب الاستهلاك وتدير التوسّع تلقائيًا.",
+    "description_en": "Cloud service that optimizes costs, monitors usage, and auto-scales workloads.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "رفع الكفاءة",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Increase efficiency",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Cloud SDK"
+    ],
+    "bootcamp": "إدارة عمليات الحوسبة السحابية",
+    "AI_Domain": "Cloud",
+    "AI_Type": "Infra Monitoring",
+    "team_members": [
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T9361",
+        "skills": [
+          "هندسة برمجيات",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T8429",
+        "skills": [
+          "واجهة المستخدم",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T7806",
+        "skills": [
+          "هندسة برمجيات",
+          "IoT"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 10,
+    "delivery_date": "2024-04-28",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "مُحسّن تكاليف سحابي الفوري",
+    "project_name_en": "Cloud Cost Optimizer Coop",
+    "description_ar": "خدمة سحابية تُحسّن التكاليف وتراقب الاستهلاك وتدير التوسّع تلقائيًا.",
+    "description_en": "Cloud service that optimizes costs, monitors usage, and auto-scales workloads.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تقليل التكاليف",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Improve UX",
+        "Reduce costs",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Cloud SDK"
+    ],
+    "bootcamp": "إدارة عمليات الحوسبة السحابية",
+    "AI_Domain": "Cloud",
+    "AI_Type": "Infra Monitoring",
+    "team_members": [
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T6644",
+        "skills": [
+          "تحليل البيانات",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T1987",
+        "skills": [
+          "تحليل البيانات",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T1519",
+        "skills": [
+          "رؤية حاسوبية",
+          "Cloud"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 12,
+    "delivery_date": "2025-01-03",
+    "related_old_project": {
+      "name_ar": "مشروع إدارة عمليات الحوسبة السحابية القديم",
+      "name_en": "Legacy إدارة عمليات الحوسبة السحابية Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُحسّن تكاليف سحابي التعاوني",
+    "project_name_en": "Cloud Cost Optimizer Coop",
+    "description_ar": "خدمة سحابية تُحسّن التكاليف وتراقب الاستهلاك وتدير التوسّع تلقائيًا.",
+    "description_en": "Cloud service that optimizes costs, monitors usage, and auto-scales workloads.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "تقليل الأخطاء",
+        "تحسين التجربة"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Reduce errors",
+        "Improve UX"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Cloud SDK"
+    ],
+    "bootcamp": "إدارة عمليات الحوسبة السحابية",
+    "AI_Domain": "Cloud",
+    "AI_Type": "Auto-Scaling",
+    "team_members": [
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T6697",
+        "skills": [
+          "تحليل البيانات",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T9802",
+        "skills": [
+          "سحابة",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T3086",
+        "skills": [
+          "تطوير الويب",
+          "AI"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 63,
+    "delivery_date": "2024-02-16",
+    "related_old_project": {
+      "name_ar": "مشروع إدارة عمليات الحوسبة السحابية القديم",
+      "name_en": "Legacy إدارة عمليات الحوسبة السحابية Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُحسّن تكاليف سحابي الفوري",
+    "project_name_en": "Cloud Cost Optimizer Coop",
+    "description_ar": "خدمة سحابية تُحسّن التكاليف وتراقب الاستهلاك وتدير التوسّع تلقائيًا.",
+    "description_en": "Cloud service that optimizes costs, monitors usage, and auto-scales workloads.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "تقليل التكاليف",
+        "تحسين التجربة"
+      ],
+      "en": [
+        "Reduce errors",
+        "Reduce costs",
+        "Improve UX"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Cloud SDK"
+    ],
+    "bootcamp": "إدارة عمليات الحوسبة السحابية",
+    "AI_Domain": "Cloud",
+    "AI_Type": "Cost Optimization",
+    "team_members": [
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T5516",
+        "skills": [
+          "تطوير الويب",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "أحمد",
+        "name_en": "Ahmed",
+        "id": "T1527",
+        "skills": [
+          "سحابة",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T1256",
+        "skills": [
+          "تطوير الويب",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 79,
+    "delivery_date": "2024-05-17",
+    "related_old_project": {
+      "name_ar": "مشروع إدارة عمليات الحوسبة السحابية القديم",
+      "name_en": "Legacy إدارة عمليات الحوسبة السحابية Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  }
+]

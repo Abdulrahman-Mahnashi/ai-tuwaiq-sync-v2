@@ -1,0 +1,660 @@
+[
+  {
+    "project_name_ar": "رصد تهديدات آلي التعاوني",
+    "project_name_en": "Automated Threat Detection AI",
+    "description_ar": "محرك كشف تهديدات يعتمد على أنماط السلوك وتحليل السجلات الأمنية.",
+    "description_en": "Threat detection engine based on behavioral patterns and log analytics.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تسريع الإنجاز",
+        "تحسين الدقة"
+      ],
+      "en": [
+        "Improve UX",
+        "Speed up delivery",
+        "Improve accuracy"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Sigma",
+      "YARA",
+      "Elasticsearch",
+      "Kibana"
+    ],
+    "bootcamp": "أمن الشبكات واستراتيجيات الأمن السيبراني المتقدمة",
+    "AI_Domain": "Cybersecurity",
+    "AI_Type": "Threat Detection",
+    "team_members": [
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T3653",
+        "skills": [
+          "تحليل البيانات",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T2022",
+        "skills": [
+          "سحابة",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T6450",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Computer Vision"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 47,
+    "delivery_date": "2025-06-26",
+    "related_old_project": {
+      "name_ar": "مشروع أمن الشبكات واستراتيجيات الأمن السيبراني المتقدمة القديم",
+      "name_en": "Legacy أمن الشبكات واستراتيجيات الأمن السيبراني المتقدمة Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "رصد تهديدات آلي الفوري",
+    "project_name_en": "Automated Threat Detection Pro",
+    "description_ar": "محرك كشف تهديدات يعتمد على أنماط السلوك وتحليل السجلات الأمنية.",
+    "description_en": "Threat detection engine based on behavioral patterns and log analytics.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تسريع الإنجاز",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Improve UX",
+        "Speed up delivery",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Sigma",
+      "YARA",
+      "Elasticsearch",
+      "Kibana"
+    ],
+    "bootcamp": "أمن الشبكات واستراتيجيات الأمن السيبراني المتقدمة",
+    "AI_Domain": "Cybersecurity",
+    "AI_Type": "Threat Detection",
+    "team_members": [
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T4578",
+        "skills": [
+          "إنترنت الأشياء",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T8234",
+        "skills": [
+          "رؤية حاسوبية",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T1571",
+        "skills": [
+          "تحليل البيانات",
+          "Data Analysis"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 35,
+    "delivery_date": "2025-05-28",
+    "related_old_project": {
+      "name_ar": "مشروع أمن الشبكات واستراتيجيات الأمن السيبراني المتقدمة القديم",
+      "name_en": "Legacy أمن الشبكات واستراتيجيات الأمن السيبراني المتقدمة Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "رصد تهديدات آلي المتقدّم",
+    "project_name_en": "Automated Threat Detection RT",
+    "description_ar": "محرك كشف تهديدات يعتمد على أنماط السلوك وتحليل السجلات الأمنية.",
+    "description_en": "Threat detection engine based on behavioral patterns and log analytics.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تسريع الإنجاز",
+        "تحسين الدقة"
+      ],
+      "en": [
+        "Improve UX",
+        "Speed up delivery",
+        "Improve accuracy"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Sigma",
+      "YARA",
+      "Elasticsearch",
+      "Kibana"
+    ],
+    "bootcamp": "أمن الشبكات واستراتيجيات الأمن السيبراني المتقدمة",
+    "AI_Domain": "Cybersecurity",
+    "AI_Type": "Anomaly Detection",
+    "team_members": [
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T1060",
+        "skills": [
+          "DevOps",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T8833",
+        "skills": [
+          "سحابة",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T2148",
+        "skills": [
+          "DevOps",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 20,
+    "delivery_date": "2024-01-07",
+    "related_old_project": {
+      "name_ar": "مشروع أمن الشبكات واستراتيجيات الأمن السيبراني المتقدمة القديم",
+      "name_en": "Legacy أمن الشبكات واستراتيجيات الأمن السيبراني المتقدمة Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "رصد تهديدات آلي التعاوني",
+    "project_name_en": "Automated Threat Detection RT",
+    "description_ar": "محرك كشف تهديدات يعتمد على أنماط السلوك وتحليل السجلات الأمنية.",
+    "description_en": "Threat detection engine based on behavioral patterns and log analytics.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تحسين التجربة",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Improve UX",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Sigma",
+      "YARA",
+      "Elasticsearch",
+      "Kibana"
+    ],
+    "bootcamp": "أمن الشبكات واستراتيجيات الأمن السيبراني المتقدمة",
+    "AI_Domain": "Cybersecurity",
+    "AI_Type": "Anomaly Detection",
+    "team_members": [
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T6985",
+        "skills": [
+          "DevOps",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T2318",
+        "skills": [
+          "هندسة برمجيات",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T4327",
+        "skills": [
+          "واجهة المستخدم",
+          "DevOps"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 18,
+    "delivery_date": "2024-03-21",
+    "related_old_project": {
+      "name_ar": "مشروع أمن الشبكات واستراتيجيات الأمن السيبراني المتقدمة القديم",
+      "name_en": "Legacy أمن الشبكات واستراتيجيات الأمن السيبراني المتقدمة Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "رصد تهديدات آلي التعاوني",
+    "project_name_en": "Automated Threat Detection AI",
+    "description_ar": "محرك كشف تهديدات يعتمد على أنماط السلوك وتحليل السجلات الأمنية.",
+    "description_en": "Threat detection engine based on behavioral patterns and log analytics.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تقليل الأخطاء",
+        "تحسين الدقة"
+      ],
+      "en": [
+        "Improve UX",
+        "Reduce errors",
+        "Improve accuracy"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Sigma",
+      "YARA",
+      "Elasticsearch",
+      "Kibana"
+    ],
+    "bootcamp": "أمن الشبكات واستراتيجيات الأمن السيبراني المتقدمة",
+    "AI_Domain": "Cybersecurity",
+    "AI_Type": "Anomaly Detection",
+    "team_members": [
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T4104",
+        "skills": [
+          "واجهة المستخدم",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T4163",
+        "skills": [
+          "ذكاء اصطناعي",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T4907",
+        "skills": [
+          "هندسة برمجيات",
+          "Cloud"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 59,
+    "delivery_date": "2024-05-09",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "رصد تهديدات آلي التعاوني",
+    "project_name_en": "Automated Threat Detection Predict",
+    "description_ar": "محرك كشف تهديدات يعتمد على أنماط السلوك وتحليل السجلات الأمنية.",
+    "description_en": "Threat detection engine based on behavioral patterns and log analytics.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "تسريع الإنجاز",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Reduce errors",
+        "Speed up delivery",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Sigma",
+      "YARA",
+      "Elasticsearch",
+      "Kibana"
+    ],
+    "bootcamp": "أمن الشبكات واستراتيجيات الأمن السيبراني المتقدمة",
+    "AI_Domain": "Cybersecurity",
+    "AI_Type": "Rule Mining",
+    "team_members": [
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T6533",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T2936",
+        "skills": [
+          "تطوير الويب",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T8509",
+        "skills": [
+          "DevOps",
+          "UI/UX"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 78,
+    "delivery_date": "2025-04-22",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "رصد تهديدات آلي المتقدّم",
+    "project_name_en": "Automated Threat Detection Coop",
+    "description_ar": "محرك كشف تهديدات يعتمد على أنماط السلوك وتحليل السجلات الأمنية.",
+    "description_en": "Threat detection engine based on behavioral patterns and log analytics.",
+    "objectives": {
+      "ar": [
+        "تعزيز الأمان",
+        "رفع الكفاءة",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Enhance security",
+        "Increase efficiency",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Sigma",
+      "YARA",
+      "Elasticsearch",
+      "Kibana"
+    ],
+    "bootcamp": "أمن الشبكات واستراتيجيات الأمن السيبراني المتقدمة",
+    "AI_Domain": "Cybersecurity",
+    "AI_Type": "Threat Detection",
+    "team_members": [
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T1818",
+        "skills": [
+          "رؤية حاسوبية",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T8474",
+        "skills": [
+          "إنترنت الأشياء",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T2047",
+        "skills": [
+          "تحليل البيانات",
+          "Data Analysis"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 15,
+    "delivery_date": "2026-10-15",
+    "related_old_project": {
+      "name_ar": "مشروع أمن الشبكات واستراتيجيات الأمن السيبراني المتقدمة القديم",
+      "name_en": "Legacy أمن الشبكات واستراتيجيات الأمن السيبراني المتقدمة Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "رصد تهديدات آلي السحابي",
+    "project_name_en": "Automated Threat Detection AI",
+    "description_ar": "محرك كشف تهديدات يعتمد على أنماط السلوك وتحليل السجلات الأمنية.",
+    "description_en": "Threat detection engine based on behavioral patterns and log analytics.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "رفع الكفاءة",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Increase efficiency",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Sigma",
+      "YARA",
+      "Elasticsearch",
+      "Kibana"
+    ],
+    "bootcamp": "أمن الشبكات واستراتيجيات الأمن السيبراني المتقدمة",
+    "AI_Domain": "Cybersecurity",
+    "AI_Type": "Rule Mining",
+    "team_members": [
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T4493",
+        "skills": [
+          "ذكاء اصطناعي",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T3841",
+        "skills": [
+          "أمن سيبراني",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T2978",
+        "skills": [
+          "رؤية حاسوبية",
+          "UI/UX"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 6,
+    "delivery_date": "2026-04-30",
+    "related_old_project": {
+      "name_ar": "مشروع أمن الشبكات واستراتيجيات الأمن السيبراني المتقدمة القديم",
+      "name_en": "Legacy أمن الشبكات واستراتيجيات الأمن السيبراني المتقدمة Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "رصد تهديدات آلي التعاوني",
+    "project_name_en": "Automated Threat Detection Predict",
+    "description_ar": "محرك كشف تهديدات يعتمد على أنماط السلوك وتحليل السجلات الأمنية.",
+    "description_en": "Threat detection engine based on behavioral patterns and log analytics.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "رفع الكفاءة",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Reduce costs",
+        "Increase efficiency",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Sigma",
+      "YARA",
+      "Elasticsearch",
+      "Kibana"
+    ],
+    "bootcamp": "أمن الشبكات واستراتيجيات الأمن السيبراني المتقدمة",
+    "AI_Domain": "Cybersecurity",
+    "AI_Type": "Threat Detection",
+    "team_members": [
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T8978",
+        "skills": [
+          "تحليل البيانات",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T1118",
+        "skills": [
+          "واجهة المستخدم",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T5648",
+        "skills": [
+          "سحابة",
+          "Software Engineering"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 31,
+    "delivery_date": "2024-09-16",
+    "related_old_project": {
+      "name_ar": "مشروع أمن الشبكات واستراتيجيات الأمن السيبراني المتقدمة القديم",
+      "name_en": "Legacy أمن الشبكات واستراتيجيات الأمن السيبراني المتقدمة Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "رصد تهديدات آلي الذكي",
+    "project_name_en": "Automated Threat Detection Coop",
+    "description_ar": "محرك كشف تهديدات يعتمد على أنماط السلوك وتحليل السجلات الأمنية.",
+    "description_en": "Threat detection engine based on behavioral patterns and log analytics.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "تعزيز الأمان",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Reduce costs",
+        "Enhance security",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Sigma",
+      "YARA",
+      "Elasticsearch",
+      "Kibana"
+    ],
+    "bootcamp": "أمن الشبكات واستراتيجيات الأمن السيبراني المتقدمة",
+    "AI_Domain": "Cybersecurity",
+    "AI_Type": "Threat Detection",
+    "team_members": [
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T2442",
+        "skills": [
+          "رؤية حاسوبية",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T7861",
+        "skills": [
+          "ذكاء اصطناعي",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T4860",
+        "skills": [
+          "تطوير الويب",
+          "Data Analysis"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 76,
+    "delivery_date": "2026-12-21",
+    "related_old_project": {
+      "name_ar": "مشروع أمن الشبكات واستراتيجيات الأمن السيبراني المتقدمة القديم",
+      "name_en": "Legacy أمن الشبكات واستراتيجيات الأمن السيبراني المتقدمة Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  }
+]

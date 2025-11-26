@@ -1,0 +1,654 @@
+[
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي التنبؤي",
+    "project_name_en": "Interactive Content Recommender AI",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تعزيز الأمان",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Improve UX",
+        "Enhance security",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": "بناء تطبيقات ومواقع الويب باستخدام JavaScript",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "Recommendation Systems",
+    "team_members": [
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T7241",
+        "skills": [
+          "رؤية حاسوبية",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T7076",
+        "skills": [
+          "واجهة المستخدم",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "أمل",
+        "name_en": "Amal",
+        "id": "T1673",
+        "skills": [
+          "إنترنت الأشياء",
+          "UI/UX"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 55,
+    "delivery_date": "2025-06-17",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي السحابي",
+    "project_name_en": "Interactive Content Recommender RT",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تعزيز الأمان",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Improve UX",
+        "Enhance security",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": "بناء تطبيقات ومواقع الويب باستخدام JavaScript",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "Recommendation Systems",
+    "team_members": [
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T6132",
+        "skills": [
+          "ذكاء اصطناعي",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T9179",
+        "skills": [
+          "رؤية حاسوبية",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T8046",
+        "skills": [
+          "رؤية حاسوبية",
+          "Computer Vision"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 69,
+    "delivery_date": "2025-06-24",
+    "related_old_project": {
+      "name_ar": "مشروع بناء تطبيقات ومواقع الويب باستخدام JavaScript القديم",
+      "name_en": "Legacy بناء تطبيقات ومواقع الويب باستخدام JavaScript Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي التنبؤي",
+    "project_name_en": "Interactive Content Recommender RT",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "تقليل التكاليف",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Reduce costs",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": "بناء تطبيقات ومواقع الويب باستخدام JavaScript",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "Personalization",
+    "team_members": [
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T3435",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T4000",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T5263",
+        "skills": [
+          "واجهة المستخدم",
+          "Software Engineering"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 10,
+    "delivery_date": "2026-06-12",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي الفوري",
+    "project_name_en": "Interactive Content Recommender Pro",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تعزيز الأمان",
+        "تسريع الإنجاز",
+        "تحسين التجربة"
+      ],
+      "en": [
+        "Enhance security",
+        "Speed up delivery",
+        "Improve UX"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": "بناء تطبيقات ومواقع الويب باستخدام JavaScript",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "Recommendation Systems",
+    "team_members": [
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T3025",
+        "skills": [
+          "أمن سيبراني",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T4337",
+        "skills": [
+          "رؤية حاسوبية",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T3757",
+        "skills": [
+          "DevOps",
+          "Computer Vision"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 55,
+    "delivery_date": "2025-03-10",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي المتقدّم",
+    "project_name_en": "Interactive Content Recommender Cloud",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "تسريع الإنجاز",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Reduce costs",
+        "Speed up delivery",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": "بناء تطبيقات ومواقع الويب باستخدام JavaScript",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "Personalization",
+    "team_members": [
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T2998",
+        "skills": [
+          "سحابة",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T2737",
+        "skills": [
+          "أمن سيبراني",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T1473",
+        "skills": [
+          "تحليل البيانات",
+          "Software Engineering"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 33,
+    "delivery_date": "2026-09-09",
+    "related_old_project": {
+      "name_ar": "مشروع بناء تطبيقات ومواقع الويب باستخدام JavaScript القديم",
+      "name_en": "Legacy بناء تطبيقات ومواقع الويب باستخدام JavaScript Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي التعاوني",
+    "project_name_en": "Interactive Content Recommender Predict",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تعزيز الأمان",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Improve UX",
+        "Enhance security",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": "بناء تطبيقات ومواقع الويب باستخدام JavaScript",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "A/B Testing",
+    "team_members": [
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T4463",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T6294",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T9964",
+        "skills": [
+          "إنترنت الأشياء",
+          "Cloud"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 94,
+    "delivery_date": "2024-07-08",
+    "related_old_project": {
+      "name_ar": "مشروع بناء تطبيقات ومواقع الويب باستخدام JavaScript القديم",
+      "name_en": "Legacy بناء تطبيقات ومواقع الويب باستخدام JavaScript Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي التنبؤي",
+    "project_name_en": "Interactive Content Recommender AI",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "تسريع الإنجاز",
+        "تحسين التجربة"
+      ],
+      "en": [
+        "Reduce costs",
+        "Speed up delivery",
+        "Improve UX"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": "بناء تطبيقات ومواقع الويب باستخدام JavaScript",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "A/B Testing",
+    "team_members": [
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T5891",
+        "skills": [
+          "هندسة برمجيات",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T6080",
+        "skills": [
+          "إنترنت الأشياء",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T6882",
+        "skills": [
+          "تحليل البيانات",
+          "Cybersecurity"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 12,
+    "delivery_date": "2026-11-15",
+    "related_old_project": {
+      "name_ar": "مشروع بناء تطبيقات ومواقع الويب باستخدام JavaScript القديم",
+      "name_en": "Legacy بناء تطبيقات ومواقع الويب باستخدام JavaScript Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي الفوري",
+    "project_name_en": "Interactive Content Recommender RT",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تسريع الإنجاز",
+        "تحسين الدقة"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Speed up delivery",
+        "Improve accuracy"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": "بناء تطبيقات ومواقع الويب باستخدام JavaScript",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "Recommendation Systems",
+    "team_members": [
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T7979",
+        "skills": [
+          "تحليل البيانات",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T9410",
+        "skills": [
+          "أمن سيبراني",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T4673",
+        "skills": [
+          "واجهة المستخدم",
+          "Software Engineering"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 70,
+    "delivery_date": "2026-12-15",
+    "related_old_project": {
+      "name_ar": "مشروع بناء تطبيقات ومواقع الويب باستخدام JavaScript القديم",
+      "name_en": "Legacy بناء تطبيقات ومواقع الويب باستخدام JavaScript Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي التعاوني",
+    "project_name_en": "Interactive Content Recommender Cloud",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "تسريع الإنجاز",
+        "تحسين الدقة"
+      ],
+      "en": [
+        "Reduce errors",
+        "Speed up delivery",
+        "Improve accuracy"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": "بناء تطبيقات ومواقع الويب باستخدام JavaScript",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "Personalization",
+    "team_members": [
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T5073",
+        "skills": [
+          "DevOps",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T5841",
+        "skills": [
+          "إنترنت الأشياء",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T2253",
+        "skills": [
+          "ذكاء اصطناعي",
+          "DevOps"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 9,
+    "delivery_date": "2024-08-08",
+    "related_old_project": {
+      "name_ar": "مشروع بناء تطبيقات ومواقع الويب باستخدام JavaScript القديم",
+      "name_en": "Legacy بناء تطبيقات ومواقع الويب باستخدام JavaScript Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي الفوري",
+    "project_name_en": "Interactive Content Recommender RT",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تقليل الأخطاء",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Reduce errors",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": "بناء تطبيقات ومواقع الويب باستخدام JavaScript",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "Personalization",
+    "team_members": [
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T2866",
+        "skills": [
+          "هندسة برمجيات",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "أمل",
+        "name_en": "Amal",
+        "id": "T3985",
+        "skills": [
+          "سحابة",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T2364",
+        "skills": [
+          "سحابة",
+          "Computer Vision"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 14,
+    "delivery_date": "2025-10-04",
+    "related_old_project": {
+      "name_ar": "مشروع بناء تطبيقات ومواقع الويب باستخدام JavaScript القديم",
+      "name_en": "Legacy بناء تطبيقات ومواقع الويب باستخدام JavaScript Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  }
+]

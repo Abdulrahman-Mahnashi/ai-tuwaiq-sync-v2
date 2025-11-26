@@ -1,0 +1,638 @@
+[
+  {
+    "project_name_ar": "محاكيات كمّية تعليمية التعاوني",
+    "project_name_en": "Educational Quantum Simulators RT",
+    "description_ar": "مجموعة أدوات تعليمية لمحاكاة دوائر كمّية وتطبيقات QML.",
+    "description_en": "Educational toolkits for simulating quantum circuits and QML use cases.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "رفع الكفاءة",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Reduce costs",
+        "Increase efficiency",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Qiskit",
+      "Python",
+      "NumPy",
+      "Matplotlib"
+    ],
+    "bootcamp": "علم المعلومات و الحوسبة الكمية",
+    "AI_Domain": "Quantum",
+    "AI_Type": "Quantum ML",
+    "team_members": [
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T7816",
+        "skills": [
+          "إنترنت الأشياء",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T8178",
+        "skills": [
+          "واجهة المستخدم",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T7221",
+        "skills": [
+          "أمن سيبراني",
+          "IoT"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 93,
+    "delivery_date": "2024-02-29",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "محاكيات كمّية تعليمية الفوري",
+    "project_name_en": "Educational Quantum Simulators RT",
+    "description_ar": "مجموعة أدوات تعليمية لمحاكاة دوائر كمّية وتطبيقات QML.",
+    "description_en": "Educational toolkits for simulating quantum circuits and QML use cases.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تحسين التجربة",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Improve UX",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Qiskit",
+      "Python",
+      "NumPy",
+      "Matplotlib"
+    ],
+    "bootcamp": "علم المعلومات و الحوسبة الكمية",
+    "AI_Domain": "Quantum",
+    "AI_Type": "Quantum Simulation",
+    "team_members": [
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T6542",
+        "skills": [
+          "DevOps",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "أمل",
+        "name_en": "Amal",
+        "id": "T2560",
+        "skills": [
+          "سحابة",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T8895",
+        "skills": [
+          "أمن سيبراني",
+          "Cloud"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 13,
+    "delivery_date": "2024-10-31",
+    "related_old_project": {
+      "name_ar": "مشروع علم المعلومات و الحوسبة الكمية القديم",
+      "name_en": "Legacy علم المعلومات و الحوسبة الكمية Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "محاكيات كمّية تعليمية المتقدّم",
+    "project_name_en": "Educational Quantum Simulators Coop",
+    "description_ar": "مجموعة أدوات تعليمية لمحاكاة دوائر كمّية وتطبيقات QML.",
+    "description_en": "Educational toolkits for simulating quantum circuits and QML use cases.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "تسريع الإنجاز",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Reduce errors",
+        "Speed up delivery",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Qiskit",
+      "Python",
+      "NumPy",
+      "Matplotlib"
+    ],
+    "bootcamp": "علم المعلومات و الحوسبة الكمية",
+    "AI_Domain": "Quantum",
+    "AI_Type": "Quantum Simulation",
+    "team_members": [
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T4946",
+        "skills": [
+          "أمن سيبراني",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T1824",
+        "skills": [
+          "DevOps",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T7203",
+        "skills": [
+          "سحابة",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 16,
+    "delivery_date": "2024-06-10",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "محاكيات كمّية تعليمية الفوري",
+    "project_name_en": "Educational Quantum Simulators Cloud",
+    "description_ar": "مجموعة أدوات تعليمية لمحاكاة دوائر كمّية وتطبيقات QML.",
+    "description_en": "Educational toolkits for simulating quantum circuits and QML use cases.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "تحسين الدقة",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Improve accuracy",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Qiskit",
+      "Python",
+      "NumPy",
+      "Matplotlib"
+    ],
+    "bootcamp": "علم المعلومات و الحوسبة الكمية",
+    "AI_Domain": "Quantum",
+    "AI_Type": "Quantum ML",
+    "team_members": [
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T7609",
+        "skills": [
+          "سحابة",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T9996",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T5990",
+        "skills": [
+          "DevOps",
+          "DevOps"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 21,
+    "delivery_date": "2025-02-27",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "محاكيات كمّية تعليمية التنبؤي",
+    "project_name_en": "Educational Quantum Simulators Predict",
+    "description_ar": "مجموعة أدوات تعليمية لمحاكاة دوائر كمّية وتطبيقات QML.",
+    "description_en": "Educational toolkits for simulating quantum circuits and QML use cases.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تعزيز الأمان",
+        "تحسين التجربة"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Enhance security",
+        "Improve UX"
+      ]
+    },
+    "tools": [
+      "Qiskit",
+      "Python",
+      "NumPy",
+      "Matplotlib"
+    ],
+    "bootcamp": "علم المعلومات و الحوسبة الكمية",
+    "AI_Domain": "Quantum",
+    "AI_Type": "Quantum ML",
+    "team_members": [
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T8414",
+        "skills": [
+          "تحليل البيانات",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T4633",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "أحمد",
+        "name_en": "Ahmed",
+        "id": "T6818",
+        "skills": [
+          "رؤية حاسوبية",
+          "DevOps"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 7,
+    "delivery_date": "2026-12-05",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "محاكيات كمّية تعليمية التعاوني",
+    "project_name_en": "Educational Quantum Simulators Pro",
+    "description_ar": "مجموعة أدوات تعليمية لمحاكاة دوائر كمّية وتطبيقات QML.",
+    "description_en": "Educational toolkits for simulating quantum circuits and QML use cases.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تحسين الدقة",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Improve accuracy",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Qiskit",
+      "Python",
+      "NumPy",
+      "Matplotlib"
+    ],
+    "bootcamp": "علم المعلومات و الحوسبة الكمية",
+    "AI_Domain": "Quantum",
+    "AI_Type": "Quantum ML",
+    "team_members": [
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T7437",
+        "skills": [
+          "تطوير الويب",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T4122",
+        "skills": [
+          "أمن سيبراني",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T7790",
+        "skills": [
+          "ذكاء اصطناعي",
+          "IoT"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 5,
+    "delivery_date": "2024-09-09",
+    "related_old_project": {
+      "name_ar": "مشروع علم المعلومات و الحوسبة الكمية القديم",
+      "name_en": "Legacy علم المعلومات و الحوسبة الكمية Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "محاكيات كمّية تعليمية الفوري",
+    "project_name_en": "Educational Quantum Simulators Coop",
+    "description_ar": "مجموعة أدوات تعليمية لمحاكاة دوائر كمّية وتطبيقات QML.",
+    "description_en": "Educational toolkits for simulating quantum circuits and QML use cases.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تعزيز الأمان",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Enhance security",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Qiskit",
+      "Python",
+      "NumPy",
+      "Matplotlib"
+    ],
+    "bootcamp": "علم المعلومات و الحوسبة الكمية",
+    "AI_Domain": "Quantum",
+    "AI_Type": "Quantum ML",
+    "team_members": [
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T9328",
+        "skills": [
+          "واجهة المستخدم",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T3845",
+        "skills": [
+          "واجهة المستخدم",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T7347",
+        "skills": [
+          "إنترنت الأشياء",
+          "IoT"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 74,
+    "delivery_date": "2025-10-21",
+    "related_old_project": {
+      "name_ar": "مشروع علم المعلومات و الحوسبة الكمية القديم",
+      "name_en": "Legacy علم المعلومات و الحوسبة الكمية Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "محاكيات كمّية تعليمية الفوري",
+    "project_name_en": "Educational Quantum Simulators Cloud",
+    "description_ar": "مجموعة أدوات تعليمية لمحاكاة دوائر كمّية وتطبيقات QML.",
+    "description_en": "Educational toolkits for simulating quantum circuits and QML use cases.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تسريع الإنجاز",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Speed up delivery",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Qiskit",
+      "Python",
+      "NumPy",
+      "Matplotlib"
+    ],
+    "bootcamp": "علم المعلومات و الحوسبة الكمية",
+    "AI_Domain": "Quantum",
+    "AI_Type": "Quantum ML",
+    "team_members": [
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T5897",
+        "skills": [
+          "DevOps",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T4560",
+        "skills": [
+          "تطوير الويب",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "أمل",
+        "name_en": "Amal",
+        "id": "T5760",
+        "skills": [
+          "أمن سيبراني",
+          "UI/UX"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 41,
+    "delivery_date": "2024-12-30",
+    "related_old_project": {
+      "name_ar": "مشروع علم المعلومات و الحوسبة الكمية القديم",
+      "name_en": "Legacy علم المعلومات و الحوسبة الكمية Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "محاكيات كمّية تعليمية التعاوني",
+    "project_name_en": "Educational Quantum Simulators Pro",
+    "description_ar": "مجموعة أدوات تعليمية لمحاكاة دوائر كمّية وتطبيقات QML.",
+    "description_en": "Educational toolkits for simulating quantum circuits and QML use cases.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تقليل الأخطاء",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Improve UX",
+        "Reduce errors",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Qiskit",
+      "Python",
+      "NumPy",
+      "Matplotlib"
+    ],
+    "bootcamp": "علم المعلومات و الحوسبة الكمية",
+    "AI_Domain": "Quantum",
+    "AI_Type": "Quantum ML",
+    "team_members": [
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T9564",
+        "skills": [
+          "تحليل البيانات",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T7240",
+        "skills": [
+          "واجهة المستخدم",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T1927",
+        "skills": [
+          "تطوير الويب",
+          "Computer Vision"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 81,
+    "delivery_date": "2024-11-25",
+    "related_old_project": {
+      "name_ar": "مشروع علم المعلومات و الحوسبة الكمية القديم",
+      "name_en": "Legacy علم المعلومات و الحوسبة الكمية Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "محاكيات كمّية تعليمية التعاوني",
+    "project_name_en": "Educational Quantum Simulators Predict",
+    "description_ar": "مجموعة أدوات تعليمية لمحاكاة دوائر كمّية وتطبيقات QML.",
+    "description_en": "Educational toolkits for simulating quantum circuits and QML use cases.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "تعزيز الأمان",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Reduce costs",
+        "Enhance security",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Qiskit",
+      "Python",
+      "NumPy",
+      "Matplotlib"
+    ],
+    "bootcamp": "علم المعلومات و الحوسبة الكمية",
+    "AI_Domain": "Quantum",
+    "AI_Type": "Quantum ML",
+    "team_members": [
+      {
+        "name_ar": "أحمد",
+        "name_en": "Ahmed",
+        "id": "T4675",
+        "skills": [
+          "DevOps",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T4892",
+        "skills": [
+          "DevOps",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T1769",
+        "skills": [
+          "سحابة",
+          "Cloud"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 1,
+    "delivery_date": "2026-05-03",
+    "related_old_project": {
+      "name_ar": "مشروع علم المعلومات و الحوسبة الكمية القديم",
+      "name_en": "Legacy علم المعلومات و الحوسبة الكمية Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  }
+]

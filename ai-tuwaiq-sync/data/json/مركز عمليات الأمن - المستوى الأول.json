@@ -1,0 +1,654 @@
+[
+  {
+    "project_name_ar": "تحليلات تنبؤية ذكية التعاوني",
+    "project_name_en": "Intelligent Predictive Analytics Coop",
+    "description_ar": "منصة تحليلات تنبؤية لتوقّع الاتجاهات واتخاذ قرارات مبنية على البيانات.",
+    "description_en": "Predictive analytics platform to forecast trends and drive data-informed decisions.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تقليل التكاليف",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Reduce costs",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "XGBoost",
+      "FastAPI"
+    ],
+    "bootcamp": "مركز عمليات الأمن - المستوى الأول",
+    "AI_Domain": "Data Science",
+    "AI_Type": "Clustering",
+    "team_members": [
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T1869",
+        "skills": [
+          "هندسة برمجيات",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T2091",
+        "skills": [
+          "سحابة",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T6901",
+        "skills": [
+          "تحليل البيانات",
+          "AI"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 12,
+    "delivery_date": "2025-08-22",
+    "related_old_project": {
+      "name_ar": "مشروع مركز عمليات الأمن - المستوى الأول القديم",
+      "name_en": "Legacy مركز عمليات الأمن - المستوى الأول Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "تحليلات تنبؤية ذكية الفوري",
+    "project_name_en": "Intelligent Predictive Analytics AI",
+    "description_ar": "منصة تحليلات تنبؤية لتوقّع الاتجاهات واتخاذ قرارات مبنية على البيانات.",
+    "description_en": "Predictive analytics platform to forecast trends and drive data-informed decisions.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تحسين الدقة",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Improve accuracy",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "XGBoost",
+      "FastAPI"
+    ],
+    "bootcamp": "مركز عمليات الأمن - المستوى الأول",
+    "AI_Domain": "Data Science",
+    "AI_Type": "Clustering",
+    "team_members": [
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T4054",
+        "skills": [
+          "تطوير الويب",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T8503",
+        "skills": [
+          "DevOps",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T1651",
+        "skills": [
+          "تطوير الويب",
+          "DevOps"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 75,
+    "delivery_date": "2025-09-16",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "تحليلات تنبؤية ذكية الفوري",
+    "project_name_en": "Intelligent Predictive Analytics RT",
+    "description_ar": "منصة تحليلات تنبؤية لتوقّع الاتجاهات واتخاذ قرارات مبنية على البيانات.",
+    "description_en": "Predictive analytics platform to forecast trends and drive data-informed decisions.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تحسين التجربة",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Improve UX",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "XGBoost",
+      "FastAPI"
+    ],
+    "bootcamp": "مركز عمليات الأمن - المستوى الأول",
+    "AI_Domain": "Data Science",
+    "AI_Type": "Time Series Forecasting",
+    "team_members": [
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T2015",
+        "skills": [
+          "رؤية حاسوبية",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "أمل",
+        "name_en": "Amal",
+        "id": "T1482",
+        "skills": [
+          "DevOps",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T4695",
+        "skills": [
+          "واجهة المستخدم",
+          "Cybersecurity"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 30,
+    "delivery_date": "2026-03-15",
+    "related_old_project": {
+      "name_ar": "مشروع مركز عمليات الأمن - المستوى الأول القديم",
+      "name_en": "Legacy مركز عمليات الأمن - المستوى الأول Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "تحليلات تنبؤية ذكية الذكي",
+    "project_name_en": "Intelligent Predictive Analytics Pro",
+    "description_ar": "منصة تحليلات تنبؤية لتوقّع الاتجاهات واتخاذ قرارات مبنية على البيانات.",
+    "description_en": "Predictive analytics platform to forecast trends and drive data-informed decisions.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "تقليل التكاليف",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Reduce costs",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "XGBoost",
+      "FastAPI"
+    ],
+    "bootcamp": "مركز عمليات الأمن - المستوى الأول",
+    "AI_Domain": "Data Science",
+    "AI_Type": "Clustering",
+    "team_members": [
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T6395",
+        "skills": [
+          "هندسة برمجيات",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T3158",
+        "skills": [
+          "تطوير الويب",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T9869",
+        "skills": [
+          "تطوير الويب",
+          "UI/UX"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 58,
+    "delivery_date": "2025-09-24",
+    "related_old_project": {
+      "name_ar": "مشروع مركز عمليات الأمن - المستوى الأول القديم",
+      "name_en": "Legacy مركز عمليات الأمن - المستوى الأول Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "تحليلات تنبؤية ذكية التعاوني",
+    "project_name_en": "Intelligent Predictive Analytics Cloud",
+    "description_ar": "منصة تحليلات تنبؤية لتوقّع الاتجاهات واتخاذ قرارات مبنية على البيانات.",
+    "description_en": "Predictive analytics platform to forecast trends and drive data-informed decisions.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "تقليل التكاليف",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Reduce errors",
+        "Reduce costs",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "XGBoost",
+      "FastAPI"
+    ],
+    "bootcamp": "مركز عمليات الأمن - المستوى الأول",
+    "AI_Domain": "Data Science",
+    "AI_Type": "Clustering",
+    "team_members": [
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T9732",
+        "skills": [
+          "تحليل البيانات",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T6203",
+        "skills": [
+          "واجهة المستخدم",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T6221",
+        "skills": [
+          "سحابة",
+          "Cloud"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 13,
+    "delivery_date": "2025-09-13",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "تحليلات تنبؤية ذكية التعاوني",
+    "project_name_en": "Intelligent Predictive Analytics Coop",
+    "description_ar": "منصة تحليلات تنبؤية لتوقّع الاتجاهات واتخاذ قرارات مبنية على البيانات.",
+    "description_en": "Predictive analytics platform to forecast trends and drive data-informed decisions.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تقليل التكاليف",
+        "تحسين التجربة"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Reduce costs",
+        "Improve UX"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "XGBoost",
+      "FastAPI"
+    ],
+    "bootcamp": "مركز عمليات الأمن - المستوى الأول",
+    "AI_Domain": "Data Science",
+    "AI_Type": "Time Series Forecasting",
+    "team_members": [
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T4804",
+        "skills": [
+          "تطوير الويب",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T6886",
+        "skills": [
+          "تحليل البيانات",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T3196",
+        "skills": [
+          "DevOps",
+          "IoT"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 45,
+    "delivery_date": "2026-08-18",
+    "related_old_project": {
+      "name_ar": "مشروع مركز عمليات الأمن - المستوى الأول القديم",
+      "name_en": "Legacy مركز عمليات الأمن - المستوى الأول Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "تحليلات تنبؤية ذكية التعاوني",
+    "project_name_en": "Intelligent Predictive Analytics Predict",
+    "description_ar": "منصة تحليلات تنبؤية لتوقّع الاتجاهات واتخاذ قرارات مبنية على البيانات.",
+    "description_en": "Predictive analytics platform to forecast trends and drive data-informed decisions.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "تقليل الأخطاء",
+        "تحسين التجربة"
+      ],
+      "en": [
+        "Reduce costs",
+        "Reduce errors",
+        "Improve UX"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "XGBoost",
+      "FastAPI"
+    ],
+    "bootcamp": "مركز عمليات الأمن - المستوى الأول",
+    "AI_Domain": "Data Science",
+    "AI_Type": "Clustering",
+    "team_members": [
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T5421",
+        "skills": [
+          "سحابة",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T4323",
+        "skills": [
+          "تطوير الويب",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T3901",
+        "skills": [
+          "هندسة برمجيات",
+          "IoT"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 12,
+    "delivery_date": "2026-09-30",
+    "related_old_project": {
+      "name_ar": "مشروع مركز عمليات الأمن - المستوى الأول القديم",
+      "name_en": "Legacy مركز عمليات الأمن - المستوى الأول Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "تحليلات تنبؤية ذكية التنبؤي",
+    "project_name_en": "Intelligent Predictive Analytics RT",
+    "description_ar": "منصة تحليلات تنبؤية لتوقّع الاتجاهات واتخاذ قرارات مبنية على البيانات.",
+    "description_en": "Predictive analytics platform to forecast trends and drive data-informed decisions.",
+    "objectives": {
+      "ar": [
+        "تعزيز الأمان",
+        "تحسين التجربة",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Enhance security",
+        "Improve UX",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "XGBoost",
+      "FastAPI"
+    ],
+    "bootcamp": "مركز عمليات الأمن - المستوى الأول",
+    "AI_Domain": "Data Science",
+    "AI_Type": "Clustering",
+    "team_members": [
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T9605",
+        "skills": [
+          "ذكاء اصطناعي",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T2791",
+        "skills": [
+          "هندسة برمجيات",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T1694",
+        "skills": [
+          "تطوير الويب",
+          "DevOps"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 13,
+    "delivery_date": "2026-03-21",
+    "related_old_project": {
+      "name_ar": "مشروع مركز عمليات الأمن - المستوى الأول القديم",
+      "name_en": "Legacy مركز عمليات الأمن - المستوى الأول Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "تحليلات تنبؤية ذكية المتقدّم",
+    "project_name_en": "Intelligent Predictive Analytics Cloud",
+    "description_ar": "منصة تحليلات تنبؤية لتوقّع الاتجاهات واتخاذ قرارات مبنية على البيانات.",
+    "description_en": "Predictive analytics platform to forecast trends and drive data-informed decisions.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تقليل التكاليف",
+        "تحسين الدقة"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Reduce costs",
+        "Improve accuracy"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "XGBoost",
+      "FastAPI"
+    ],
+    "bootcamp": "مركز عمليات الأمن - المستوى الأول",
+    "AI_Domain": "Data Science",
+    "AI_Type": "Clustering",
+    "team_members": [
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T5684",
+        "skills": [
+          "هندسة برمجيات",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T7921",
+        "skills": [
+          "رؤية حاسوبية",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T1893",
+        "skills": [
+          "DevOps",
+          "UI/UX"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 76,
+    "delivery_date": "2026-08-07",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "تحليلات تنبؤية ذكية الفوري",
+    "project_name_en": "Intelligent Predictive Analytics Pro",
+    "description_ar": "منصة تحليلات تنبؤية لتوقّع الاتجاهات واتخاذ قرارات مبنية على البيانات.",
+    "description_en": "Predictive analytics platform to forecast trends and drive data-informed decisions.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "تقليل الأخطاء",
+        "تحسين الدقة"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Reduce errors",
+        "Improve accuracy"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "XGBoost",
+      "FastAPI"
+    ],
+    "bootcamp": "مركز عمليات الأمن - المستوى الأول",
+    "AI_Domain": "Data Science",
+    "AI_Type": "Clustering",
+    "team_members": [
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T8433",
+        "skills": [
+          "إنترنت الأشياء",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T8449",
+        "skills": [
+          "تحليل البيانات",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T6309",
+        "skills": [
+          "واجهة المستخدم",
+          "Data Analysis"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 74,
+    "delivery_date": "2024-07-05",
+    "related_old_project": {
+      "name_ar": "مشروع مركز عمليات الأمن - المستوى الأول القديم",
+      "name_en": "Legacy مركز عمليات الأمن - المستوى الأول Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  }
+]

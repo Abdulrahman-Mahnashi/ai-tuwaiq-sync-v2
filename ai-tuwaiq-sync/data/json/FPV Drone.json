@@ -1,0 +1,666 @@
+[
+  {
+    "project_name_ar": "مُخطِّط مسارات الدرون المتقدّم",
+    "project_name_en": "Smart Drone Path Pro",
+    "description_ar": "نظام يعتمد على الذكاء الاصطناعي لتخطيط مسارات الروبوت/الدرون مع تقليل استهلاك الطاقة وتحسين الأمان.",
+    "description_en": "AI system for robot/drone path planning, minimizing energy usage and improving safety.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "تحسين التجربة",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Improve UX",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Python",
+      "ROS",
+      "OpenCV",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "bootcamp": "FPV Drone",
+    "AI_Domain": "Robotics",
+    "AI_Type": "Path Planning",
+    "team_members": [
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T6559",
+        "skills": [
+          "تحليل البيانات",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T4139",
+        "skills": [
+          "تطوير الويب",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T8350",
+        "skills": [
+          "واجهة المستخدم",
+          "Cloud"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 65,
+    "delivery_date": "2025-01-10",
+    "related_old_project": {
+      "name_ar": "مشروع FPV Drone القديم",
+      "name_en": "Legacy FPV Drone Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُخطِّط مسارات الدرون الفوري",
+    "project_name_en": "Smart Drone Path AI",
+    "description_ar": "نظام يعتمد على الذكاء الاصطناعي لتخطيط مسارات الروبوت/الدرون مع تقليل استهلاك الطاقة وتحسين الأمان.",
+    "description_en": "AI system for robot/drone path planning, minimizing energy usage and improving safety.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "تعزيز الأمان",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Reduce errors",
+        "Enhance security",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Python",
+      "ROS",
+      "OpenCV",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "bootcamp": "FPV Drone",
+    "AI_Domain": "Robotics",
+    "AI_Type": "SLAM",
+    "team_members": [
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T2528",
+        "skills": [
+          "تطوير الويب",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T7658",
+        "skills": [
+          "هندسة برمجيات",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T4502",
+        "skills": [
+          "سحابة",
+          "AI"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 14,
+    "delivery_date": "2024-12-03",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "مُخطِّط مسارات الدرون المتقدّم",
+    "project_name_en": "Smart Drone Path RT",
+    "description_ar": "نظام يعتمد على الذكاء الاصطناعي لتخطيط مسارات الروبوت/الدرون مع تقليل استهلاك الطاقة وتحسين الأمان.",
+    "description_en": "AI system for robot/drone path planning, minimizing energy usage and improving safety.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "تقليل الأخطاء",
+        "تحسين الدقة"
+      ],
+      "en": [
+        "Reduce costs",
+        "Reduce errors",
+        "Improve accuracy"
+      ]
+    },
+    "tools": [
+      "Python",
+      "ROS",
+      "OpenCV",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "bootcamp": "FPV Drone",
+    "AI_Domain": "Robotics",
+    "AI_Type": "SLAM",
+    "team_members": [
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T1998",
+        "skills": [
+          "أمن سيبراني",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T1821",
+        "skills": [
+          "إنترنت الأشياء",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T9238",
+        "skills": [
+          "DevOps",
+          "UI/UX"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 68,
+    "delivery_date": "2024-04-26",
+    "related_old_project": {
+      "name_ar": "مشروع FPV Drone القديم",
+      "name_en": "Legacy FPV Drone Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُخطِّط مسارات الدرون المتقدّم",
+    "project_name_en": "Smart Drone Path AI",
+    "description_ar": "نظام يعتمد على الذكاء الاصطناعي لتخطيط مسارات الروبوت/الدرون مع تقليل استهلاك الطاقة وتحسين الأمان.",
+    "description_en": "AI system for robot/drone path planning, minimizing energy usage and improving safety.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "رفع الكفاءة",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Increase efficiency",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "ROS",
+      "OpenCV",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "bootcamp": "FPV Drone",
+    "AI_Domain": "Robotics",
+    "AI_Type": "Autonomous Control",
+    "team_members": [
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T2343",
+        "skills": [
+          "سحابة",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T9565",
+        "skills": [
+          "أمن سيبراني",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T4346",
+        "skills": [
+          "أمن سيبراني",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 19,
+    "delivery_date": "2025-06-27",
+    "related_old_project": {
+      "name_ar": "مشروع FPV Drone القديم",
+      "name_en": "Legacy FPV Drone Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُخطِّط مسارات الدرون الذكي",
+    "project_name_en": "Smart Drone Path Coop",
+    "description_ar": "نظام يعتمد على الذكاء الاصطناعي لتخطيط مسارات الروبوت/الدرون مع تقليل استهلاك الطاقة وتحسين الأمان.",
+    "description_en": "AI system for robot/drone path planning, minimizing energy usage and improving safety.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تسريع الإنجاز",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Speed up delivery",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "ROS",
+      "OpenCV",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "bootcamp": "FPV Drone",
+    "AI_Domain": "Robotics",
+    "AI_Type": "SLAM",
+    "team_members": [
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T9808",
+        "skills": [
+          "تطوير الويب",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T5345",
+        "skills": [
+          "واجهة المستخدم",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T2127",
+        "skills": [
+          "تطوير الويب",
+          "Cybersecurity"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 48,
+    "delivery_date": "2025-08-06",
+    "related_old_project": {
+      "name_ar": "مشروع FPV Drone القديم",
+      "name_en": "Legacy FPV Drone Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُخطِّط مسارات الدرون الفوري",
+    "project_name_en": "Smart Drone Path Cloud",
+    "description_ar": "نظام يعتمد على الذكاء الاصطناعي لتخطيط مسارات الروبوت/الدرون مع تقليل استهلاك الطاقة وتحسين الأمان.",
+    "description_en": "AI system for robot/drone path planning, minimizing energy usage and improving safety.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تعزيز الأمان",
+        "تحسين الدقة"
+      ],
+      "en": [
+        "Improve UX",
+        "Enhance security",
+        "Improve accuracy"
+      ]
+    },
+    "tools": [
+      "Python",
+      "ROS",
+      "OpenCV",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "bootcamp": "FPV Drone",
+    "AI_Domain": "Robotics",
+    "AI_Type": "Path Planning",
+    "team_members": [
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T2891",
+        "skills": [
+          "تحليل البيانات",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T3546",
+        "skills": [
+          "رؤية حاسوبية",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T4450",
+        "skills": [
+          "أمن سيبراني",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 48,
+    "delivery_date": "2025-06-24",
+    "related_old_project": {
+      "name_ar": "مشروع FPV Drone القديم",
+      "name_en": "Legacy FPV Drone Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُخطِّط مسارات الدرون الفوري",
+    "project_name_en": "Smart Drone Path Predict",
+    "description_ar": "نظام يعتمد على الذكاء الاصطناعي لتخطيط مسارات الروبوت/الدرون مع تقليل استهلاك الطاقة وتحسين الأمان.",
+    "description_en": "AI system for robot/drone path planning, minimizing energy usage and improving safety.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تقليل الأخطاء",
+        "تحسين الدقة"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Reduce errors",
+        "Improve accuracy"
+      ]
+    },
+    "tools": [
+      "Python",
+      "ROS",
+      "OpenCV",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "bootcamp": "FPV Drone",
+    "AI_Domain": "Robotics",
+    "AI_Type": "Autonomous Control",
+    "team_members": [
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T8239",
+        "skills": [
+          "DevOps",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T1158",
+        "skills": [
+          "تحليل البيانات",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T3442",
+        "skills": [
+          "DevOps",
+          "AI"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 2,
+    "delivery_date": "2026-01-26",
+    "related_old_project": {
+      "name_ar": "مشروع FPV Drone القديم",
+      "name_en": "Legacy FPV Drone Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُخطِّط مسارات الدرون السحابي",
+    "project_name_en": "Smart Drone Path AI",
+    "description_ar": "نظام يعتمد على الذكاء الاصطناعي لتخطيط مسارات الروبوت/الدرون مع تقليل استهلاك الطاقة وتحسين الأمان.",
+    "description_en": "AI system for robot/drone path planning, minimizing energy usage and improving safety.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "رفع الكفاءة",
+        "تحسين الدقة"
+      ],
+      "en": [
+        "Reduce errors",
+        "Increase efficiency",
+        "Improve accuracy"
+      ]
+    },
+    "tools": [
+      "Python",
+      "ROS",
+      "OpenCV",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "bootcamp": "FPV Drone",
+    "AI_Domain": "Robotics",
+    "AI_Type": "Autonomous Control",
+    "team_members": [
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T6794",
+        "skills": [
+          "DevOps",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T3532",
+        "skills": [
+          "تطوير الويب",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T3900",
+        "skills": [
+          "سحابة",
+          "AI"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 26,
+    "delivery_date": "2025-01-02",
+    "related_old_project": {
+      "name_ar": "مشروع FPV Drone القديم",
+      "name_en": "Legacy FPV Drone Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُخطِّط مسارات الدرون التنبؤي",
+    "project_name_en": "Smart Drone Path RT",
+    "description_ar": "نظام يعتمد على الذكاء الاصطناعي لتخطيط مسارات الروبوت/الدرون مع تقليل استهلاك الطاقة وتحسين الأمان.",
+    "description_en": "AI system for robot/drone path planning, minimizing energy usage and improving safety.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "رفع الكفاءة",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Increase efficiency",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Python",
+      "ROS",
+      "OpenCV",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "bootcamp": "FPV Drone",
+    "AI_Domain": "Robotics",
+    "AI_Type": "Autonomous Control",
+    "team_members": [
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T6728",
+        "skills": [
+          "رؤية حاسوبية",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T4652",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T7528",
+        "skills": [
+          "أمن سيبراني",
+          "Computer Vision"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 41,
+    "delivery_date": "2024-05-22",
+    "related_old_project": {
+      "name_ar": "مشروع FPV Drone القديم",
+      "name_en": "Legacy FPV Drone Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُخطِّط مسارات الدرون التنبؤي",
+    "project_name_en": "Smart Drone Path Coop",
+    "description_ar": "نظام يعتمد على الذكاء الاصطناعي لتخطيط مسارات الروبوت/الدرون مع تقليل استهلاك الطاقة وتحسين الأمان.",
+    "description_en": "AI system for robot/drone path planning, minimizing energy usage and improving safety.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تقليل الأخطاء",
+        "تحسين الدقة"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Reduce errors",
+        "Improve accuracy"
+      ]
+    },
+    "tools": [
+      "Python",
+      "ROS",
+      "OpenCV",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "bootcamp": "FPV Drone",
+    "AI_Domain": "Robotics",
+    "AI_Type": "SLAM",
+    "team_members": [
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T1626",
+        "skills": [
+          "تحليل البيانات",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T8119",
+        "skills": [
+          "أمن سيبراني",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T8149",
+        "skills": [
+          "إنترنت الأشياء",
+          "DevOps"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 61,
+    "delivery_date": "2024-08-24",
+    "related_old_project": {
+      "name_ar": "مشروع FPV Drone القديم",
+      "name_en": "Legacy FPV Drone Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  }
+]

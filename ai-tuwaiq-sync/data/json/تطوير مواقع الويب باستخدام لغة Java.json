@@ -1,0 +1,654 @@
+[
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي التنبؤي",
+    "project_name_en": "Interactive Content Recommender RT",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تقليل الأخطاء",
+        "تحسين التجربة"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Reduce errors",
+        "Improve UX"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": "تطوير مواقع الويب باستخدام لغة Java",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "Recommendation Systems",
+    "team_members": [
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T3934",
+        "skills": [
+          "سحابة",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T6356",
+        "skills": [
+          "واجهة المستخدم",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T2578",
+        "skills": [
+          "تحليل البيانات",
+          "DevOps"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 39,
+    "delivery_date": "2026-10-05",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير مواقع الويب باستخدام لغة Java القديم",
+      "name_en": "Legacy تطوير مواقع الويب باستخدام لغة Java Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي الذكي",
+    "project_name_en": "Interactive Content Recommender Predict",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تعزيز الأمان",
+        "تحسين الدقة",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Enhance security",
+        "Improve accuracy",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": "تطوير مواقع الويب باستخدام لغة Java",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "A/B Testing",
+    "team_members": [
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T8051",
+        "skills": [
+          "تحليل البيانات",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T8374",
+        "skills": [
+          "أمن سيبراني",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T8250",
+        "skills": [
+          "هندسة برمجيات",
+          "AI"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 73,
+    "delivery_date": "2024-03-08",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير مواقع الويب باستخدام لغة Java القديم",
+      "name_en": "Legacy تطوير مواقع الويب باستخدام لغة Java Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي السحابي",
+    "project_name_en": "Interactive Content Recommender Coop",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تحسين التجربة",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Improve UX",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": "تطوير مواقع الويب باستخدام لغة Java",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "Recommendation Systems",
+    "team_members": [
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T9837",
+        "skills": [
+          "إنترنت الأشياء",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T8797",
+        "skills": [
+          "DevOps",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T9301",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Cloud"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 31,
+    "delivery_date": "2025-06-23",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير مواقع الويب باستخدام لغة Java القديم",
+      "name_en": "Legacy تطوير مواقع الويب باستخدام لغة Java Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي السحابي",
+    "project_name_en": "Interactive Content Recommender RT",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تقليل الأخطاء",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Reduce errors",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": "تطوير مواقع الويب باستخدام لغة Java",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "A/B Testing",
+    "team_members": [
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T3100",
+        "skills": [
+          "أمن سيبراني",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T1440",
+        "skills": [
+          "أمن سيبراني",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T2594",
+        "skills": [
+          "سحابة",
+          "Cybersecurity"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 55,
+    "delivery_date": "2026-01-01",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي التنبؤي",
+    "project_name_en": "Interactive Content Recommender Pro",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تعزيز الأمان",
+        "رفع الكفاءة",
+        "تحسين التجربة"
+      ],
+      "en": [
+        "Enhance security",
+        "Increase efficiency",
+        "Improve UX"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": "تطوير مواقع الويب باستخدام لغة Java",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "A/B Testing",
+    "team_members": [
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T3781",
+        "skills": [
+          "ذكاء اصطناعي",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T6343",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T7921",
+        "skills": [
+          "إنترنت الأشياء",
+          "DevOps"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 41,
+    "delivery_date": "2026-05-12",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير مواقع الويب باستخدام لغة Java القديم",
+      "name_en": "Legacy تطوير مواقع الويب باستخدام لغة Java Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي المتقدّم",
+    "project_name_en": "Interactive Content Recommender Coop",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "تعزيز الأمان",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Enhance security",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": "تطوير مواقع الويب باستخدام لغة Java",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "A/B Testing",
+    "team_members": [
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T9001",
+        "skills": [
+          "تحليل البيانات",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T6504",
+        "skills": [
+          "هندسة برمجيات",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T6563",
+        "skills": [
+          "واجهة المستخدم",
+          "IoT"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 85,
+    "delivery_date": "2025-09-05",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير مواقع الويب باستخدام لغة Java القديم",
+      "name_en": "Legacy تطوير مواقع الويب باستخدام لغة Java Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي الفوري",
+    "project_name_en": "Interactive Content Recommender AI",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "رفع الكفاءة",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Reduce errors",
+        "Increase efficiency",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": "تطوير مواقع الويب باستخدام لغة Java",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "A/B Testing",
+    "team_members": [
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T1778",
+        "skills": [
+          "رؤية حاسوبية",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T7586",
+        "skills": [
+          "تطوير الويب",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T2506",
+        "skills": [
+          "إنترنت الأشياء",
+          "Data Analysis"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 91,
+    "delivery_date": "2025-11-20",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي المتقدّم",
+    "project_name_en": "Interactive Content Recommender Cloud",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "رفع الكفاءة",
+        "تحسين الدقة"
+      ],
+      "en": [
+        "Reduce errors",
+        "Increase efficiency",
+        "Improve accuracy"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": "تطوير مواقع الويب باستخدام لغة Java",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "A/B Testing",
+    "team_members": [
+      {
+        "name_ar": "أمل",
+        "name_en": "Amal",
+        "id": "T9846",
+        "skills": [
+          "أمن سيبراني",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T7788",
+        "skills": [
+          "سحابة",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T9443",
+        "skills": [
+          "هندسة برمجيات",
+          "DevOps"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 70,
+    "delivery_date": "2025-01-04",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير مواقع الويب باستخدام لغة Java القديم",
+      "name_en": "Legacy تطوير مواقع الويب باستخدام لغة Java Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي التعاوني",
+    "project_name_en": "Interactive Content Recommender Coop",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تقليل الأخطاء",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Improve UX",
+        "Reduce errors",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": "تطوير مواقع الويب باستخدام لغة Java",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "Recommendation Systems",
+    "team_members": [
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T1981",
+        "skills": [
+          "DevOps",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T6968",
+        "skills": [
+          "هندسة برمجيات",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T4938",
+        "skills": [
+          "واجهة المستخدم",
+          "Computer Vision"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 33,
+    "delivery_date": "2026-06-10",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير مواقع الويب باستخدام لغة Java القديم",
+      "name_en": "Legacy تطوير مواقع الويب باستخدام لغة Java Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي التنبؤي",
+    "project_name_en": "Interactive Content Recommender Pro",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تقليل الأخطاء",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Reduce errors",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": "تطوير مواقع الويب باستخدام لغة Java",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "A/B Testing",
+    "team_members": [
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T4907",
+        "skills": [
+          "تحليل البيانات",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T4144",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T6087",
+        "skills": [
+          "هندسة برمجيات",
+          "Software Engineering"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 36,
+    "delivery_date": "2026-06-12",
+    "related_old_project": null
+  }
+]

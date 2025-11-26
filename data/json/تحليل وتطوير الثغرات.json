@@ -1,0 +1,648 @@
+[
+  {
+    "project_name_ar": "رصد تهديدات آلي التنبؤي",
+    "project_name_en": "Automated Threat Detection Coop",
+    "description_ar": "محرك كشف تهديدات يعتمد على أنماط السلوك وتحليل السجلات الأمنية.",
+    "description_en": "Threat detection engine based on behavioral patterns and log analytics.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تقليل التكاليف",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Improve UX",
+        "Reduce costs",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Sigma",
+      "YARA",
+      "Elasticsearch",
+      "Kibana"
+    ],
+    "bootcamp": "تحليل وتطوير الثغرات",
+    "AI_Domain": "Cybersecurity",
+    "AI_Type": "Rule Mining",
+    "team_members": [
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T7301",
+        "skills": [
+          "أمن سيبراني",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T3527",
+        "skills": [
+          "رؤية حاسوبية",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T3200",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Data Analysis"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 61,
+    "delivery_date": "2024-02-02",
+    "related_old_project": {
+      "name_ar": "مشروع تحليل وتطوير الثغرات القديم",
+      "name_en": "Legacy تحليل وتطوير الثغرات Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "رصد تهديدات آلي التعاوني",
+    "project_name_en": "Automated Threat Detection RT",
+    "description_ar": "محرك كشف تهديدات يعتمد على أنماط السلوك وتحليل السجلات الأمنية.",
+    "description_en": "Threat detection engine based on behavioral patterns and log analytics.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "رفع الكفاءة",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Reduce costs",
+        "Increase efficiency",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Sigma",
+      "YARA",
+      "Elasticsearch",
+      "Kibana"
+    ],
+    "bootcamp": "تحليل وتطوير الثغرات",
+    "AI_Domain": "Cybersecurity",
+    "AI_Type": "Threat Detection",
+    "team_members": [
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T3945",
+        "skills": [
+          "هندسة برمجيات",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T7948",
+        "skills": [
+          "DevOps",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T7303",
+        "skills": [
+          "أمن سيبراني",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 65,
+    "delivery_date": "2025-01-15",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "رصد تهديدات آلي السحابي",
+    "project_name_en": "Automated Threat Detection Pro",
+    "description_ar": "محرك كشف تهديدات يعتمد على أنماط السلوك وتحليل السجلات الأمنية.",
+    "description_en": "Threat detection engine based on behavioral patterns and log analytics.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "تحسين التجربة",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Reduce costs",
+        "Improve UX",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Sigma",
+      "YARA",
+      "Elasticsearch",
+      "Kibana"
+    ],
+    "bootcamp": "تحليل وتطوير الثغرات",
+    "AI_Domain": "Cybersecurity",
+    "AI_Type": "Anomaly Detection",
+    "team_members": [
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T7012",
+        "skills": [
+          "ذكاء اصطناعي",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T8917",
+        "skills": [
+          "أمن سيبراني",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T8889",
+        "skills": [
+          "تحليل البيانات",
+          "UI/UX"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 73,
+    "delivery_date": "2026-12-14",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "رصد تهديدات آلي الفوري",
+    "project_name_en": "Automated Threat Detection Cloud",
+    "description_ar": "محرك كشف تهديدات يعتمد على أنماط السلوك وتحليل السجلات الأمنية.",
+    "description_en": "Threat detection engine based on behavioral patterns and log analytics.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تقليل التكاليف",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Reduce costs",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Sigma",
+      "YARA",
+      "Elasticsearch",
+      "Kibana"
+    ],
+    "bootcamp": "تحليل وتطوير الثغرات",
+    "AI_Domain": "Cybersecurity",
+    "AI_Type": "Anomaly Detection",
+    "team_members": [
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T1864",
+        "skills": [
+          "أمن سيبراني",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T1176",
+        "skills": [
+          "هندسة برمجيات",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T9399",
+        "skills": [
+          "هندسة برمجيات",
+          "IoT"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 16,
+    "delivery_date": "2025-11-09",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "رصد تهديدات آلي التنبؤي",
+    "project_name_en": "Automated Threat Detection Predict",
+    "description_ar": "محرك كشف تهديدات يعتمد على أنماط السلوك وتحليل السجلات الأمنية.",
+    "description_en": "Threat detection engine based on behavioral patterns and log analytics.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تعزيز الأمان",
+        "تحسين الدقة"
+      ],
+      "en": [
+        "Improve UX",
+        "Enhance security",
+        "Improve accuracy"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Sigma",
+      "YARA",
+      "Elasticsearch",
+      "Kibana"
+    ],
+    "bootcamp": "تحليل وتطوير الثغرات",
+    "AI_Domain": "Cybersecurity",
+    "AI_Type": "Anomaly Detection",
+    "team_members": [
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T1845",
+        "skills": [
+          "رؤية حاسوبية",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T1447",
+        "skills": [
+          "رؤية حاسوبية",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T2351",
+        "skills": [
+          "واجهة المستخدم",
+          "DevOps"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 31,
+    "delivery_date": "2024-06-06",
+    "related_old_project": {
+      "name_ar": "مشروع تحليل وتطوير الثغرات القديم",
+      "name_en": "Legacy تحليل وتطوير الثغرات Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "رصد تهديدات آلي التنبؤي",
+    "project_name_en": "Automated Threat Detection AI",
+    "description_ar": "محرك كشف تهديدات يعتمد على أنماط السلوك وتحليل السجلات الأمنية.",
+    "description_en": "Threat detection engine based on behavioral patterns and log analytics.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تحسين التجربة",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Improve UX",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Sigma",
+      "YARA",
+      "Elasticsearch",
+      "Kibana"
+    ],
+    "bootcamp": "تحليل وتطوير الثغرات",
+    "AI_Domain": "Cybersecurity",
+    "AI_Type": "Anomaly Detection",
+    "team_members": [
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T8317",
+        "skills": [
+          "أمن سيبراني",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T5280",
+        "skills": [
+          "تطوير الويب",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T3962",
+        "skills": [
+          "DevOps",
+          "AI"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 45,
+    "delivery_date": "2025-12-03",
+    "related_old_project": {
+      "name_ar": "مشروع تحليل وتطوير الثغرات القديم",
+      "name_en": "Legacy تحليل وتطوير الثغرات Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "رصد تهديدات آلي الذكي",
+    "project_name_en": "Automated Threat Detection Cloud",
+    "description_ar": "محرك كشف تهديدات يعتمد على أنماط السلوك وتحليل السجلات الأمنية.",
+    "description_en": "Threat detection engine based on behavioral patterns and log analytics.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "تقليل الأخطاء",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Reduce errors",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Sigma",
+      "YARA",
+      "Elasticsearch",
+      "Kibana"
+    ],
+    "bootcamp": "تحليل وتطوير الثغرات",
+    "AI_Domain": "Cybersecurity",
+    "AI_Type": "Threat Detection",
+    "team_members": [
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T6653",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T2900",
+        "skills": [
+          "ذكاء اصطناعي",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T8602",
+        "skills": [
+          "سحابة",
+          "Software Engineering"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 15,
+    "delivery_date": "2025-09-09",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "رصد تهديدات آلي التعاوني",
+    "project_name_en": "Automated Threat Detection Cloud",
+    "description_ar": "محرك كشف تهديدات يعتمد على أنماط السلوك وتحليل السجلات الأمنية.",
+    "description_en": "Threat detection engine based on behavioral patterns and log analytics.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "تحسين الدقة",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Improve accuracy",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Sigma",
+      "YARA",
+      "Elasticsearch",
+      "Kibana"
+    ],
+    "bootcamp": "تحليل وتطوير الثغرات",
+    "AI_Domain": "Cybersecurity",
+    "AI_Type": "Anomaly Detection",
+    "team_members": [
+      {
+        "name_ar": "أمل",
+        "name_en": "Amal",
+        "id": "T5731",
+        "skills": [
+          "هندسة برمجيات",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T6172",
+        "skills": [
+          "DevOps",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T2595",
+        "skills": [
+          "DevOps",
+          "Cybersecurity"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 12,
+    "delivery_date": "2026-06-03",
+    "related_old_project": {
+      "name_ar": "مشروع تحليل وتطوير الثغرات القديم",
+      "name_en": "Legacy تحليل وتطوير الثغرات Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "رصد تهديدات آلي التعاوني",
+    "project_name_en": "Automated Threat Detection Predict",
+    "description_ar": "محرك كشف تهديدات يعتمد على أنماط السلوك وتحليل السجلات الأمنية.",
+    "description_en": "Threat detection engine based on behavioral patterns and log analytics.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تحسين التجربة",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Improve UX",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Sigma",
+      "YARA",
+      "Elasticsearch",
+      "Kibana"
+    ],
+    "bootcamp": "تحليل وتطوير الثغرات",
+    "AI_Domain": "Cybersecurity",
+    "AI_Type": "Rule Mining",
+    "team_members": [
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T4193",
+        "skills": [
+          "DevOps",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T3947",
+        "skills": [
+          "أمن سيبراني",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T1173",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Data Analysis"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 44,
+    "delivery_date": "2024-01-25",
+    "related_old_project": {
+      "name_ar": "مشروع تحليل وتطوير الثغرات القديم",
+      "name_en": "Legacy تحليل وتطوير الثغرات Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "رصد تهديدات آلي المتقدّم",
+    "project_name_en": "Automated Threat Detection Cloud",
+    "description_ar": "محرك كشف تهديدات يعتمد على أنماط السلوك وتحليل السجلات الأمنية.",
+    "description_en": "Threat detection engine based on behavioral patterns and log analytics.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تقليل التكاليف",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Reduce costs",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Sigma",
+      "YARA",
+      "Elasticsearch",
+      "Kibana"
+    ],
+    "bootcamp": "تحليل وتطوير الثغرات",
+    "AI_Domain": "Cybersecurity",
+    "AI_Type": "Anomaly Detection",
+    "team_members": [
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T4552",
+        "skills": [
+          "إنترنت الأشياء",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T2965",
+        "skills": [
+          "تحليل البيانات",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T3128",
+        "skills": [
+          "سحابة",
+          "IoT"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 14,
+    "delivery_date": "2025-01-13",
+    "related_old_project": {
+      "name_ar": "مشروع تحليل وتطوير الثغرات القديم",
+      "name_en": "Legacy تحليل وتطوير الثغرات Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  }
+]

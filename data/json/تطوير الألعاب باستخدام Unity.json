@@ -1,0 +1,672 @@
+[
+  {
+    "project_name_ar": "فحص بصري تنبؤي السحابي",
+    "project_name_en": "Predictive Visual Inspection Coop",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "رفع الكفاءة",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Reduce costs",
+        "Increase efficiency",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "تطوير الألعاب باستخدام Unity",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Pose Estimation",
+    "team_members": [
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T8020",
+        "skills": [
+          "تطوير الويب",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T2300",
+        "skills": [
+          "ذكاء اصطناعي",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T7136",
+        "skills": [
+          "هندسة برمجيات",
+          "Computer Vision"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 39,
+    "delivery_date": "2025-02-17",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير الألعاب باستخدام Unity القديم",
+      "name_en": "Legacy تطوير الألعاب باستخدام Unity Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي الفوري",
+    "project_name_en": "Predictive Visual Inspection AI",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تحسين الدقة",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Improve UX",
+        "Improve accuracy",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "تطوير الألعاب باستخدام Unity",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Object Detection",
+    "team_members": [
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T9533",
+        "skills": [
+          "سحابة",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T1388",
+        "skills": [
+          "تطوير الويب",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T6615",
+        "skills": [
+          "تطوير الويب",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 14,
+    "delivery_date": "2024-04-20",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير الألعاب باستخدام Unity القديم",
+      "name_en": "Legacy تطوير الألعاب باستخدام Unity Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي الذكي",
+    "project_name_en": "Predictive Visual Inspection Coop",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تعزيز الأمان",
+        "تحسين الدقة",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Enhance security",
+        "Improve accuracy",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "تطوير الألعاب باستخدام Unity",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Anomaly Detection",
+    "team_members": [
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T9055",
+        "skills": [
+          "تحليل البيانات",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T1853",
+        "skills": [
+          "واجهة المستخدم",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T3057",
+        "skills": [
+          "تحليل البيانات",
+          "UI/UX"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 38,
+    "delivery_date": "2025-02-22",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير الألعاب باستخدام Unity القديم",
+      "name_en": "Legacy تطوير الألعاب باستخدام Unity Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي السحابي",
+    "project_name_en": "Predictive Visual Inspection Pro",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "تسريع الإنجاز",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Reduce costs",
+        "Speed up delivery",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "تطوير الألعاب باستخدام Unity",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Object Detection",
+    "team_members": [
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T5675",
+        "skills": [
+          "إنترنت الأشياء",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T4299",
+        "skills": [
+          "رؤية حاسوبية",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T2310",
+        "skills": [
+          "أمن سيبراني",
+          "Cloud"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 69,
+    "delivery_date": "2026-02-12",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير الألعاب باستخدام Unity القديم",
+      "name_en": "Legacy تطوير الألعاب باستخدام Unity Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي الفوري",
+    "project_name_en": "Predictive Visual Inspection RT",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "تقليل التكاليف",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Reduce errors",
+        "Reduce costs",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "تطوير الألعاب باستخدام Unity",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Object Detection",
+    "team_members": [
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T2363",
+        "skills": [
+          "رؤية حاسوبية",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T9801",
+        "skills": [
+          "واجهة المستخدم",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T3878",
+        "skills": [
+          "رؤية حاسوبية",
+          "Cloud"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 74,
+    "delivery_date": "2026-08-07",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير الألعاب باستخدام Unity القديم",
+      "name_en": "Legacy تطوير الألعاب باستخدام Unity Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي الفوري",
+    "project_name_en": "Predictive Visual Inspection Predict",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تقليل التكاليف",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Reduce costs",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "تطوير الألعاب باستخدام Unity",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Pose Estimation",
+    "team_members": [
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T1068",
+        "skills": [
+          "ذكاء اصطناعي",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T7131",
+        "skills": [
+          "هندسة برمجيات",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T7812",
+        "skills": [
+          "سحابة",
+          "Cybersecurity"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 81,
+    "delivery_date": "2026-02-25",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير الألعاب باستخدام Unity القديم",
+      "name_en": "Legacy تطوير الألعاب باستخدام Unity Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي التنبؤي",
+    "project_name_en": "Predictive Visual Inspection Coop",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تسريع الإنجاز",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Speed up delivery",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "تطوير الألعاب باستخدام Unity",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Pose Estimation",
+    "team_members": [
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T5182",
+        "skills": [
+          "أمن سيبراني",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T9005",
+        "skills": [
+          "أمن سيبراني",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T7313",
+        "skills": [
+          "سحابة",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 19,
+    "delivery_date": "2025-05-11",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير الألعاب باستخدام Unity القديم",
+      "name_en": "Legacy تطوير الألعاب باستخدام Unity Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي المتقدّم",
+    "project_name_en": "Predictive Visual Inspection Predict",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تعزيز الأمان",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Enhance security",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "تطوير الألعاب باستخدام Unity",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Pose Estimation",
+    "team_members": [
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T3644",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T2512",
+        "skills": [
+          "سحابة",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T2316",
+        "skills": [
+          "DevOps",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 13,
+    "delivery_date": "2026-05-16",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير الألعاب باستخدام Unity القديم",
+      "name_en": "Legacy تطوير الألعاب باستخدام Unity Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي الفوري",
+    "project_name_en": "Predictive Visual Inspection Predict",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تعزيز الأمان",
+        "تحسين الدقة",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Enhance security",
+        "Improve accuracy",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "تطوير الألعاب باستخدام Unity",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Object Detection",
+    "team_members": [
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T3338",
+        "skills": [
+          "رؤية حاسوبية",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T7520",
+        "skills": [
+          "رؤية حاسوبية",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "أحمد",
+        "name_en": "Ahmed",
+        "id": "T3759",
+        "skills": [
+          "هندسة برمجيات",
+          "AI"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 48,
+    "delivery_date": "2024-07-17",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير الألعاب باستخدام Unity القديم",
+      "name_en": "Legacy تطوير الألعاب باستخدام Unity Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي التعاوني",
+    "project_name_en": "Predictive Visual Inspection RT",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "تقليل الأخطاء",
+        "تحسين الدقة"
+      ],
+      "en": [
+        "Reduce costs",
+        "Reduce errors",
+        "Improve accuracy"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "تطوير الألعاب باستخدام Unity",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Object Detection",
+    "team_members": [
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T8970",
+        "skills": [
+          "واجهة المستخدم",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T2806",
+        "skills": [
+          "هندسة برمجيات",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T4482",
+        "skills": [
+          "واجهة المستخدم",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 63,
+    "delivery_date": "2024-04-30",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير الألعاب باستخدام Unity القديم",
+      "name_en": "Legacy تطوير الألعاب باستخدام Unity Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  }
+]

@@ -1,0 +1,642 @@
+[
+  {
+    "project_name_ar": "مُحسّن مرور الشبكات التنبؤي",
+    "project_name_en": "Network Traffic Optimizer Pro",
+    "description_ar": "حل لتحسين سريان حركة الشبكات وجودة الخدمة مع تنبيهات ذكية.",
+    "description_en": "Network traffic optimization and QoS enhancement with intelligent alerts.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "تقليل التكاليف",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Reduce costs",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Ansible",
+      "Netmiko",
+      "Prometheus",
+      "Grafana"
+    ],
+    "bootcamp": "⁠تصميم وإدارة الشبكات باستخدام تقنيات الذكاء الاصطناعي",
+    "AI_Domain": "Networking",
+    "AI_Type": "QoS Prediction",
+    "team_members": [
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T1627",
+        "skills": [
+          "DevOps",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T8699",
+        "skills": [
+          "واجهة المستخدم",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T6245",
+        "skills": [
+          "إنترنت الأشياء",
+          "AI"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 53,
+    "delivery_date": "2026-02-17",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "مُحسّن مرور الشبكات التنبؤي",
+    "project_name_en": "Network Traffic Optimizer RT",
+    "description_ar": "حل لتحسين سريان حركة الشبكات وجودة الخدمة مع تنبيهات ذكية.",
+    "description_en": "Network traffic optimization and QoS enhancement with intelligent alerts.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "تحسين التجربة",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Reduce errors",
+        "Improve UX",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Ansible",
+      "Netmiko",
+      "Prometheus",
+      "Grafana"
+    ],
+    "bootcamp": "⁠تصميم وإدارة الشبكات باستخدام تقنيات الذكاء الاصطناعي",
+    "AI_Domain": "Networking",
+    "AI_Type": "Traffic Optimization",
+    "team_members": [
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T2369",
+        "skills": [
+          "واجهة المستخدم",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T5487",
+        "skills": [
+          "سحابة",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T5887",
+        "skills": [
+          "هندسة برمجيات",
+          "Cloud"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 37,
+    "delivery_date": "2026-12-10",
+    "related_old_project": {
+      "name_ar": "مشروع ⁠تصميم وإدارة الشبكات باستخدام تقنيات الذكاء الاصطناعي القديم",
+      "name_en": "Legacy ⁠تصميم وإدارة الشبكات باستخدام تقنيات الذكاء الاصطناعي Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُحسّن مرور الشبكات التعاوني",
+    "project_name_en": "Network Traffic Optimizer Predict",
+    "description_ar": "حل لتحسين سريان حركة الشبكات وجودة الخدمة مع تنبيهات ذكية.",
+    "description_en": "Network traffic optimization and QoS enhancement with intelligent alerts.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تقليل الأخطاء",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Reduce errors",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Ansible",
+      "Netmiko",
+      "Prometheus",
+      "Grafana"
+    ],
+    "bootcamp": "⁠تصميم وإدارة الشبكات باستخدام تقنيات الذكاء الاصطناعي",
+    "AI_Domain": "Networking",
+    "AI_Type": "Traffic Optimization",
+    "team_members": [
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T8890",
+        "skills": [
+          "هندسة برمجيات",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "أحمد",
+        "name_en": "Ahmed",
+        "id": "T3632",
+        "skills": [
+          "سحابة",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T7375",
+        "skills": [
+          "ذكاء اصطناعي",
+          "DevOps"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 1,
+    "delivery_date": "2025-02-10",
+    "related_old_project": {
+      "name_ar": "مشروع ⁠تصميم وإدارة الشبكات باستخدام تقنيات الذكاء الاصطناعي القديم",
+      "name_en": "Legacy ⁠تصميم وإدارة الشبكات باستخدام تقنيات الذكاء الاصطناعي Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُحسّن مرور الشبكات التعاوني",
+    "project_name_en": "Network Traffic Optimizer Coop",
+    "description_ar": "حل لتحسين سريان حركة الشبكات وجودة الخدمة مع تنبيهات ذكية.",
+    "description_en": "Network traffic optimization and QoS enhancement with intelligent alerts.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تقليل التكاليف",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Reduce costs",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Ansible",
+      "Netmiko",
+      "Prometheus",
+      "Grafana"
+    ],
+    "bootcamp": "⁠تصميم وإدارة الشبكات باستخدام تقنيات الذكاء الاصطناعي",
+    "AI_Domain": "Networking",
+    "AI_Type": "Traffic Optimization",
+    "team_members": [
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T2861",
+        "skills": [
+          "سحابة",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T9531",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T3059",
+        "skills": [
+          "هندسة برمجيات",
+          "IoT"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 88,
+    "delivery_date": "2024-07-18",
+    "related_old_project": {
+      "name_ar": "مشروع ⁠تصميم وإدارة الشبكات باستخدام تقنيات الذكاء الاصطناعي القديم",
+      "name_en": "Legacy ⁠تصميم وإدارة الشبكات باستخدام تقنيات الذكاء الاصطناعي Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُحسّن مرور الشبكات الذكي",
+    "project_name_en": "Network Traffic Optimizer Coop",
+    "description_ar": "حل لتحسين سريان حركة الشبكات وجودة الخدمة مع تنبيهات ذكية.",
+    "description_en": "Network traffic optimization and QoS enhancement with intelligent alerts.",
+    "objectives": {
+      "ar": [
+        "تعزيز الأمان",
+        "تسريع الإنجاز",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Enhance security",
+        "Speed up delivery",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Ansible",
+      "Netmiko",
+      "Prometheus",
+      "Grafana"
+    ],
+    "bootcamp": "⁠تصميم وإدارة الشبكات باستخدام تقنيات الذكاء الاصطناعي",
+    "AI_Domain": "Networking",
+    "AI_Type": "Traffic Optimization",
+    "team_members": [
+      {
+        "name_ar": "أحمد",
+        "name_en": "Ahmed",
+        "id": "T1235",
+        "skills": [
+          "أمن سيبراني",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T1265",
+        "skills": [
+          "رؤية حاسوبية",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T9226",
+        "skills": [
+          "تحليل البيانات",
+          "Software Engineering"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 13,
+    "delivery_date": "2026-07-22",
+    "related_old_project": {
+      "name_ar": "مشروع ⁠تصميم وإدارة الشبكات باستخدام تقنيات الذكاء الاصطناعي القديم",
+      "name_en": "Legacy ⁠تصميم وإدارة الشبكات باستخدام تقنيات الذكاء الاصطناعي Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُحسّن مرور الشبكات الفوري",
+    "project_name_en": "Network Traffic Optimizer Predict",
+    "description_ar": "حل لتحسين سريان حركة الشبكات وجودة الخدمة مع تنبيهات ذكية.",
+    "description_en": "Network traffic optimization and QoS enhancement with intelligent alerts.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تقليل التكاليف",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Reduce costs",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Ansible",
+      "Netmiko",
+      "Prometheus",
+      "Grafana"
+    ],
+    "bootcamp": "⁠تصميم وإدارة الشبكات باستخدام تقنيات الذكاء الاصطناعي",
+    "AI_Domain": "Networking",
+    "AI_Type": "QoS Prediction",
+    "team_members": [
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T3664",
+        "skills": [
+          "DevOps",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "أحمد",
+        "name_en": "Ahmed",
+        "id": "T7251",
+        "skills": [
+          "رؤية حاسوبية",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T5640",
+        "skills": [
+          "إنترنت الأشياء",
+          "Data Analysis"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 79,
+    "delivery_date": "2024-06-28",
+    "related_old_project": {
+      "name_ar": "مشروع ⁠تصميم وإدارة الشبكات باستخدام تقنيات الذكاء الاصطناعي القديم",
+      "name_en": "Legacy ⁠تصميم وإدارة الشبكات باستخدام تقنيات الذكاء الاصطناعي Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُحسّن مرور الشبكات المتقدّم",
+    "project_name_en": "Network Traffic Optimizer Coop",
+    "description_ar": "حل لتحسين سريان حركة الشبكات وجودة الخدمة مع تنبيهات ذكية.",
+    "description_en": "Network traffic optimization and QoS enhancement with intelligent alerts.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تسريع الإنجاز",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Speed up delivery",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Ansible",
+      "Netmiko",
+      "Prometheus",
+      "Grafana"
+    ],
+    "bootcamp": "⁠تصميم وإدارة الشبكات باستخدام تقنيات الذكاء الاصطناعي",
+    "AI_Domain": "Networking",
+    "AI_Type": "Traffic Optimization",
+    "team_members": [
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T9247",
+        "skills": [
+          "إنترنت الأشياء",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T5749",
+        "skills": [
+          "سحابة",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T4651",
+        "skills": [
+          "هندسة برمجيات",
+          "DevOps"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 19,
+    "delivery_date": "2026-02-19",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "مُحسّن مرور الشبكات الذكي",
+    "project_name_en": "Network Traffic Optimizer RT",
+    "description_ar": "حل لتحسين سريان حركة الشبكات وجودة الخدمة مع تنبيهات ذكية.",
+    "description_en": "Network traffic optimization and QoS enhancement with intelligent alerts.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "تقليل الأخطاء",
+        "تحسين التجربة"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Reduce errors",
+        "Improve UX"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Ansible",
+      "Netmiko",
+      "Prometheus",
+      "Grafana"
+    ],
+    "bootcamp": "⁠تصميم وإدارة الشبكات باستخدام تقنيات الذكاء الاصطناعي",
+    "AI_Domain": "Networking",
+    "AI_Type": "Traffic Optimization",
+    "team_members": [
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T9315",
+        "skills": [
+          "رؤية حاسوبية",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "أحمد",
+        "name_en": "Ahmed",
+        "id": "T5333",
+        "skills": [
+          "رؤية حاسوبية",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T4957",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Cloud"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 11,
+    "delivery_date": "2024-03-07",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "مُحسّن مرور الشبكات المتقدّم",
+    "project_name_en": "Network Traffic Optimizer AI",
+    "description_ar": "حل لتحسين سريان حركة الشبكات وجودة الخدمة مع تنبيهات ذكية.",
+    "description_en": "Network traffic optimization and QoS enhancement with intelligent alerts.",
+    "objectives": {
+      "ar": [
+        "تعزيز الأمان",
+        "تحسين الدقة",
+        "تحسين التجربة"
+      ],
+      "en": [
+        "Enhance security",
+        "Improve accuracy",
+        "Improve UX"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Ansible",
+      "Netmiko",
+      "Prometheus",
+      "Grafana"
+    ],
+    "bootcamp": "⁠تصميم وإدارة الشبكات باستخدام تقنيات الذكاء الاصطناعي",
+    "AI_Domain": "Networking",
+    "AI_Type": "Traffic Optimization",
+    "team_members": [
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T4962",
+        "skills": [
+          "DevOps",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T4156",
+        "skills": [
+          "إنترنت الأشياء",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T1845",
+        "skills": [
+          "إنترنت الأشياء",
+          "Cloud"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 76,
+    "delivery_date": "2024-09-20",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "مُحسّن مرور الشبكات الفوري",
+    "project_name_en": "Network Traffic Optimizer Coop",
+    "description_ar": "حل لتحسين سريان حركة الشبكات وجودة الخدمة مع تنبيهات ذكية.",
+    "description_en": "Network traffic optimization and QoS enhancement with intelligent alerts.",
+    "objectives": {
+      "ar": [
+        "تعزيز الأمان",
+        "تقليل التكاليف",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Enhance security",
+        "Reduce costs",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Ansible",
+      "Netmiko",
+      "Prometheus",
+      "Grafana"
+    ],
+    "bootcamp": "⁠تصميم وإدارة الشبكات باستخدام تقنيات الذكاء الاصطناعي",
+    "AI_Domain": "Networking",
+    "AI_Type": "Auto-Remediation",
+    "team_members": [
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T9261",
+        "skills": [
+          "تحليل البيانات",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T7422",
+        "skills": [
+          "رؤية حاسوبية",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T3605",
+        "skills": [
+          "أمن سيبراني",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 12,
+    "delivery_date": "2024-07-09",
+    "related_old_project": null
+  }
+]

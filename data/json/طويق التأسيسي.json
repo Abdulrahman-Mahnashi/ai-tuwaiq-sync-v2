@@ -1,0 +1,654 @@
+[
+  {
+    "project_name_ar": "تحليلات تنبؤية ذكية التنبؤي",
+    "project_name_en": "Intelligent Predictive Analytics RT",
+    "description_ar": "منصة تحليلات تنبؤية لتوقّع الاتجاهات واتخاذ قرارات مبنية على البيانات.",
+    "description_en": "Predictive analytics platform to forecast trends and drive data-informed decisions.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تعزيز الأمان",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Enhance security",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "XGBoost",
+      "FastAPI"
+    ],
+    "bootcamp": "طويق التأسيسي",
+    "AI_Domain": "Data Science",
+    "AI_Type": "Predictive Modeling",
+    "team_members": [
+      {
+        "name_ar": "أمل",
+        "name_en": "Amal",
+        "id": "T5328",
+        "skills": [
+          "DevOps",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T6589",
+        "skills": [
+          "رؤية حاسوبية",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T9242",
+        "skills": [
+          "رؤية حاسوبية",
+          "Software Engineering"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 44,
+    "delivery_date": "2024-08-16",
+    "related_old_project": {
+      "name_ar": "مشروع طويق التأسيسي القديم",
+      "name_en": "Legacy طويق التأسيسي Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "تحليلات تنبؤية ذكية الفوري",
+    "project_name_en": "Intelligent Predictive Analytics Pro",
+    "description_ar": "منصة تحليلات تنبؤية لتوقّع الاتجاهات واتخاذ قرارات مبنية على البيانات.",
+    "description_en": "Predictive analytics platform to forecast trends and drive data-informed decisions.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "رفع الكفاءة",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Reduce costs",
+        "Increase efficiency",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "XGBoost",
+      "FastAPI"
+    ],
+    "bootcamp": "طويق التأسيسي",
+    "AI_Domain": "Data Science",
+    "AI_Type": "Predictive Modeling",
+    "team_members": [
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T6610",
+        "skills": [
+          "DevOps",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T4171",
+        "skills": [
+          "تحليل البيانات",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T4493",
+        "skills": [
+          "رؤية حاسوبية",
+          "DevOps"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 75,
+    "delivery_date": "2025-09-17",
+    "related_old_project": {
+      "name_ar": "مشروع طويق التأسيسي القديم",
+      "name_en": "Legacy طويق التأسيسي Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "تحليلات تنبؤية ذكية السحابي",
+    "project_name_en": "Intelligent Predictive Analytics RT",
+    "description_ar": "منصة تحليلات تنبؤية لتوقّع الاتجاهات واتخاذ قرارات مبنية على البيانات.",
+    "description_en": "Predictive analytics platform to forecast trends and drive data-informed decisions.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "تعزيز الأمان",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Reduce costs",
+        "Enhance security",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "XGBoost",
+      "FastAPI"
+    ],
+    "bootcamp": "طويق التأسيسي",
+    "AI_Domain": "Data Science",
+    "AI_Type": "Time Series Forecasting",
+    "team_members": [
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T7491",
+        "skills": [
+          "واجهة المستخدم",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T3574",
+        "skills": [
+          "أمن سيبراني",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T8762",
+        "skills": [
+          "إنترنت الأشياء",
+          "Cloud"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 9,
+    "delivery_date": "2025-07-05",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "تحليلات تنبؤية ذكية التنبؤي",
+    "project_name_en": "Intelligent Predictive Analytics RT",
+    "description_ar": "منصة تحليلات تنبؤية لتوقّع الاتجاهات واتخاذ قرارات مبنية على البيانات.",
+    "description_en": "Predictive analytics platform to forecast trends and drive data-informed decisions.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تحسين الدقة",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Improve UX",
+        "Improve accuracy",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "XGBoost",
+      "FastAPI"
+    ],
+    "bootcamp": "طويق التأسيسي",
+    "AI_Domain": "Data Science",
+    "AI_Type": "Predictive Modeling",
+    "team_members": [
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T7447",
+        "skills": [
+          "سحابة",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T7620",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T6793",
+        "skills": [
+          "واجهة المستخدم",
+          "Software Engineering"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 57,
+    "delivery_date": "2025-07-15",
+    "related_old_project": {
+      "name_ar": "مشروع طويق التأسيسي القديم",
+      "name_en": "Legacy طويق التأسيسي Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "تحليلات تنبؤية ذكية التعاوني",
+    "project_name_en": "Intelligent Predictive Analytics AI",
+    "description_ar": "منصة تحليلات تنبؤية لتوقّع الاتجاهات واتخاذ قرارات مبنية على البيانات.",
+    "description_en": "Predictive analytics platform to forecast trends and drive data-informed decisions.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تحسين الدقة",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Improve accuracy",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "XGBoost",
+      "FastAPI"
+    ],
+    "bootcamp": "طويق التأسيسي",
+    "AI_Domain": "Data Science",
+    "AI_Type": "Predictive Modeling",
+    "team_members": [
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T4267",
+        "skills": [
+          "تطوير الويب",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T9240",
+        "skills": [
+          "هندسة برمجيات",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T2750",
+        "skills": [
+          "تحليل البيانات",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 8,
+    "delivery_date": "2024-11-24",
+    "related_old_project": {
+      "name_ar": "مشروع طويق التأسيسي القديم",
+      "name_en": "Legacy طويق التأسيسي Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "تحليلات تنبؤية ذكية التعاوني",
+    "project_name_en": "Intelligent Predictive Analytics RT",
+    "description_ar": "منصة تحليلات تنبؤية لتوقّع الاتجاهات واتخاذ قرارات مبنية على البيانات.",
+    "description_en": "Predictive analytics platform to forecast trends and drive data-informed decisions.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "تحسين التجربة",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Reduce errors",
+        "Improve UX",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "XGBoost",
+      "FastAPI"
+    ],
+    "bootcamp": "طويق التأسيسي",
+    "AI_Domain": "Data Science",
+    "AI_Type": "Time Series Forecasting",
+    "team_members": [
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T7144",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T1919",
+        "skills": [
+          "أمن سيبراني",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T9812",
+        "skills": [
+          "أمن سيبراني",
+          "Software Engineering"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 85,
+    "delivery_date": "2025-08-05",
+    "related_old_project": {
+      "name_ar": "مشروع طويق التأسيسي القديم",
+      "name_en": "Legacy طويق التأسيسي Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "تحليلات تنبؤية ذكية الفوري",
+    "project_name_en": "Intelligent Predictive Analytics AI",
+    "description_ar": "منصة تحليلات تنبؤية لتوقّع الاتجاهات واتخاذ قرارات مبنية على البيانات.",
+    "description_en": "Predictive analytics platform to forecast trends and drive data-informed decisions.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "تقليل التكاليف",
+        "تحسين التجربة"
+      ],
+      "en": [
+        "Reduce errors",
+        "Reduce costs",
+        "Improve UX"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "XGBoost",
+      "FastAPI"
+    ],
+    "bootcamp": "طويق التأسيسي",
+    "AI_Domain": "Data Science",
+    "AI_Type": "Predictive Modeling",
+    "team_members": [
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T2441",
+        "skills": [
+          "هندسة برمجيات",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T6371",
+        "skills": [
+          "إنترنت الأشياء",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T5271",
+        "skills": [
+          "DevOps",
+          "DevOps"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 19,
+    "delivery_date": "2025-08-19",
+    "related_old_project": {
+      "name_ar": "مشروع طويق التأسيسي القديم",
+      "name_en": "Legacy طويق التأسيسي Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "تحليلات تنبؤية ذكية المتقدّم",
+    "project_name_en": "Intelligent Predictive Analytics AI",
+    "description_ar": "منصة تحليلات تنبؤية لتوقّع الاتجاهات واتخاذ قرارات مبنية على البيانات.",
+    "description_en": "Predictive analytics platform to forecast trends and drive data-informed decisions.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تسريع الإنجاز",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Speed up delivery",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "XGBoost",
+      "FastAPI"
+    ],
+    "bootcamp": "طويق التأسيسي",
+    "AI_Domain": "Data Science",
+    "AI_Type": "Clustering",
+    "team_members": [
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T4730",
+        "skills": [
+          "هندسة برمجيات",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T6456",
+        "skills": [
+          "تطوير الويب",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T5183",
+        "skills": [
+          "إنترنت الأشياء",
+          "AI"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 10,
+    "delivery_date": "2024-10-14",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "تحليلات تنبؤية ذكية التعاوني",
+    "project_name_en": "Intelligent Predictive Analytics RT",
+    "description_ar": "منصة تحليلات تنبؤية لتوقّع الاتجاهات واتخاذ قرارات مبنية على البيانات.",
+    "description_en": "Predictive analytics platform to forecast trends and drive data-informed decisions.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "رفع الكفاءة",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Reduce errors",
+        "Increase efficiency",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "XGBoost",
+      "FastAPI"
+    ],
+    "bootcamp": "طويق التأسيسي",
+    "AI_Domain": "Data Science",
+    "AI_Type": "Predictive Modeling",
+    "team_members": [
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T1265",
+        "skills": [
+          "إنترنت الأشياء",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "أمل",
+        "name_en": "Amal",
+        "id": "T1525",
+        "skills": [
+          "DevOps",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "أحمد",
+        "name_en": "Ahmed",
+        "id": "T9827",
+        "skills": [
+          "هندسة برمجيات",
+          "Computer Vision"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 60,
+    "delivery_date": "2025-11-14",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "تحليلات تنبؤية ذكية المتقدّم",
+    "project_name_en": "Intelligent Predictive Analytics Coop",
+    "description_ar": "منصة تحليلات تنبؤية لتوقّع الاتجاهات واتخاذ قرارات مبنية على البيانات.",
+    "description_en": "Predictive analytics platform to forecast trends and drive data-informed decisions.",
+    "objectives": {
+      "ar": [
+        "تعزيز الأمان",
+        "تقليل التكاليف",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Enhance security",
+        "Reduce costs",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "XGBoost",
+      "FastAPI"
+    ],
+    "bootcamp": "طويق التأسيسي",
+    "AI_Domain": "Data Science",
+    "AI_Type": "Clustering",
+    "team_members": [
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T4127",
+        "skills": [
+          "تحليل البيانات",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T5536",
+        "skills": [
+          "هندسة برمجيات",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T3493",
+        "skills": [
+          "أمن سيبراني",
+          "Data Analysis"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 18,
+    "delivery_date": "2025-01-07",
+    "related_old_project": {
+      "name_ar": "مشروع طويق التأسيسي القديم",
+      "name_en": "Legacy طويق التأسيسي Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  }
+]

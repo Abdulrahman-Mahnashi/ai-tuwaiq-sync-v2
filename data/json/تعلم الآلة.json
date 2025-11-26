@@ -1,0 +1,642 @@
+[
+  {
+    "project_name_ar": "تحليلات تنبؤية ذكية الذكي",
+    "project_name_en": "Intelligent Predictive Analytics Pro",
+    "description_ar": "منصة تحليلات تنبؤية لتوقّع الاتجاهات واتخاذ قرارات مبنية على البيانات.",
+    "description_en": "Predictive analytics platform to forecast trends and drive data-informed decisions.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "تسريع الإنجاز",
+        "تحسين الدقة"
+      ],
+      "en": [
+        "Reduce costs",
+        "Speed up delivery",
+        "Improve accuracy"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "XGBoost",
+      "FastAPI"
+    ],
+    "bootcamp": "تعلم الآلة",
+    "AI_Domain": "Data Science",
+    "AI_Type": "Predictive Modeling",
+    "team_members": [
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T2956",
+        "skills": [
+          "DevOps",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T3938",
+        "skills": [
+          "تطوير الويب",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "أحمد",
+        "name_en": "Ahmed",
+        "id": "T1752",
+        "skills": [
+          "سحابة",
+          "Data Analysis"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 93,
+    "delivery_date": "2026-08-10",
+    "related_old_project": {
+      "name_ar": "مشروع تعلم الآلة القديم",
+      "name_en": "Legacy تعلم الآلة Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "تحليلات تنبؤية ذكية التنبؤي",
+    "project_name_en": "Intelligent Predictive Analytics Predict",
+    "description_ar": "منصة تحليلات تنبؤية لتوقّع الاتجاهات واتخاذ قرارات مبنية على البيانات.",
+    "description_en": "Predictive analytics platform to forecast trends and drive data-informed decisions.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "تحسين الدقة",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Reduce costs",
+        "Improve accuracy",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "XGBoost",
+      "FastAPI"
+    ],
+    "bootcamp": "تعلم الآلة",
+    "AI_Domain": "Data Science",
+    "AI_Type": "Time Series Forecasting",
+    "team_members": [
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T7033",
+        "skills": [
+          "إنترنت الأشياء",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T4201",
+        "skills": [
+          "DevOps",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T3466",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Cloud"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 17,
+    "delivery_date": "2024-02-18",
+    "related_old_project": {
+      "name_ar": "مشروع تعلم الآلة القديم",
+      "name_en": "Legacy تعلم الآلة Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "تحليلات تنبؤية ذكية السحابي",
+    "project_name_en": "Intelligent Predictive Analytics Predict",
+    "description_ar": "منصة تحليلات تنبؤية لتوقّع الاتجاهات واتخاذ قرارات مبنية على البيانات.",
+    "description_en": "Predictive analytics platform to forecast trends and drive data-informed decisions.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تحسين التجربة",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Improve UX",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "XGBoost",
+      "FastAPI"
+    ],
+    "bootcamp": "تعلم الآلة",
+    "AI_Domain": "Data Science",
+    "AI_Type": "Predictive Modeling",
+    "team_members": [
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T9680",
+        "skills": [
+          "تطوير الويب",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T9061",
+        "skills": [
+          "ذكاء اصطناعي",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T5584",
+        "skills": [
+          "تحليل البيانات",
+          "AI"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 11,
+    "delivery_date": "2025-04-19",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "تحليلات تنبؤية ذكية الفوري",
+    "project_name_en": "Intelligent Predictive Analytics Coop",
+    "description_ar": "منصة تحليلات تنبؤية لتوقّع الاتجاهات واتخاذ قرارات مبنية على البيانات.",
+    "description_en": "Predictive analytics platform to forecast trends and drive data-informed decisions.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تعزيز الأمان",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Enhance security",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "XGBoost",
+      "FastAPI"
+    ],
+    "bootcamp": "تعلم الآلة",
+    "AI_Domain": "Data Science",
+    "AI_Type": "Clustering",
+    "team_members": [
+      {
+        "name_ar": "أمل",
+        "name_en": "Amal",
+        "id": "T2226",
+        "skills": [
+          "إنترنت الأشياء",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T2020",
+        "skills": [
+          "سحابة",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T4879",
+        "skills": [
+          "رؤية حاسوبية",
+          "Computer Vision"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 68,
+    "delivery_date": "2025-10-07",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "تحليلات تنبؤية ذكية التعاوني",
+    "project_name_en": "Intelligent Predictive Analytics Coop",
+    "description_ar": "منصة تحليلات تنبؤية لتوقّع الاتجاهات واتخاذ قرارات مبنية على البيانات.",
+    "description_en": "Predictive analytics platform to forecast trends and drive data-informed decisions.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تقليل التكاليف",
+        "تحسين التجربة"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Reduce costs",
+        "Improve UX"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "XGBoost",
+      "FastAPI"
+    ],
+    "bootcamp": "تعلم الآلة",
+    "AI_Domain": "Data Science",
+    "AI_Type": "Time Series Forecasting",
+    "team_members": [
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T2731",
+        "skills": [
+          "واجهة المستخدم",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T8635",
+        "skills": [
+          "أمن سيبراني",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T2978",
+        "skills": [
+          "DevOps",
+          "Cybersecurity"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 50,
+    "delivery_date": "2025-03-01",
+    "related_old_project": {
+      "name_ar": "مشروع تعلم الآلة القديم",
+      "name_en": "Legacy تعلم الآلة Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "تحليلات تنبؤية ذكية التنبؤي",
+    "project_name_en": "Intelligent Predictive Analytics RT",
+    "description_ar": "منصة تحليلات تنبؤية لتوقّع الاتجاهات واتخاذ قرارات مبنية على البيانات.",
+    "description_en": "Predictive analytics platform to forecast trends and drive data-informed decisions.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "تحسين التجربة",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Reduce errors",
+        "Improve UX",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "XGBoost",
+      "FastAPI"
+    ],
+    "bootcamp": "تعلم الآلة",
+    "AI_Domain": "Data Science",
+    "AI_Type": "Time Series Forecasting",
+    "team_members": [
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T3430",
+        "skills": [
+          "تحليل البيانات",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T6828",
+        "skills": [
+          "سحابة",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T1802",
+        "skills": [
+          "رؤية حاسوبية",
+          "Computer Vision"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 25,
+    "delivery_date": "2024-12-22",
+    "related_old_project": {
+      "name_ar": "مشروع تعلم الآلة القديم",
+      "name_en": "Legacy تعلم الآلة Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "تحليلات تنبؤية ذكية الفوري",
+    "project_name_en": "Intelligent Predictive Analytics RT",
+    "description_ar": "منصة تحليلات تنبؤية لتوقّع الاتجاهات واتخاذ قرارات مبنية على البيانات.",
+    "description_en": "Predictive analytics platform to forecast trends and drive data-informed decisions.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تقليل التكاليف",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Reduce costs",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "XGBoost",
+      "FastAPI"
+    ],
+    "bootcamp": "تعلم الآلة",
+    "AI_Domain": "Data Science",
+    "AI_Type": "Predictive Modeling",
+    "team_members": [
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T3141",
+        "skills": [
+          "تطوير الويب",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T7098",
+        "skills": [
+          "تحليل البيانات",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T5240",
+        "skills": [
+          "تحليل البيانات",
+          "AI"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 80,
+    "delivery_date": "2024-05-12",
+    "related_old_project": {
+      "name_ar": "مشروع تعلم الآلة القديم",
+      "name_en": "Legacy تعلم الآلة Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "تحليلات تنبؤية ذكية التعاوني",
+    "project_name_en": "Intelligent Predictive Analytics RT",
+    "description_ar": "منصة تحليلات تنبؤية لتوقّع الاتجاهات واتخاذ قرارات مبنية على البيانات.",
+    "description_en": "Predictive analytics platform to forecast trends and drive data-informed decisions.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "تحسين الدقة",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Reduce errors",
+        "Improve accuracy",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "XGBoost",
+      "FastAPI"
+    ],
+    "bootcamp": "تعلم الآلة",
+    "AI_Domain": "Data Science",
+    "AI_Type": "Predictive Modeling",
+    "team_members": [
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T3752",
+        "skills": [
+          "إنترنت الأشياء",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T7471",
+        "skills": [
+          "هندسة برمجيات",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T7270",
+        "skills": [
+          "سحابة",
+          "UI/UX"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 2,
+    "delivery_date": "2025-12-25",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "تحليلات تنبؤية ذكية الذكي",
+    "project_name_en": "Intelligent Predictive Analytics Predict",
+    "description_ar": "منصة تحليلات تنبؤية لتوقّع الاتجاهات واتخاذ قرارات مبنية على البيانات.",
+    "description_en": "Predictive analytics platform to forecast trends and drive data-informed decisions.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تعزيز الأمان",
+        "تحسين التجربة"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Enhance security",
+        "Improve UX"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "XGBoost",
+      "FastAPI"
+    ],
+    "bootcamp": "تعلم الآلة",
+    "AI_Domain": "Data Science",
+    "AI_Type": "Predictive Modeling",
+    "team_members": [
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T9173",
+        "skills": [
+          "سحابة",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T8848",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T5583",
+        "skills": [
+          "سحابة",
+          "UI/UX"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 67,
+    "delivery_date": "2026-05-08",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "تحليلات تنبؤية ذكية التعاوني",
+    "project_name_en": "Intelligent Predictive Analytics Cloud",
+    "description_ar": "منصة تحليلات تنبؤية لتوقّع الاتجاهات واتخاذ قرارات مبنية على البيانات.",
+    "description_en": "Predictive analytics platform to forecast trends and drive data-informed decisions.",
+    "objectives": {
+      "ar": [
+        "تعزيز الأمان",
+        "رفع الكفاءة",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Enhance security",
+        "Increase efficiency",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "XGBoost",
+      "FastAPI"
+    ],
+    "bootcamp": "تعلم الآلة",
+    "AI_Domain": "Data Science",
+    "AI_Type": "Predictive Modeling",
+    "team_members": [
+      {
+        "name_ar": "أحمد",
+        "name_en": "Ahmed",
+        "id": "T8940",
+        "skills": [
+          "أمن سيبراني",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T9231",
+        "skills": [
+          "أمن سيبراني",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T5430",
+        "skills": [
+          "واجهة المستخدم",
+          "AI"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 20,
+    "delivery_date": "2025-10-15",
+    "related_old_project": null
+  }
+]

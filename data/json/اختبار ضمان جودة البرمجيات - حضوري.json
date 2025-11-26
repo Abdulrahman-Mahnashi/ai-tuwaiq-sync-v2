@@ -1,0 +1,666 @@
+[
+  {
+    "project_name_ar": "مُخطِّط مسارات الدرون التعاوني",
+    "project_name_en": "Smart Drone Path Coop",
+    "description_ar": "نظام يعتمد على الذكاء الاصطناعي لتخطيط مسارات الروبوت/الدرون مع تقليل استهلاك الطاقة وتحسين الأمان.",
+    "description_en": "AI system for robot/drone path planning, minimizing energy usage and improving safety.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تعزيز الأمان",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Enhance security",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "ROS",
+      "OpenCV",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "bootcamp": "اختبار ضمان جودة البرمجيات - حضوري",
+    "AI_Domain": "Robotics",
+    "AI_Type": "Autonomous Control",
+    "team_members": [
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T2713",
+        "skills": [
+          "أمن سيبراني",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T3600",
+        "skills": [
+          "سحابة",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T6483",
+        "skills": [
+          "أمن سيبراني",
+          "Data Analysis"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 15,
+    "delivery_date": "2025-01-18",
+    "related_old_project": {
+      "name_ar": "مشروع اختبار ضمان جودة البرمجيات - حضوري القديم",
+      "name_en": "Legacy اختبار ضمان جودة البرمجيات - حضوري Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُخطِّط مسارات الدرون التنبؤي",
+    "project_name_en": "Smart Drone Path AI",
+    "description_ar": "نظام يعتمد على الذكاء الاصطناعي لتخطيط مسارات الروبوت/الدرون مع تقليل استهلاك الطاقة وتحسين الأمان.",
+    "description_en": "AI system for robot/drone path planning, minimizing energy usage and improving safety.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "تعزيز الأمان",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Enhance security",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Python",
+      "ROS",
+      "OpenCV",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "bootcamp": "اختبار ضمان جودة البرمجيات - حضوري",
+    "AI_Domain": "Robotics",
+    "AI_Type": "SLAM",
+    "team_members": [
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T7542",
+        "skills": [
+          "هندسة برمجيات",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T5138",
+        "skills": [
+          "أمن سيبراني",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T6535",
+        "skills": [
+          "هندسة برمجيات",
+          "Cloud"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 79,
+    "delivery_date": "2025-09-06",
+    "related_old_project": {
+      "name_ar": "مشروع اختبار ضمان جودة البرمجيات - حضوري القديم",
+      "name_en": "Legacy اختبار ضمان جودة البرمجيات - حضوري Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُخطِّط مسارات الدرون الذكي",
+    "project_name_en": "Smart Drone Path Cloud",
+    "description_ar": "نظام يعتمد على الذكاء الاصطناعي لتخطيط مسارات الروبوت/الدرون مع تقليل استهلاك الطاقة وتحسين الأمان.",
+    "description_en": "AI system for robot/drone path planning, minimizing energy usage and improving safety.",
+    "objectives": {
+      "ar": [
+        "تعزيز الأمان",
+        "تسريع الإنجاز",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Enhance security",
+        "Speed up delivery",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Python",
+      "ROS",
+      "OpenCV",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "bootcamp": "اختبار ضمان جودة البرمجيات - حضوري",
+    "AI_Domain": "Robotics",
+    "AI_Type": "Path Planning",
+    "team_members": [
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T3726",
+        "skills": [
+          "رؤية حاسوبية",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T9586",
+        "skills": [
+          "تطوير الويب",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "أمل",
+        "name_en": "Amal",
+        "id": "T3286",
+        "skills": [
+          "واجهة المستخدم",
+          "Cybersecurity"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 13,
+    "delivery_date": "2024-04-20",
+    "related_old_project": {
+      "name_ar": "مشروع اختبار ضمان جودة البرمجيات - حضوري القديم",
+      "name_en": "Legacy اختبار ضمان جودة البرمجيات - حضوري Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُخطِّط مسارات الدرون التنبؤي",
+    "project_name_en": "Smart Drone Path AI",
+    "description_ar": "نظام يعتمد على الذكاء الاصطناعي لتخطيط مسارات الروبوت/الدرون مع تقليل استهلاك الطاقة وتحسين الأمان.",
+    "description_en": "AI system for robot/drone path planning, minimizing energy usage and improving safety.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تحسين التجربة",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Improve UX",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "ROS",
+      "OpenCV",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "bootcamp": "اختبار ضمان جودة البرمجيات - حضوري",
+    "AI_Domain": "Robotics",
+    "AI_Type": "Path Planning",
+    "team_members": [
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T6038",
+        "skills": [
+          "تحليل البيانات",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T4869",
+        "skills": [
+          "تطوير الويب",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T2477",
+        "skills": [
+          "تطوير الويب",
+          "UI/UX"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 68,
+    "delivery_date": "2026-02-05",
+    "related_old_project": {
+      "name_ar": "مشروع اختبار ضمان جودة البرمجيات - حضوري القديم",
+      "name_en": "Legacy اختبار ضمان جودة البرمجيات - حضوري Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُخطِّط مسارات الدرون الفوري",
+    "project_name_en": "Smart Drone Path AI",
+    "description_ar": "نظام يعتمد على الذكاء الاصطناعي لتخطيط مسارات الروبوت/الدرون مع تقليل استهلاك الطاقة وتحسين الأمان.",
+    "description_en": "AI system for robot/drone path planning, minimizing energy usage and improving safety.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تقليل التكاليف",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Improve UX",
+        "Reduce costs",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "ROS",
+      "OpenCV",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "bootcamp": "اختبار ضمان جودة البرمجيات - حضوري",
+    "AI_Domain": "Robotics",
+    "AI_Type": "Path Planning",
+    "team_members": [
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T2569",
+        "skills": [
+          "سحابة",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T6215",
+        "skills": [
+          "واجهة المستخدم",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T6359",
+        "skills": [
+          "رؤية حاسوبية",
+          "Cloud"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 22,
+    "delivery_date": "2026-03-17",
+    "related_old_project": {
+      "name_ar": "مشروع اختبار ضمان جودة البرمجيات - حضوري القديم",
+      "name_en": "Legacy اختبار ضمان جودة البرمجيات - حضوري Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُخطِّط مسارات الدرون المتقدّم",
+    "project_name_en": "Smart Drone Path Predict",
+    "description_ar": "نظام يعتمد على الذكاء الاصطناعي لتخطيط مسارات الروبوت/الدرون مع تقليل استهلاك الطاقة وتحسين الأمان.",
+    "description_en": "AI system for robot/drone path planning, minimizing energy usage and improving safety.",
+    "objectives": {
+      "ar": [
+        "تعزيز الأمان",
+        "رفع الكفاءة",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Enhance security",
+        "Increase efficiency",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "ROS",
+      "OpenCV",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "bootcamp": "اختبار ضمان جودة البرمجيات - حضوري",
+    "AI_Domain": "Robotics",
+    "AI_Type": "Autonomous Control",
+    "team_members": [
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T7047",
+        "skills": [
+          "أمن سيبراني",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T9215",
+        "skills": [
+          "ذكاء اصطناعي",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T7523",
+        "skills": [
+          "تحليل البيانات",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 95,
+    "delivery_date": "2024-10-09",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "مُخطِّط مسارات الدرون الذكي",
+    "project_name_en": "Smart Drone Path Pro",
+    "description_ar": "نظام يعتمد على الذكاء الاصطناعي لتخطيط مسارات الروبوت/الدرون مع تقليل استهلاك الطاقة وتحسين الأمان.",
+    "description_en": "AI system for robot/drone path planning, minimizing energy usage and improving safety.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "تحسين التجربة",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Improve UX",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "ROS",
+      "OpenCV",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "bootcamp": "اختبار ضمان جودة البرمجيات - حضوري",
+    "AI_Domain": "Robotics",
+    "AI_Type": "SLAM",
+    "team_members": [
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T6096",
+        "skills": [
+          "سحابة",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T1570",
+        "skills": [
+          "رؤية حاسوبية",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T3941",
+        "skills": [
+          "واجهة المستخدم",
+          "Cloud"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 9,
+    "delivery_date": "2026-11-25",
+    "related_old_project": {
+      "name_ar": "مشروع اختبار ضمان جودة البرمجيات - حضوري القديم",
+      "name_en": "Legacy اختبار ضمان جودة البرمجيات - حضوري Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُخطِّط مسارات الدرون الفوري",
+    "project_name_en": "Smart Drone Path Pro",
+    "description_ar": "نظام يعتمد على الذكاء الاصطناعي لتخطيط مسارات الروبوت/الدرون مع تقليل استهلاك الطاقة وتحسين الأمان.",
+    "description_en": "AI system for robot/drone path planning, minimizing energy usage and improving safety.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "رفع الكفاءة",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Reduce errors",
+        "Increase efficiency",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "ROS",
+      "OpenCV",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "bootcamp": "اختبار ضمان جودة البرمجيات - حضوري",
+    "AI_Domain": "Robotics",
+    "AI_Type": "Path Planning",
+    "team_members": [
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T7291",
+        "skills": [
+          "هندسة برمجيات",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T8964",
+        "skills": [
+          "سحابة",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "أمل",
+        "name_en": "Amal",
+        "id": "T1893",
+        "skills": [
+          "رؤية حاسوبية",
+          "Cloud"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 22,
+    "delivery_date": "2025-06-13",
+    "related_old_project": {
+      "name_ar": "مشروع اختبار ضمان جودة البرمجيات - حضوري القديم",
+      "name_en": "Legacy اختبار ضمان جودة البرمجيات - حضوري Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُخطِّط مسارات الدرون التعاوني",
+    "project_name_en": "Smart Drone Path Pro",
+    "description_ar": "نظام يعتمد على الذكاء الاصطناعي لتخطيط مسارات الروبوت/الدرون مع تقليل استهلاك الطاقة وتحسين الأمان.",
+    "description_en": "AI system for robot/drone path planning, minimizing energy usage and improving safety.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تحسين الدقة",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Improve UX",
+        "Improve accuracy",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "ROS",
+      "OpenCV",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "bootcamp": "اختبار ضمان جودة البرمجيات - حضوري",
+    "AI_Domain": "Robotics",
+    "AI_Type": "Autonomous Control",
+    "team_members": [
+      {
+        "name_ar": "أحمد",
+        "name_en": "Ahmed",
+        "id": "T7947",
+        "skills": [
+          "DevOps",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T2310",
+        "skills": [
+          "واجهة المستخدم",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T6523",
+        "skills": [
+          "إنترنت الأشياء",
+          "Computer Vision"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 67,
+    "delivery_date": "2025-02-08",
+    "related_old_project": {
+      "name_ar": "مشروع اختبار ضمان جودة البرمجيات - حضوري القديم",
+      "name_en": "Legacy اختبار ضمان جودة البرمجيات - حضوري Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُخطِّط مسارات الدرون السحابي",
+    "project_name_en": "Smart Drone Path Coop",
+    "description_ar": "نظام يعتمد على الذكاء الاصطناعي لتخطيط مسارات الروبوت/الدرون مع تقليل استهلاك الطاقة وتحسين الأمان.",
+    "description_en": "AI system for robot/drone path planning, minimizing energy usage and improving safety.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تقليل الأخطاء",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Reduce errors",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "ROS",
+      "OpenCV",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "bootcamp": "اختبار ضمان جودة البرمجيات - حضوري",
+    "AI_Domain": "Robotics",
+    "AI_Type": "Autonomous Control",
+    "team_members": [
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T7050",
+        "skills": [
+          "رؤية حاسوبية",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "أحمد",
+        "name_en": "Ahmed",
+        "id": "T6528",
+        "skills": [
+          "رؤية حاسوبية",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T9892",
+        "skills": [
+          "رؤية حاسوبية",
+          "UI/UX"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 65,
+    "delivery_date": "2025-08-23",
+    "related_old_project": {
+      "name_ar": "مشروع اختبار ضمان جودة البرمجيات - حضوري القديم",
+      "name_en": "Legacy اختبار ضمان جودة البرمجيات - حضوري Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  }
+]

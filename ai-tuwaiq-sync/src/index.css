@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800&family=Inter:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Smart Project Orchestrator Design System */
+
+@layer base {
+  :root {
+    /* Tuwaiq-inspired deep green palette */
+    --background: 160 28% 7%;
+    --foreground: 150 18% 96%;
+
+    --card: 162 25% 12%;
+    --card-foreground: 150 18% 96%;
+
+    --popover: 162 25% 12%;
+    --popover-foreground: 150 18% 96%;
+
+    /* Emerald primary */
+    --primary: 156 78% 42%;
+    --primary-foreground: 164 90% 12%;
+
+    /* Teal secondary */
+    --secondary: 188 72% 48%;
+    --secondary-foreground: 164 90% 12%;
+
+    --muted: 163 21% 20%;
+    --muted-foreground: 157 12% 68%;
+
+    /* Golden accent inspired by desert hues */
+    --accent: 43 96% 62%;
+    --accent-foreground: 165 92% 10%;
+
+    --destructive: 350 74% 50%;
+    --destructive-foreground: 150 18% 96%;
+
+    --border: 162 22% 24%;
+    --input: 162 20% 22%;
+    --ring: 156 78% 42%;
+
+    --radius: 0.9rem;
+
+    /* Custom design tokens */
+    --neon-glow: 156 78% 45%;
+    --neon-purple: 188 72% 48%;
+    --neon-pink: 43 96% 62%;
+    
+    /* Gradients */
+    --gradient-primary: linear-gradient(145deg, hsl(160 32% 8%), hsl(165 28% 10%), hsl(173 30% 8%));
+    --gradient-card: linear-gradient(145deg, hsl(162 26% 16% / 0.85), hsl(165 28% 12% / 0.6));
+    --gradient-neon: linear-gradient(145deg, hsl(156 78% 42%), hsl(188 72% 48%));
+    
+    /* Shadows with glow */
+    --shadow-glow: 0 12px 40px hsl(156 78% 42% / 0.2), 0 18px 60px hsl(188 72% 48% / 0.12);
+    --shadow-card: 0 18px 45px hsl(160 28% 6% / 0.45);
+    
+    /* Animations */
+    --transition-smooth: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Inter', 'Cairo', sans-serif;
+    background: radial-gradient(circle at 0% 0%, hsl(158 65% 14% / 0.75), transparent 55%),
+                radial-gradient(circle at 100% 100%, hsl(187 70% 20% / 0.6), transparent 50%),
+                var(--gradient-primary);
+    background-attachment: fixed;
+  }
+
+  /* RTL support for Arabic */
+  [dir="rtl"] {
+    font-family: 'Cairo', 'Inter', sans-serif;
+  }
+
+  /* Neon glow effect */
+  .neon-glow {
+    box-shadow: var(--shadow-glow);
+  }
+
+  .neon-border {
+    border: 1px solid hsl(var(--primary) / 0.45);
+  }
+
+  /* Glass morphism */
+  .glass {
+    background: linear-gradient(145deg, hsl(161 28% 14% / 0.8), hsl(160 32% 10% / 0.65));
+    backdrop-filter: blur(12px);
+    border: 1px solid hsl(157 35% 30% / 0.35);
+  }
+
+  /* Animated gradient text */
+  .gradient-text {
+    background: var(--gradient-neon);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  /* Pulse animation for AI indicators */
+  @keyframes pulse-glow {
+    0%, 100% {
+      box-shadow: 0 0 20px hsl(190 95% 55% / 0.4);
+    }
+    50% {
+      box-shadow: 0 0 40px hsl(190 95% 55% / 0.8);
+    }
+  }
+
+  .animate-pulse-glow {
+    animation: pulse-glow 2s ease-in-out infinite;
+  }
+
+  /* Float animation */
+  @keyframes float {
+    0%, 100% {
+      transform: translateY(0px);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+  }
+
+  .animate-float {
+    animation: float 3s ease-in-out infinite;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}

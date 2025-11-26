@@ -1,0 +1,648 @@
+[
+  {
+    "project_name_ar": "فحص بصري تنبؤي الذكي",
+    "project_name_en": "Predictive Visual Inspection Predict",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "تحسين التجربة",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Reduce costs",
+        "Improve UX",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "برمجة لغة C# لبناء عوالم افتراضية باستخدام Unity",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Object Detection",
+    "team_members": [
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T9230",
+        "skills": [
+          "إنترنت الأشياء",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T4091",
+        "skills": [
+          "إنترنت الأشياء",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T4758",
+        "skills": [
+          "تحليل البيانات",
+          "UI/UX"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 8,
+    "delivery_date": "2026-04-01",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي التنبؤي",
+    "project_name_en": "Predictive Visual Inspection AI",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تقليل الأخطاء",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Reduce errors",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "برمجة لغة C# لبناء عوالم افتراضية باستخدام Unity",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Object Detection",
+    "team_members": [
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T4791",
+        "skills": [
+          "تطوير الويب",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "أمل",
+        "name_en": "Amal",
+        "id": "T7980",
+        "skills": [
+          "هندسة برمجيات",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T9353",
+        "skills": [
+          "سحابة",
+          "AI"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 13,
+    "delivery_date": "2025-09-15",
+    "related_old_project": {
+      "name_ar": "مشروع برمجة لغة C# لبناء عوالم افتراضية باستخدام Unity القديم",
+      "name_en": "Legacy برمجة لغة C# لبناء عوالم افتراضية باستخدام Unity Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي التنبؤي",
+    "project_name_en": "Predictive Visual Inspection Predict",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "تحسين الدقة",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Reduce costs",
+        "Improve accuracy",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "برمجة لغة C# لبناء عوالم افتراضية باستخدام Unity",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Object Detection",
+    "team_members": [
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T1854",
+        "skills": [
+          "أمن سيبراني",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T5674",
+        "skills": [
+          "هندسة برمجيات",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T2650",
+        "skills": [
+          "سحابة",
+          "UI/UX"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 54,
+    "delivery_date": "2025-05-31",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي التنبؤي",
+    "project_name_en": "Predictive Visual Inspection Predict",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تعزيز الأمان",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Improve UX",
+        "Enhance security",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "برمجة لغة C# لبناء عوالم افتراضية باستخدام Unity",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Pose Estimation",
+    "team_members": [
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T9664",
+        "skills": [
+          "إنترنت الأشياء",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "أحمد",
+        "name_en": "Ahmed",
+        "id": "T4903",
+        "skills": [
+          "رؤية حاسوبية",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T7292",
+        "skills": [
+          "تحليل البيانات",
+          "Data Analysis"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 24,
+    "delivery_date": "2024-09-24",
+    "related_old_project": {
+      "name_ar": "مشروع برمجة لغة C# لبناء عوالم افتراضية باستخدام Unity القديم",
+      "name_en": "Legacy برمجة لغة C# لبناء عوالم افتراضية باستخدام Unity Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي التعاوني",
+    "project_name_en": "Predictive Visual Inspection Cloud",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "تحسين التجربة",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Reduce costs",
+        "Improve UX",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "برمجة لغة C# لبناء عوالم افتراضية باستخدام Unity",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Anomaly Detection",
+    "team_members": [
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T6618",
+        "skills": [
+          "رؤية حاسوبية",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T4309",
+        "skills": [
+          "DevOps",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T1717",
+        "skills": [
+          "واجهة المستخدم",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 1,
+    "delivery_date": "2026-05-06",
+    "related_old_project": {
+      "name_ar": "مشروع برمجة لغة C# لبناء عوالم افتراضية باستخدام Unity القديم",
+      "name_en": "Legacy برمجة لغة C# لبناء عوالم افتراضية باستخدام Unity Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي التعاوني",
+    "project_name_en": "Predictive Visual Inspection Predict",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "تحسين التجربة",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Improve UX",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "برمجة لغة C# لبناء عوالم افتراضية باستخدام Unity",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Anomaly Detection",
+    "team_members": [
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T7864",
+        "skills": [
+          "DevOps",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T1358",
+        "skills": [
+          "واجهة المستخدم",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T5491",
+        "skills": [
+          "واجهة المستخدم",
+          "Computer Vision"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 54,
+    "delivery_date": "2024-04-03",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي المتقدّم",
+    "project_name_en": "Predictive Visual Inspection Coop",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "تسريع الإنجاز",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Reduce costs",
+        "Speed up delivery",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "برمجة لغة C# لبناء عوالم افتراضية باستخدام Unity",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Anomaly Detection",
+    "team_members": [
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T7567",
+        "skills": [
+          "إنترنت الأشياء",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T4390",
+        "skills": [
+          "واجهة المستخدم",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T3621",
+        "skills": [
+          "إنترنت الأشياء",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 12,
+    "delivery_date": "2024-01-19",
+    "related_old_project": {
+      "name_ar": "مشروع برمجة لغة C# لبناء عوالم افتراضية باستخدام Unity القديم",
+      "name_en": "Legacy برمجة لغة C# لبناء عوالم افتراضية باستخدام Unity Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي الفوري",
+    "project_name_en": "Predictive Visual Inspection Cloud",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تحسين التجربة",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Improve UX",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "برمجة لغة C# لبناء عوالم افتراضية باستخدام Unity",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Anomaly Detection",
+    "team_members": [
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T4668",
+        "skills": [
+          "ذكاء اصطناعي",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T4902",
+        "skills": [
+          "رؤية حاسوبية",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T3427",
+        "skills": [
+          "رؤية حاسوبية",
+          "UI/UX"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 77,
+    "delivery_date": "2025-07-07",
+    "related_old_project": {
+      "name_ar": "مشروع برمجة لغة C# لبناء عوالم افتراضية باستخدام Unity القديم",
+      "name_en": "Legacy برمجة لغة C# لبناء عوالم افتراضية باستخدام Unity Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي التعاوني",
+    "project_name_en": "Predictive Visual Inspection AI",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تعزيز الأمان",
+        "تحسين الدقة"
+      ],
+      "en": [
+        "Improve UX",
+        "Enhance security",
+        "Improve accuracy"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "برمجة لغة C# لبناء عوالم افتراضية باستخدام Unity",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Object Detection",
+    "team_members": [
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T5326",
+        "skills": [
+          "واجهة المستخدم",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T5831",
+        "skills": [
+          "أمن سيبراني",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T1170",
+        "skills": [
+          "أمن سيبراني",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 17,
+    "delivery_date": "2025-07-26",
+    "related_old_project": {
+      "name_ar": "مشروع برمجة لغة C# لبناء عوالم افتراضية باستخدام Unity القديم",
+      "name_en": "Legacy برمجة لغة C# لبناء عوالم افتراضية باستخدام Unity Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي التنبؤي",
+    "project_name_en": "Predictive Visual Inspection Pro",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "تعزيز الأمان",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Reduce errors",
+        "Enhance security",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "برمجة لغة C# لبناء عوالم افتراضية باستخدام Unity",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Object Detection",
+    "team_members": [
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T4377",
+        "skills": [
+          "هندسة برمجيات",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T6312",
+        "skills": [
+          "رؤية حاسوبية",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T7479",
+        "skills": [
+          "واجهة المستخدم",
+          "Software Engineering"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 94,
+    "delivery_date": "2025-04-19",
+    "related_old_project": null
+  }
+]

@@ -1,0 +1,654 @@
+[
+  {
+    "project_name_ar": "مساعد لغوي تحليلي الفوري",
+    "project_name_en": "Analytical Language Assistant Pro",
+    "description_ar": "مساعد لغوي يفهم النصوص والسياق ويولّد ملخصات واقتراحات تلقائيًا.",
+    "description_en": "Language assistant that understands context, summarizes, and generates smart suggestions.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "رفع الكفاءة",
+        "تحسين الدقة"
+      ],
+      "en": [
+        "Reduce errors",
+        "Increase efficiency",
+        "Improve accuracy"
+      ]
+    },
+    "tools": [
+      "Python",
+      "LangChain",
+      "OpenAI",
+      "FastAPI",
+      "ChromaDB"
+    ],
+    "bootcamp": "تحليل الأعمال",
+    "AI_Domain": "NLP",
+    "AI_Type": "Intent Classification",
+    "team_members": [
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T8844",
+        "skills": [
+          "واجهة المستخدم",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T1683",
+        "skills": [
+          "تحليل البيانات",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T9136",
+        "skills": [
+          "DevOps",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 88,
+    "delivery_date": "2025-12-18",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "مساعد لغوي تحليلي الفوري",
+    "project_name_en": "Analytical Language Assistant Predict",
+    "description_ar": "مساعد لغوي يفهم النصوص والسياق ويولّد ملخصات واقتراحات تلقائيًا.",
+    "description_en": "Language assistant that understands context, summarizes, and generates smart suggestions.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تقليل التكاليف",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Reduce costs",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "LangChain",
+      "OpenAI",
+      "FastAPI",
+      "ChromaDB"
+    ],
+    "bootcamp": "تحليل الأعمال",
+    "AI_Domain": "NLP",
+    "AI_Type": "Text Summarization",
+    "team_members": [
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T8899",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T7180",
+        "skills": [
+          "واجهة المستخدم",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T7993",
+        "skills": [
+          "DevOps",
+          "UI/UX"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 0,
+    "delivery_date": "2024-08-24",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "مساعد لغوي تحليلي المتقدّم",
+    "project_name_en": "Analytical Language Assistant Cloud",
+    "description_ar": "مساعد لغوي يفهم النصوص والسياق ويولّد ملخصات واقتراحات تلقائيًا.",
+    "description_en": "Language assistant that understands context, summarizes, and generates smart suggestions.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تقليل التكاليف",
+        "تحسين التجربة"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Reduce costs",
+        "Improve UX"
+      ]
+    },
+    "tools": [
+      "Python",
+      "LangChain",
+      "OpenAI",
+      "FastAPI",
+      "ChromaDB"
+    ],
+    "bootcamp": "تحليل الأعمال",
+    "AI_Domain": "NLP",
+    "AI_Type": "Text Summarization",
+    "team_members": [
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T4721",
+        "skills": [
+          "سحابة",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T1750",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T1931",
+        "skills": [
+          "تحليل البيانات",
+          "AI"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 55,
+    "delivery_date": "2024-09-16",
+    "related_old_project": {
+      "name_ar": "مشروع تحليل الأعمال القديم",
+      "name_en": "Legacy تحليل الأعمال Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مساعد لغوي تحليلي الذكي",
+    "project_name_en": "Analytical Language Assistant Predict",
+    "description_ar": "مساعد لغوي يفهم النصوص والسياق ويولّد ملخصات واقتراحات تلقائيًا.",
+    "description_en": "Language assistant that understands context, summarizes, and generates smart suggestions.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تقليل التكاليف",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Reduce costs",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "LangChain",
+      "OpenAI",
+      "FastAPI",
+      "ChromaDB"
+    ],
+    "bootcamp": "تحليل الأعمال",
+    "AI_Domain": "NLP",
+    "AI_Type": "Text Summarization",
+    "team_members": [
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T2258",
+        "skills": [
+          "تحليل البيانات",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T9907",
+        "skills": [
+          "تطوير الويب",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T6848",
+        "skills": [
+          "تطوير الويب",
+          "Software Engineering"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 10,
+    "delivery_date": "2025-09-11",
+    "related_old_project": {
+      "name_ar": "مشروع تحليل الأعمال القديم",
+      "name_en": "Legacy تحليل الأعمال Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مساعد لغوي تحليلي السحابي",
+    "project_name_en": "Analytical Language Assistant Predict",
+    "description_ar": "مساعد لغوي يفهم النصوص والسياق ويولّد ملخصات واقتراحات تلقائيًا.",
+    "description_en": "Language assistant that understands context, summarizes, and generates smart suggestions.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تحسين التجربة",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Improve UX",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "LangChain",
+      "OpenAI",
+      "FastAPI",
+      "ChromaDB"
+    ],
+    "bootcamp": "تحليل الأعمال",
+    "AI_Domain": "NLP",
+    "AI_Type": "Text Summarization",
+    "team_members": [
+      {
+        "name_ar": "أمل",
+        "name_en": "Amal",
+        "id": "T6679",
+        "skills": [
+          "سحابة",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T8966",
+        "skills": [
+          "رؤية حاسوبية",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T4335",
+        "skills": [
+          "واجهة المستخدم",
+          "DevOps"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 41,
+    "delivery_date": "2025-04-17",
+    "related_old_project": {
+      "name_ar": "مشروع تحليل الأعمال القديم",
+      "name_en": "Legacy تحليل الأعمال Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مساعد لغوي تحليلي التعاوني",
+    "project_name_en": "Analytical Language Assistant Cloud",
+    "description_ar": "مساعد لغوي يفهم النصوص والسياق ويولّد ملخصات واقتراحات تلقائيًا.",
+    "description_en": "Language assistant that understands context, summarizes, and generates smart suggestions.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تقليل التكاليف",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Reduce costs",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "LangChain",
+      "OpenAI",
+      "FastAPI",
+      "ChromaDB"
+    ],
+    "bootcamp": "تحليل الأعمال",
+    "AI_Domain": "NLP",
+    "AI_Type": "Text Summarization",
+    "team_members": [
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T9174",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T5554",
+        "skills": [
+          "إنترنت الأشياء",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T5921",
+        "skills": [
+          "تحليل البيانات",
+          "AI"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 3,
+    "delivery_date": "2025-07-25",
+    "related_old_project": {
+      "name_ar": "مشروع تحليل الأعمال القديم",
+      "name_en": "Legacy تحليل الأعمال Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مساعد لغوي تحليلي الفوري",
+    "project_name_en": "Analytical Language Assistant RT",
+    "description_ar": "مساعد لغوي يفهم النصوص والسياق ويولّد ملخصات واقتراحات تلقائيًا.",
+    "description_en": "Language assistant that understands context, summarizes, and generates smart suggestions.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "تقليل الأخطاء",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Reduce costs",
+        "Reduce errors",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "LangChain",
+      "OpenAI",
+      "FastAPI",
+      "ChromaDB"
+    ],
+    "bootcamp": "تحليل الأعمال",
+    "AI_Domain": "NLP",
+    "AI_Type": "RAG",
+    "team_members": [
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T1856",
+        "skills": [
+          "رؤية حاسوبية",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T9872",
+        "skills": [
+          "أمن سيبراني",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T6508",
+        "skills": [
+          "رؤية حاسوبية",
+          "IoT"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 12,
+    "delivery_date": "2025-03-19",
+    "related_old_project": {
+      "name_ar": "مشروع تحليل الأعمال القديم",
+      "name_en": "Legacy تحليل الأعمال Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مساعد لغوي تحليلي التنبؤي",
+    "project_name_en": "Analytical Language Assistant Coop",
+    "description_ar": "مساعد لغوي يفهم النصوص والسياق ويولّد ملخصات واقتراحات تلقائيًا.",
+    "description_en": "Language assistant that understands context, summarizes, and generates smart suggestions.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "تحسين التجربة",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Reduce errors",
+        "Improve UX",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Python",
+      "LangChain",
+      "OpenAI",
+      "FastAPI",
+      "ChromaDB"
+    ],
+    "bootcamp": "تحليل الأعمال",
+    "AI_Domain": "NLP",
+    "AI_Type": "Intent Classification",
+    "team_members": [
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T5709",
+        "skills": [
+          "DevOps",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T7944",
+        "skills": [
+          "إنترنت الأشياء",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T9501",
+        "skills": [
+          "رؤية حاسوبية",
+          "UI/UX"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 65,
+    "delivery_date": "2026-02-19",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "مساعد لغوي تحليلي التعاوني",
+    "project_name_en": "Analytical Language Assistant AI",
+    "description_ar": "مساعد لغوي يفهم النصوص والسياق ويولّد ملخصات واقتراحات تلقائيًا.",
+    "description_en": "Language assistant that understands context, summarizes, and generates smart suggestions.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تقليل التكاليف",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Reduce costs",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "LangChain",
+      "OpenAI",
+      "FastAPI",
+      "ChromaDB"
+    ],
+    "bootcamp": "تحليل الأعمال",
+    "AI_Domain": "NLP",
+    "AI_Type": "Text Summarization",
+    "team_members": [
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T1632",
+        "skills": [
+          "إنترنت الأشياء",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T6926",
+        "skills": [
+          "رؤية حاسوبية",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T1202",
+        "skills": [
+          "تحليل البيانات",
+          "Computer Vision"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 0,
+    "delivery_date": "2025-10-19",
+    "related_old_project": {
+      "name_ar": "مشروع تحليل الأعمال القديم",
+      "name_en": "Legacy تحليل الأعمال Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مساعد لغوي تحليلي الذكي",
+    "project_name_en": "Analytical Language Assistant RT",
+    "description_ar": "مساعد لغوي يفهم النصوص والسياق ويولّد ملخصات واقتراحات تلقائيًا.",
+    "description_en": "Language assistant that understands context, summarizes, and generates smart suggestions.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تحسين الدقة",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Improve accuracy",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "LangChain",
+      "OpenAI",
+      "FastAPI",
+      "ChromaDB"
+    ],
+    "bootcamp": "تحليل الأعمال",
+    "AI_Domain": "NLP",
+    "AI_Type": "Text Summarization",
+    "team_members": [
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T1959",
+        "skills": [
+          "إنترنت الأشياء",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T5529",
+        "skills": [
+          "إنترنت الأشياء",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T6145",
+        "skills": [
+          "تحليل البيانات",
+          "Software Engineering"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 12,
+    "delivery_date": "2025-01-03",
+    "related_old_project": {
+      "name_ar": "مشروع تحليل الأعمال القديم",
+      "name_en": "Legacy تحليل الأعمال Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  }
+]

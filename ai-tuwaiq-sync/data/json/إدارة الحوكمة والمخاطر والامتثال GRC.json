@@ -1,0 +1,666 @@
+[
+  {
+    "project_name_ar": "مساعد لغوي تحليلي الفوري",
+    "project_name_en": "Analytical Language Assistant RT",
+    "description_ar": "مساعد لغوي يفهم النصوص والسياق ويولّد ملخصات واقتراحات تلقائيًا.",
+    "description_en": "Language assistant that understands context, summarizes, and generates smart suggestions.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "تحسين التجربة",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Reduce errors",
+        "Improve UX",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "LangChain",
+      "OpenAI",
+      "FastAPI",
+      "ChromaDB"
+    ],
+    "bootcamp": "إدارة الحوكمة والمخاطر والامتثال GRC",
+    "AI_Domain": "NLP",
+    "AI_Type": "RAG",
+    "team_members": [
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T8537",
+        "skills": [
+          "أمن سيبراني",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T1193",
+        "skills": [
+          "تطوير الويب",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "أمل",
+        "name_en": "Amal",
+        "id": "T2650",
+        "skills": [
+          "أمن سيبراني",
+          "Cybersecurity"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 14,
+    "delivery_date": "2025-06-15",
+    "related_old_project": {
+      "name_ar": "مشروع إدارة الحوكمة والمخاطر والامتثال GRC القديم",
+      "name_en": "Legacy إدارة الحوكمة والمخاطر والامتثال GRC Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مساعد لغوي تحليلي السحابي",
+    "project_name_en": "Analytical Language Assistant Predict",
+    "description_ar": "مساعد لغوي يفهم النصوص والسياق ويولّد ملخصات واقتراحات تلقائيًا.",
+    "description_en": "Language assistant that understands context, summarizes, and generates smart suggestions.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تقليل التكاليف",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Reduce costs",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "LangChain",
+      "OpenAI",
+      "FastAPI",
+      "ChromaDB"
+    ],
+    "bootcamp": "إدارة الحوكمة والمخاطر والامتثال GRC",
+    "AI_Domain": "NLP",
+    "AI_Type": "Intent Classification",
+    "team_members": [
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T7099",
+        "skills": [
+          "أمن سيبراني",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T5581",
+        "skills": [
+          "هندسة برمجيات",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T3148",
+        "skills": [
+          "إنترنت الأشياء",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 8,
+    "delivery_date": "2024-07-23",
+    "related_old_project": {
+      "name_ar": "مشروع إدارة الحوكمة والمخاطر والامتثال GRC القديم",
+      "name_en": "Legacy إدارة الحوكمة والمخاطر والامتثال GRC Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مساعد لغوي تحليلي التنبؤي",
+    "project_name_en": "Analytical Language Assistant AI",
+    "description_ar": "مساعد لغوي يفهم النصوص والسياق ويولّد ملخصات واقتراحات تلقائيًا.",
+    "description_en": "Language assistant that understands context, summarizes, and generates smart suggestions.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "تقليل الأخطاء",
+        "تحسين التجربة"
+      ],
+      "en": [
+        "Reduce costs",
+        "Reduce errors",
+        "Improve UX"
+      ]
+    },
+    "tools": [
+      "Python",
+      "LangChain",
+      "OpenAI",
+      "FastAPI",
+      "ChromaDB"
+    ],
+    "bootcamp": "إدارة الحوكمة والمخاطر والامتثال GRC",
+    "AI_Domain": "NLP",
+    "AI_Type": "RAG",
+    "team_members": [
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T7906",
+        "skills": [
+          "هندسة برمجيات",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T9470",
+        "skills": [
+          "DevOps",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T8972",
+        "skills": [
+          "رؤية حاسوبية",
+          "Computer Vision"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 65,
+    "delivery_date": "2024-04-07",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "مساعد لغوي تحليلي المتقدّم",
+    "project_name_en": "Analytical Language Assistant Coop",
+    "description_ar": "مساعد لغوي يفهم النصوص والسياق ويولّد ملخصات واقتراحات تلقائيًا.",
+    "description_en": "Language assistant that understands context, summarizes, and generates smart suggestions.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "تحسين التجربة",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Improve UX",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Python",
+      "LangChain",
+      "OpenAI",
+      "FastAPI",
+      "ChromaDB"
+    ],
+    "bootcamp": "إدارة الحوكمة والمخاطر والامتثال GRC",
+    "AI_Domain": "NLP",
+    "AI_Type": "Text Summarization",
+    "team_members": [
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T6914",
+        "skills": [
+          "أمن سيبراني",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T5222",
+        "skills": [
+          "أمن سيبراني",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T7746",
+        "skills": [
+          "تحليل البيانات",
+          "Cybersecurity"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 1,
+    "delivery_date": "2025-02-11",
+    "related_old_project": {
+      "name_ar": "مشروع إدارة الحوكمة والمخاطر والامتثال GRC القديم",
+      "name_en": "Legacy إدارة الحوكمة والمخاطر والامتثال GRC Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مساعد لغوي تحليلي السحابي",
+    "project_name_en": "Analytical Language Assistant Coop",
+    "description_ar": "مساعد لغوي يفهم النصوص والسياق ويولّد ملخصات واقتراحات تلقائيًا.",
+    "description_en": "Language assistant that understands context, summarizes, and generates smart suggestions.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تقليل الأخطاء",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Reduce errors",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "LangChain",
+      "OpenAI",
+      "FastAPI",
+      "ChromaDB"
+    ],
+    "bootcamp": "إدارة الحوكمة والمخاطر والامتثال GRC",
+    "AI_Domain": "NLP",
+    "AI_Type": "RAG",
+    "team_members": [
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T7243",
+        "skills": [
+          "إنترنت الأشياء",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T8598",
+        "skills": [
+          "واجهة المستخدم",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T6527",
+        "skills": [
+          "سحابة",
+          "IoT"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 78,
+    "delivery_date": "2026-04-08",
+    "related_old_project": {
+      "name_ar": "مشروع إدارة الحوكمة والمخاطر والامتثال GRC القديم",
+      "name_en": "Legacy إدارة الحوكمة والمخاطر والامتثال GRC Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مساعد لغوي تحليلي المتقدّم",
+    "project_name_en": "Analytical Language Assistant AI",
+    "description_ar": "مساعد لغوي يفهم النصوص والسياق ويولّد ملخصات واقتراحات تلقائيًا.",
+    "description_en": "Language assistant that understands context, summarizes, and generates smart suggestions.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تحسين الدقة",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Improve UX",
+        "Improve accuracy",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "LangChain",
+      "OpenAI",
+      "FastAPI",
+      "ChromaDB"
+    ],
+    "bootcamp": "إدارة الحوكمة والمخاطر والامتثال GRC",
+    "AI_Domain": "NLP",
+    "AI_Type": "Intent Classification",
+    "team_members": [
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T6950",
+        "skills": [
+          "إنترنت الأشياء",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T8377",
+        "skills": [
+          "سحابة",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T4012",
+        "skills": [
+          "ذكاء اصطناعي",
+          "UI/UX"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 39,
+    "delivery_date": "2025-04-25",
+    "related_old_project": {
+      "name_ar": "مشروع إدارة الحوكمة والمخاطر والامتثال GRC القديم",
+      "name_en": "Legacy إدارة الحوكمة والمخاطر والامتثال GRC Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مساعد لغوي تحليلي التنبؤي",
+    "project_name_en": "Analytical Language Assistant Coop",
+    "description_ar": "مساعد لغوي يفهم النصوص والسياق ويولّد ملخصات واقتراحات تلقائيًا.",
+    "description_en": "Language assistant that understands context, summarizes, and generates smart suggestions.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تقليل الأخطاء",
+        "تحسين التجربة"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Reduce errors",
+        "Improve UX"
+      ]
+    },
+    "tools": [
+      "Python",
+      "LangChain",
+      "OpenAI",
+      "FastAPI",
+      "ChromaDB"
+    ],
+    "bootcamp": "إدارة الحوكمة والمخاطر والامتثال GRC",
+    "AI_Domain": "NLP",
+    "AI_Type": "RAG",
+    "team_members": [
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T1431",
+        "skills": [
+          "سحابة",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T2363",
+        "skills": [
+          "تحليل البيانات",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T3544",
+        "skills": [
+          "تحليل البيانات",
+          "Cloud"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 20,
+    "delivery_date": "2025-09-25",
+    "related_old_project": {
+      "name_ar": "مشروع إدارة الحوكمة والمخاطر والامتثال GRC القديم",
+      "name_en": "Legacy إدارة الحوكمة والمخاطر والامتثال GRC Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مساعد لغوي تحليلي الذكي",
+    "project_name_en": "Analytical Language Assistant Coop",
+    "description_ar": "مساعد لغوي يفهم النصوص والسياق ويولّد ملخصات واقتراحات تلقائيًا.",
+    "description_en": "Language assistant that understands context, summarizes, and generates smart suggestions.",
+    "objectives": {
+      "ar": [
+        "تعزيز الأمان",
+        "تقليل التكاليف",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Enhance security",
+        "Reduce costs",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Python",
+      "LangChain",
+      "OpenAI",
+      "FastAPI",
+      "ChromaDB"
+    ],
+    "bootcamp": "إدارة الحوكمة والمخاطر والامتثال GRC",
+    "AI_Domain": "NLP",
+    "AI_Type": "Intent Classification",
+    "team_members": [
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T8801",
+        "skills": [
+          "هندسة برمجيات",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "أحمد",
+        "name_en": "Ahmed",
+        "id": "T5463",
+        "skills": [
+          "DevOps",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T3213",
+        "skills": [
+          "DevOps",
+          "UI/UX"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 66,
+    "delivery_date": "2026-07-24",
+    "related_old_project": {
+      "name_ar": "مشروع إدارة الحوكمة والمخاطر والامتثال GRC القديم",
+      "name_en": "Legacy إدارة الحوكمة والمخاطر والامتثال GRC Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مساعد لغوي تحليلي التعاوني",
+    "project_name_en": "Analytical Language Assistant Coop",
+    "description_ar": "مساعد لغوي يفهم النصوص والسياق ويولّد ملخصات واقتراحات تلقائيًا.",
+    "description_en": "Language assistant that understands context, summarizes, and generates smart suggestions.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تسريع الإنجاز",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Speed up delivery",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "LangChain",
+      "OpenAI",
+      "FastAPI",
+      "ChromaDB"
+    ],
+    "bootcamp": "إدارة الحوكمة والمخاطر والامتثال GRC",
+    "AI_Domain": "NLP",
+    "AI_Type": "RAG",
+    "team_members": [
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T6044",
+        "skills": [
+          "أمن سيبراني",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T5256",
+        "skills": [
+          "واجهة المستخدم",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T1172",
+        "skills": [
+          "ذكاء اصطناعي",
+          "DevOps"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 65,
+    "delivery_date": "2024-10-06",
+    "related_old_project": {
+      "name_ar": "مشروع إدارة الحوكمة والمخاطر والامتثال GRC القديم",
+      "name_en": "Legacy إدارة الحوكمة والمخاطر والامتثال GRC Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مساعد لغوي تحليلي التنبؤي",
+    "project_name_en": "Analytical Language Assistant RT",
+    "description_ar": "مساعد لغوي يفهم النصوص والسياق ويولّد ملخصات واقتراحات تلقائيًا.",
+    "description_en": "Language assistant that understands context, summarizes, and generates smart suggestions.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "تسريع الإنجاز",
+        "تحسين الدقة"
+      ],
+      "en": [
+        "Reduce errors",
+        "Speed up delivery",
+        "Improve accuracy"
+      ]
+    },
+    "tools": [
+      "Python",
+      "LangChain",
+      "OpenAI",
+      "FastAPI",
+      "ChromaDB"
+    ],
+    "bootcamp": "إدارة الحوكمة والمخاطر والامتثال GRC",
+    "AI_Domain": "NLP",
+    "AI_Type": "Text Summarization",
+    "team_members": [
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T4788",
+        "skills": [
+          "ذكاء اصطناعي",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T7121",
+        "skills": [
+          "تطوير الويب",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T8161",
+        "skills": [
+          "سحابة",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 11,
+    "delivery_date": "2024-11-30",
+    "related_old_project": {
+      "name_ar": "مشروع إدارة الحوكمة والمخاطر والامتثال GRC القديم",
+      "name_en": "Legacy إدارة الحوكمة والمخاطر والامتثال GRC Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  }
+]

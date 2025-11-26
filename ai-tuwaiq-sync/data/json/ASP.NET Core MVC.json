@@ -1,0 +1,660 @@
+[
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي التعاوني",
+    "project_name_en": "Interactive Content Recommender RT",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تقليل التكاليف",
+        "تحسين التجربة"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Reduce costs",
+        "Improve UX"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": "ASP.NET Core MVC",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "Personalization",
+    "team_members": [
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T2742",
+        "skills": [
+          "سحابة",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T1293",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T2911",
+        "skills": [
+          "ذكاء اصطناعي",
+          "UI/UX"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 67,
+    "delivery_date": "2026-09-04",
+    "related_old_project": {
+      "name_ar": "مشروع ASP.NET Core MVC القديم",
+      "name_en": "Legacy ASP.NET Core MVC Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي التعاوني",
+    "project_name_en": "Interactive Content Recommender RT",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تعزيز الأمان",
+        "تحسين التجربة"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Enhance security",
+        "Improve UX"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": "ASP.NET Core MVC",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "A/B Testing",
+    "team_members": [
+      {
+        "name_ar": "أحمد",
+        "name_en": "Ahmed",
+        "id": "T2435",
+        "skills": [
+          "واجهة المستخدم",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T1227",
+        "skills": [
+          "تطوير الويب",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T1260",
+        "skills": [
+          "تطوير الويب",
+          "AI"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 87,
+    "delivery_date": "2025-03-04",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي التعاوني",
+    "project_name_en": "Interactive Content Recommender AI",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تحسين الدقة",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Improve accuracy",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": "ASP.NET Core MVC",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "A/B Testing",
+    "team_members": [
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T1357",
+        "skills": [
+          "تحليل البيانات",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T3497",
+        "skills": [
+          "هندسة برمجيات",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T8724",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Software Engineering"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 40,
+    "delivery_date": "2025-05-11",
+    "related_old_project": {
+      "name_ar": "مشروع ASP.NET Core MVC القديم",
+      "name_en": "Legacy ASP.NET Core MVC Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي التنبؤي",
+    "project_name_en": "Interactive Content Recommender Cloud",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تقليل الأخطاء",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Improve UX",
+        "Reduce errors",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": "ASP.NET Core MVC",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "Recommendation Systems",
+    "team_members": [
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T5764",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T7548",
+        "skills": [
+          "هندسة برمجيات",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T8993",
+        "skills": [
+          "تطوير الويب",
+          "AI"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 16,
+    "delivery_date": "2026-12-17",
+    "related_old_project": {
+      "name_ar": "مشروع ASP.NET Core MVC القديم",
+      "name_en": "Legacy ASP.NET Core MVC Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي الفوري",
+    "project_name_en": "Interactive Content Recommender Cloud",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "رفع الكفاءة",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Increase efficiency",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": "ASP.NET Core MVC",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "Recommendation Systems",
+    "team_members": [
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T8147",
+        "skills": [
+          "ذكاء اصطناعي",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "أحمد",
+        "name_en": "Ahmed",
+        "id": "T5718",
+        "skills": [
+          "تطوير الويب",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T6633",
+        "skills": [
+          "هندسة برمجيات",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 80,
+    "delivery_date": "2026-11-05",
+    "related_old_project": {
+      "name_ar": "مشروع ASP.NET Core MVC القديم",
+      "name_en": "Legacy ASP.NET Core MVC Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي السحابي",
+    "project_name_en": "Interactive Content Recommender Coop",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تقليل الأخطاء",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Improve UX",
+        "Reduce errors",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": "ASP.NET Core MVC",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "Recommendation Systems",
+    "team_members": [
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T7829",
+        "skills": [
+          "أمن سيبراني",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T3654",
+        "skills": [
+          "إنترنت الأشياء",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T5627",
+        "skills": [
+          "تحليل البيانات",
+          "Software Engineering"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 87,
+    "delivery_date": "2024-09-21",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي الذكي",
+    "project_name_en": "Interactive Content Recommender AI",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "تحسين الدقة",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Improve accuracy",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": "ASP.NET Core MVC",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "Recommendation Systems",
+    "team_members": [
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T1297",
+        "skills": [
+          "أمن سيبراني",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T6849",
+        "skills": [
+          "واجهة المستخدم",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T9248",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Data Analysis"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 72,
+    "delivery_date": "2025-11-22",
+    "related_old_project": {
+      "name_ar": "مشروع ASP.NET Core MVC القديم",
+      "name_en": "Legacy ASP.NET Core MVC Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي المتقدّم",
+    "project_name_en": "Interactive Content Recommender Cloud",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تقليل الأخطاء",
+        "تحسين التجربة"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Reduce errors",
+        "Improve UX"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": "ASP.NET Core MVC",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "A/B Testing",
+    "team_members": [
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T3476",
+        "skills": [
+          "DevOps",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T2706",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T8489",
+        "skills": [
+          "تحليل البيانات",
+          "Data Analysis"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 3,
+    "delivery_date": "2024-07-27",
+    "related_old_project": {
+      "name_ar": "مشروع ASP.NET Core MVC القديم",
+      "name_en": "Legacy ASP.NET Core MVC Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي المتقدّم",
+    "project_name_en": "Interactive Content Recommender Cloud",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تقليل التكاليف",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Reduce costs",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": "ASP.NET Core MVC",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "Personalization",
+    "team_members": [
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T2626",
+        "skills": [
+          "واجهة المستخدم",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "أمل",
+        "name_en": "Amal",
+        "id": "T6482",
+        "skills": [
+          "واجهة المستخدم",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T4307",
+        "skills": [
+          "هندسة برمجيات",
+          "Cloud"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 5,
+    "delivery_date": "2024-01-14",
+    "related_old_project": {
+      "name_ar": "مشروع ASP.NET Core MVC القديم",
+      "name_en": "Legacy ASP.NET Core MVC Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُوصي محتوى تفاعلي الفوري",
+    "project_name_en": "Interactive Content Recommender Predict",
+    "description_ar": "نظام توصية وتجربة مخصصة للمستخدمين عبر الويب والجوال.",
+    "description_en": "Personalized recommendation and user experience engine for web and mobile.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تحسين التجربة",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Improve UX",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Flutter",
+      "Dart",
+      "React",
+      "Node.js",
+      "FastAPI"
+    ],
+    "bootcamp": "ASP.NET Core MVC",
+    "AI_Domain": "Web & Mobile",
+    "AI_Type": "Recommendation Systems",
+    "team_members": [
+      {
+        "name_ar": "أحمد",
+        "name_en": "Ahmed",
+        "id": "T9677",
+        "skills": [
+          "سحابة",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T3260",
+        "skills": [
+          "سحابة",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T7706",
+        "skills": [
+          "هندسة برمجيات",
+          "DevOps"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 74,
+    "delivery_date": "2026-01-10",
+    "related_old_project": {
+      "name_ar": "مشروع ASP.NET Core MVC القديم",
+      "name_en": "Legacy ASP.NET Core MVC Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  }
+]

@@ -1,0 +1,648 @@
+[
+  {
+    "project_name_ar": "مُخطِّط مسارات الدرون السحابي",
+    "project_name_en": "Smart Drone Path Coop",
+    "description_ar": "نظام يعتمد على الذكاء الاصطناعي لتخطيط مسارات الروبوت/الدرون مع تقليل استهلاك الطاقة وتحسين الأمان.",
+    "description_en": "AI system for robot/drone path planning, minimizing energy usage and improving safety.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "تحسين الدقة",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Reduce errors",
+        "Improve accuracy",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "ROS",
+      "OpenCV",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "bootcamp": "تطوير البرمجيات باستخدام الذكاء الاصطناعي التوليدي",
+    "AI_Domain": "Robotics",
+    "AI_Type": "SLAM",
+    "team_members": [
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T5033",
+        "skills": [
+          "تطوير الويب",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T5533",
+        "skills": [
+          "أمن سيبراني",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T6432",
+        "skills": [
+          "هندسة برمجيات",
+          "Software Engineering"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 84,
+    "delivery_date": "2026-07-01",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير البرمجيات باستخدام الذكاء الاصطناعي التوليدي القديم",
+      "name_en": "Legacy تطوير البرمجيات باستخدام الذكاء الاصطناعي التوليدي Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُخطِّط مسارات الدرون التنبؤي",
+    "project_name_en": "Smart Drone Path RT",
+    "description_ar": "نظام يعتمد على الذكاء الاصطناعي لتخطيط مسارات الروبوت/الدرون مع تقليل استهلاك الطاقة وتحسين الأمان.",
+    "description_en": "AI system for robot/drone path planning, minimizing energy usage and improving safety.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "تحسين الدقة",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Reduce errors",
+        "Improve accuracy",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "ROS",
+      "OpenCV",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "bootcamp": "تطوير البرمجيات باستخدام الذكاء الاصطناعي التوليدي",
+    "AI_Domain": "Robotics",
+    "AI_Type": "SLAM",
+    "team_members": [
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T2252",
+        "skills": [
+          "تحليل البيانات",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T9309",
+        "skills": [
+          "ذكاء اصطناعي",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T7637",
+        "skills": [
+          "إنترنت الأشياء",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 23,
+    "delivery_date": "2024-03-16",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير البرمجيات باستخدام الذكاء الاصطناعي التوليدي القديم",
+      "name_en": "Legacy تطوير البرمجيات باستخدام الذكاء الاصطناعي التوليدي Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُخطِّط مسارات الدرون التنبؤي",
+    "project_name_en": "Smart Drone Path Cloud",
+    "description_ar": "نظام يعتمد على الذكاء الاصطناعي لتخطيط مسارات الروبوت/الدرون مع تقليل استهلاك الطاقة وتحسين الأمان.",
+    "description_en": "AI system for robot/drone path planning, minimizing energy usage and improving safety.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تسريع الإنجاز",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Speed up delivery",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "ROS",
+      "OpenCV",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "bootcamp": "تطوير البرمجيات باستخدام الذكاء الاصطناعي التوليدي",
+    "AI_Domain": "Robotics",
+    "AI_Type": "Autonomous Control",
+    "team_members": [
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T8613",
+        "skills": [
+          "DevOps",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T2483",
+        "skills": [
+          "سحابة",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T9227",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 70,
+    "delivery_date": "2024-12-05",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير البرمجيات باستخدام الذكاء الاصطناعي التوليدي القديم",
+      "name_en": "Legacy تطوير البرمجيات باستخدام الذكاء الاصطناعي التوليدي Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُخطِّط مسارات الدرون الذكي",
+    "project_name_en": "Smart Drone Path RT",
+    "description_ar": "نظام يعتمد على الذكاء الاصطناعي لتخطيط مسارات الروبوت/الدرون مع تقليل استهلاك الطاقة وتحسين الأمان.",
+    "description_en": "AI system for robot/drone path planning, minimizing energy usage and improving safety.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تقليل الأخطاء",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Improve UX",
+        "Reduce errors",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "ROS",
+      "OpenCV",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "bootcamp": "تطوير البرمجيات باستخدام الذكاء الاصطناعي التوليدي",
+    "AI_Domain": "Robotics",
+    "AI_Type": "Autonomous Control",
+    "team_members": [
+      {
+        "name_ar": "أحمد",
+        "name_en": "Ahmed",
+        "id": "T8989",
+        "skills": [
+          "تطوير الويب",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T5331",
+        "skills": [
+          "أمن سيبراني",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T1701",
+        "skills": [
+          "تطوير الويب",
+          "DevOps"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 5,
+    "delivery_date": "2026-01-09",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير البرمجيات باستخدام الذكاء الاصطناعي التوليدي القديم",
+      "name_en": "Legacy تطوير البرمجيات باستخدام الذكاء الاصطناعي التوليدي Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُخطِّط مسارات الدرون الفوري",
+    "project_name_en": "Smart Drone Path RT",
+    "description_ar": "نظام يعتمد على الذكاء الاصطناعي لتخطيط مسارات الروبوت/الدرون مع تقليل استهلاك الطاقة وتحسين الأمان.",
+    "description_en": "AI system for robot/drone path planning, minimizing energy usage and improving safety.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "رفع الكفاءة",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Increase efficiency",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "ROS",
+      "OpenCV",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "bootcamp": "تطوير البرمجيات باستخدام الذكاء الاصطناعي التوليدي",
+    "AI_Domain": "Robotics",
+    "AI_Type": "SLAM",
+    "team_members": [
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T3848",
+        "skills": [
+          "سحابة",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T6985",
+        "skills": [
+          "إنترنت الأشياء",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T9465",
+        "skills": [
+          "رؤية حاسوبية",
+          "Cloud"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 1,
+    "delivery_date": "2025-04-01",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "مُخطِّط مسارات الدرون الفوري",
+    "project_name_en": "Smart Drone Path Predict",
+    "description_ar": "نظام يعتمد على الذكاء الاصطناعي لتخطيط مسارات الروبوت/الدرون مع تقليل استهلاك الطاقة وتحسين الأمان.",
+    "description_en": "AI system for robot/drone path planning, minimizing energy usage and improving safety.",
+    "objectives": {
+      "ar": [
+        "تعزيز الأمان",
+        "رفع الكفاءة",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Enhance security",
+        "Increase efficiency",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Python",
+      "ROS",
+      "OpenCV",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "bootcamp": "تطوير البرمجيات باستخدام الذكاء الاصطناعي التوليدي",
+    "AI_Domain": "Robotics",
+    "AI_Type": "Autonomous Control",
+    "team_members": [
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T4768",
+        "skills": [
+          "تحليل البيانات",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T5600",
+        "skills": [
+          "تطوير الويب",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T4062",
+        "skills": [
+          "واجهة المستخدم",
+          "Cybersecurity"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 72,
+    "delivery_date": "2024-08-30",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "مُخطِّط مسارات الدرون الذكي",
+    "project_name_en": "Smart Drone Path RT",
+    "description_ar": "نظام يعتمد على الذكاء الاصطناعي لتخطيط مسارات الروبوت/الدرون مع تقليل استهلاك الطاقة وتحسين الأمان.",
+    "description_en": "AI system for robot/drone path planning, minimizing energy usage and improving safety.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "تقليل التكاليف",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Reduce costs",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "ROS",
+      "OpenCV",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "bootcamp": "تطوير البرمجيات باستخدام الذكاء الاصطناعي التوليدي",
+    "AI_Domain": "Robotics",
+    "AI_Type": "Autonomous Control",
+    "team_members": [
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T4992",
+        "skills": [
+          "ذكاء اصطناعي",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T3639",
+        "skills": [
+          "واجهة المستخدم",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T1642",
+        "skills": [
+          "إنترنت الأشياء",
+          "UI/UX"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 24,
+    "delivery_date": "2024-04-24",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير البرمجيات باستخدام الذكاء الاصطناعي التوليدي القديم",
+      "name_en": "Legacy تطوير البرمجيات باستخدام الذكاء الاصطناعي التوليدي Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُخطِّط مسارات الدرون التنبؤي",
+    "project_name_en": "Smart Drone Path AI",
+    "description_ar": "نظام يعتمد على الذكاء الاصطناعي لتخطيط مسارات الروبوت/الدرون مع تقليل استهلاك الطاقة وتحسين الأمان.",
+    "description_en": "AI system for robot/drone path planning, minimizing energy usage and improving safety.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تقليل الأخطاء",
+        "تحسين الدقة"
+      ],
+      "en": [
+        "Improve UX",
+        "Reduce errors",
+        "Improve accuracy"
+      ]
+    },
+    "tools": [
+      "Python",
+      "ROS",
+      "OpenCV",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "bootcamp": "تطوير البرمجيات باستخدام الذكاء الاصطناعي التوليدي",
+    "AI_Domain": "Robotics",
+    "AI_Type": "Path Planning",
+    "team_members": [
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T8723",
+        "skills": [
+          "هندسة برمجيات",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T4594",
+        "skills": [
+          "سحابة",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T3338",
+        "skills": [
+          "إنترنت الأشياء",
+          "UI/UX"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 61,
+    "delivery_date": "2026-11-12",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير البرمجيات باستخدام الذكاء الاصطناعي التوليدي القديم",
+      "name_en": "Legacy تطوير البرمجيات باستخدام الذكاء الاصطناعي التوليدي Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مُخطِّط مسارات الدرون الذكي",
+    "project_name_en": "Smart Drone Path Coop",
+    "description_ar": "نظام يعتمد على الذكاء الاصطناعي لتخطيط مسارات الروبوت/الدرون مع تقليل استهلاك الطاقة وتحسين الأمان.",
+    "description_en": "AI system for robot/drone path planning, minimizing energy usage and improving safety.",
+    "objectives": {
+      "ar": [
+        "تعزيز الأمان",
+        "تقليل الأخطاء",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Enhance security",
+        "Reduce errors",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Python",
+      "ROS",
+      "OpenCV",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "bootcamp": "تطوير البرمجيات باستخدام الذكاء الاصطناعي التوليدي",
+    "AI_Domain": "Robotics",
+    "AI_Type": "SLAM",
+    "team_members": [
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T3166",
+        "skills": [
+          "تحليل البيانات",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T4315",
+        "skills": [
+          "DevOps",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T7877",
+        "skills": [
+          "واجهة المستخدم",
+          "IoT"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 53,
+    "delivery_date": "2024-07-16",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "مُخطِّط مسارات الدرون الفوري",
+    "project_name_en": "Smart Drone Path Cloud",
+    "description_ar": "نظام يعتمد على الذكاء الاصطناعي لتخطيط مسارات الروبوت/الدرون مع تقليل استهلاك الطاقة وتحسين الأمان.",
+    "description_en": "AI system for robot/drone path planning, minimizing energy usage and improving safety.",
+    "objectives": {
+      "ar": [
+        "تعزيز الأمان",
+        "تقليل الأخطاء",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Enhance security",
+        "Reduce errors",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Python",
+      "ROS",
+      "OpenCV",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "bootcamp": "تطوير البرمجيات باستخدام الذكاء الاصطناعي التوليدي",
+    "AI_Domain": "Robotics",
+    "AI_Type": "Path Planning",
+    "team_members": [
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T9835",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T9553",
+        "skills": [
+          "سحابة",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T1711",
+        "skills": [
+          "DevOps",
+          "Cloud"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 14,
+    "delivery_date": "2025-04-14",
+    "related_old_project": null
+  }
+]

@@ -1,0 +1,660 @@
+[
+  {
+    "project_name_ar": "منظّم اختبارات ذكي الفوري",
+    "project_name_en": "Intelligent Test Orchestrator Predict",
+    "description_ar": "منظّم اختبارات وCI/CD ذكي يحدد الأولويات ويقلل زمن البناء.",
+    "description_en": "Smart CI/CD and test orchestrator that prioritizes and reduces build time.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تقليل التكاليف",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Reduce costs",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Python",
+      "GitHub Actions",
+      "pytest",
+      "Selenium",
+      "Docker"
+    ],
+    "bootcamp": "تطوير المهارات (ServiceNow)",
+    "AI_Domain": "DevOps",
+    "AI_Type": "CI/CD Intelligence",
+    "team_members": [
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T8555",
+        "skills": [
+          "هندسة برمجيات",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T8268",
+        "skills": [
+          "تطوير الويب",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T8559",
+        "skills": [
+          "DevOps",
+          "Data Analysis"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 40,
+    "delivery_date": "2025-11-09",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير المهارات (ServiceNow) القديم",
+      "name_en": "Legacy تطوير المهارات (ServiceNow) Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "منظّم اختبارات ذكي الذكي",
+    "project_name_en": "Intelligent Test Orchestrator RT",
+    "description_ar": "منظّم اختبارات وCI/CD ذكي يحدد الأولويات ويقلل زمن البناء.",
+    "description_en": "Smart CI/CD and test orchestrator that prioritizes and reduces build time.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تقليل الأخطاء",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Improve UX",
+        "Reduce errors",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "GitHub Actions",
+      "pytest",
+      "Selenium",
+      "Docker"
+    ],
+    "bootcamp": "تطوير المهارات (ServiceNow)",
+    "AI_Domain": "DevOps",
+    "AI_Type": "CI/CD Intelligence",
+    "team_members": [
+      {
+        "name_ar": "أمل",
+        "name_en": "Amal",
+        "id": "T2152",
+        "skills": [
+          "سحابة",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T9803",
+        "skills": [
+          "تحليل البيانات",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T9751",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Software Engineering"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 18,
+    "delivery_date": "2026-09-11",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير المهارات (ServiceNow) القديم",
+      "name_en": "Legacy تطوير المهارات (ServiceNow) Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "منظّم اختبارات ذكي المتقدّم",
+    "project_name_en": "Intelligent Test Orchestrator Predict",
+    "description_ar": "منظّم اختبارات وCI/CD ذكي يحدد الأولويات ويقلل زمن البناء.",
+    "description_en": "Smart CI/CD and test orchestrator that prioritizes and reduces build time.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "رفع الكفاءة",
+        "تحسين التجربة"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Increase efficiency",
+        "Improve UX"
+      ]
+    },
+    "tools": [
+      "Python",
+      "GitHub Actions",
+      "pytest",
+      "Selenium",
+      "Docker"
+    ],
+    "bootcamp": "تطوير المهارات (ServiceNow)",
+    "AI_Domain": "DevOps",
+    "AI_Type": "Incident Triage",
+    "team_members": [
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T3768",
+        "skills": [
+          "أمن سيبراني",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T6567",
+        "skills": [
+          "واجهة المستخدم",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T8906",
+        "skills": [
+          "تطوير الويب",
+          "Computer Vision"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 15,
+    "delivery_date": "2024-07-17",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير المهارات (ServiceNow) القديم",
+      "name_en": "Legacy تطوير المهارات (ServiceNow) Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "منظّم اختبارات ذكي التعاوني",
+    "project_name_en": "Intelligent Test Orchestrator Coop",
+    "description_ar": "منظّم اختبارات وCI/CD ذكي يحدد الأولويات ويقلل زمن البناء.",
+    "description_en": "Smart CI/CD and test orchestrator that prioritizes and reduces build time.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "تقليل التكاليف",
+        "تحسين الدقة"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Reduce costs",
+        "Improve accuracy"
+      ]
+    },
+    "tools": [
+      "Python",
+      "GitHub Actions",
+      "pytest",
+      "Selenium",
+      "Docker"
+    ],
+    "bootcamp": "تطوير المهارات (ServiceNow)",
+    "AI_Domain": "DevOps",
+    "AI_Type": "Test Prioritization",
+    "team_members": [
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T6417",
+        "skills": [
+          "هندسة برمجيات",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T5510",
+        "skills": [
+          "إنترنت الأشياء",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T3294",
+        "skills": [
+          "واجهة المستخدم",
+          "DevOps"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 14,
+    "delivery_date": "2025-08-13",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "منظّم اختبارات ذكي الذكي",
+    "project_name_en": "Intelligent Test Orchestrator Predict",
+    "description_ar": "منظّم اختبارات وCI/CD ذكي يحدد الأولويات ويقلل زمن البناء.",
+    "description_en": "Smart CI/CD and test orchestrator that prioritizes and reduces build time.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تحسين التجربة",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Improve UX",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "GitHub Actions",
+      "pytest",
+      "Selenium",
+      "Docker"
+    ],
+    "bootcamp": "تطوير المهارات (ServiceNow)",
+    "AI_Domain": "DevOps",
+    "AI_Type": "CI/CD Intelligence",
+    "team_members": [
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T8206",
+        "skills": [
+          "رؤية حاسوبية",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T3106",
+        "skills": [
+          "واجهة المستخدم",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T5789",
+        "skills": [
+          "سحابة",
+          "Computer Vision"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 56,
+    "delivery_date": "2025-04-11",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "منظّم اختبارات ذكي الذكي",
+    "project_name_en": "Intelligent Test Orchestrator Cloud",
+    "description_ar": "منظّم اختبارات وCI/CD ذكي يحدد الأولويات ويقلل زمن البناء.",
+    "description_en": "Smart CI/CD and test orchestrator that prioritizes and reduces build time.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تحسين التجربة",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Improve UX",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "GitHub Actions",
+      "pytest",
+      "Selenium",
+      "Docker"
+    ],
+    "bootcamp": "تطوير المهارات (ServiceNow)",
+    "AI_Domain": "DevOps",
+    "AI_Type": "CI/CD Intelligence",
+    "team_members": [
+      {
+        "name_ar": "أمل",
+        "name_en": "Amal",
+        "id": "T3791",
+        "skills": [
+          "أمن سيبراني",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T9209",
+        "skills": [
+          "أمن سيبراني",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T7133",
+        "skills": [
+          "سحابة",
+          "Software Engineering"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 28,
+    "delivery_date": "2024-12-12",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير المهارات (ServiceNow) القديم",
+      "name_en": "Legacy تطوير المهارات (ServiceNow) Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "منظّم اختبارات ذكي الفوري",
+    "project_name_en": "Intelligent Test Orchestrator AI",
+    "description_ar": "منظّم اختبارات وCI/CD ذكي يحدد الأولويات ويقلل زمن البناء.",
+    "description_en": "Smart CI/CD and test orchestrator that prioritizes and reduces build time.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تقليل التكاليف",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Reduce costs",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Python",
+      "GitHub Actions",
+      "pytest",
+      "Selenium",
+      "Docker"
+    ],
+    "bootcamp": "تطوير المهارات (ServiceNow)",
+    "AI_Domain": "DevOps",
+    "AI_Type": "Incident Triage",
+    "team_members": [
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T5559",
+        "skills": [
+          "إنترنت الأشياء",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T4226",
+        "skills": [
+          "أمن سيبراني",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T8525",
+        "skills": [
+          "إنترنت الأشياء",
+          "AI"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 58,
+    "delivery_date": "2026-12-09",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير المهارات (ServiceNow) القديم",
+      "name_en": "Legacy تطوير المهارات (ServiceNow) Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "منظّم اختبارات ذكي التعاوني",
+    "project_name_en": "Intelligent Test Orchestrator AI",
+    "description_ar": "منظّم اختبارات وCI/CD ذكي يحدد الأولويات ويقلل زمن البناء.",
+    "description_en": "Smart CI/CD and test orchestrator that prioritizes and reduces build time.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تعزيز الأمان",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Enhance security",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Python",
+      "GitHub Actions",
+      "pytest",
+      "Selenium",
+      "Docker"
+    ],
+    "bootcamp": "تطوير المهارات (ServiceNow)",
+    "AI_Domain": "DevOps",
+    "AI_Type": "CI/CD Intelligence",
+    "team_members": [
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T9810",
+        "skills": [
+          "تحليل البيانات",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T8317",
+        "skills": [
+          "إنترنت الأشياء",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T5062",
+        "skills": [
+          "تطوير الويب",
+          "Computer Vision"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 95,
+    "delivery_date": "2025-01-09",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير المهارات (ServiceNow) القديم",
+      "name_en": "Legacy تطوير المهارات (ServiceNow) Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "منظّم اختبارات ذكي التعاوني",
+    "project_name_en": "Intelligent Test Orchestrator AI",
+    "description_ar": "منظّم اختبارات وCI/CD ذكي يحدد الأولويات ويقلل زمن البناء.",
+    "description_en": "Smart CI/CD and test orchestrator that prioritizes and reduces build time.",
+    "objectives": {
+      "ar": [
+        "تعزيز الأمان",
+        "تحسين الدقة",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Enhance security",
+        "Improve accuracy",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Python",
+      "GitHub Actions",
+      "pytest",
+      "Selenium",
+      "Docker"
+    ],
+    "bootcamp": "تطوير المهارات (ServiceNow)",
+    "AI_Domain": "DevOps",
+    "AI_Type": "Incident Triage",
+    "team_members": [
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T9561",
+        "skills": [
+          "رؤية حاسوبية",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T4403",
+        "skills": [
+          "تطوير الويب",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T8819",
+        "skills": [
+          "هندسة برمجيات",
+          "Data Analysis"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 14,
+    "delivery_date": "2024-04-14",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير المهارات (ServiceNow) القديم",
+      "name_en": "Legacy تطوير المهارات (ServiceNow) Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "منظّم اختبارات ذكي التعاوني",
+    "project_name_en": "Intelligent Test Orchestrator Pro",
+    "description_ar": "منظّم اختبارات وCI/CD ذكي يحدد الأولويات ويقلل زمن البناء.",
+    "description_en": "Smart CI/CD and test orchestrator that prioritizes and reduces build time.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "تقليل التكاليف",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Reduce costs",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Python",
+      "GitHub Actions",
+      "pytest",
+      "Selenium",
+      "Docker"
+    ],
+    "bootcamp": "تطوير المهارات (ServiceNow)",
+    "AI_Domain": "DevOps",
+    "AI_Type": "Test Prioritization",
+    "team_members": [
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T8982",
+        "skills": [
+          "رؤية حاسوبية",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T1157",
+        "skills": [
+          "إنترنت الأشياء",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T2827",
+        "skills": [
+          "هندسة برمجيات",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 15,
+    "delivery_date": "2026-07-23",
+    "related_old_project": {
+      "name_ar": "مشروع تطوير المهارات (ServiceNow) القديم",
+      "name_en": "Legacy تطوير المهارات (ServiceNow) Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  }
+]

@@ -1,0 +1,648 @@
+[
+  {
+    "project_name_ar": "مساعد لغوي تحليلي السحابي",
+    "project_name_en": "Analytical Language Assistant Pro",
+    "description_ar": "مساعد لغوي يفهم النصوص والسياق ويولّد ملخصات واقتراحات تلقائيًا.",
+    "description_en": "Language assistant that understands context, summarizes, and generates smart suggestions.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "تحسين التجربة",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Reduce costs",
+        "Improve UX",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Python",
+      "LangChain",
+      "OpenAI",
+      "FastAPI",
+      "ChromaDB"
+    ],
+    "bootcamp": "الذكاء الاصطناعي التوكيلي",
+    "AI_Domain": "NLP",
+    "AI_Type": "Intent Classification",
+    "team_members": [
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T9843",
+        "skills": [
+          "تطوير الويب",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T3295",
+        "skills": [
+          "DevOps",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T4836",
+        "skills": [
+          "إنترنت الأشياء",
+          "Cybersecurity"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 86,
+    "delivery_date": "2025-10-18",
+    "related_old_project": {
+      "name_ar": "مشروع الذكاء الاصطناعي التوكيلي القديم",
+      "name_en": "Legacy الذكاء الاصطناعي التوكيلي Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مساعد لغوي تحليلي التنبؤي",
+    "project_name_en": "Analytical Language Assistant AI",
+    "description_ar": "مساعد لغوي يفهم النصوص والسياق ويولّد ملخصات واقتراحات تلقائيًا.",
+    "description_en": "Language assistant that understands context, summarizes, and generates smart suggestions.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "رفع الكفاءة",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Increase efficiency",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "LangChain",
+      "OpenAI",
+      "FastAPI",
+      "ChromaDB"
+    ],
+    "bootcamp": "الذكاء الاصطناعي التوكيلي",
+    "AI_Domain": "NLP",
+    "AI_Type": "Intent Classification",
+    "team_members": [
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T9120",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T7244",
+        "skills": [
+          "DevOps",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T7821",
+        "skills": [
+          "سحابة",
+          "UI/UX"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 76,
+    "delivery_date": "2025-09-06",
+    "related_old_project": {
+      "name_ar": "مشروع الذكاء الاصطناعي التوكيلي القديم",
+      "name_en": "Legacy الذكاء الاصطناعي التوكيلي Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مساعد لغوي تحليلي الذكي",
+    "project_name_en": "Analytical Language Assistant Cloud",
+    "description_ar": "مساعد لغوي يفهم النصوص والسياق ويولّد ملخصات واقتراحات تلقائيًا.",
+    "description_en": "Language assistant that understands context, summarizes, and generates smart suggestions.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تحسين التجربة",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Improve UX",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "LangChain",
+      "OpenAI",
+      "FastAPI",
+      "ChromaDB"
+    ],
+    "bootcamp": "الذكاء الاصطناعي التوكيلي",
+    "AI_Domain": "NLP",
+    "AI_Type": "Text Summarization",
+    "team_members": [
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T7761",
+        "skills": [
+          "سحابة",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T9683",
+        "skills": [
+          "واجهة المستخدم",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T4978",
+        "skills": [
+          "رؤية حاسوبية",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 40,
+    "delivery_date": "2025-11-07",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "مساعد لغوي تحليلي المتقدّم",
+    "project_name_en": "Analytical Language Assistant RT",
+    "description_ar": "مساعد لغوي يفهم النصوص والسياق ويولّد ملخصات واقتراحات تلقائيًا.",
+    "description_en": "Language assistant that understands context, summarizes, and generates smart suggestions.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تحسين الدقة",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Improve accuracy",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "LangChain",
+      "OpenAI",
+      "FastAPI",
+      "ChromaDB"
+    ],
+    "bootcamp": "الذكاء الاصطناعي التوكيلي",
+    "AI_Domain": "NLP",
+    "AI_Type": "RAG",
+    "team_members": [
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T4082",
+        "skills": [
+          "إنترنت الأشياء",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T4555",
+        "skills": [
+          "هندسة برمجيات",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T6455",
+        "skills": [
+          "رؤية حاسوبية",
+          "AI"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 21,
+    "delivery_date": "2025-03-09",
+    "related_old_project": {
+      "name_ar": "مشروع الذكاء الاصطناعي التوكيلي القديم",
+      "name_en": "Legacy الذكاء الاصطناعي التوكيلي Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مساعد لغوي تحليلي التعاوني",
+    "project_name_en": "Analytical Language Assistant Pro",
+    "description_ar": "مساعد لغوي يفهم النصوص والسياق ويولّد ملخصات واقتراحات تلقائيًا.",
+    "description_en": "Language assistant that understands context, summarizes, and generates smart suggestions.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تعزيز الأمان",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Improve UX",
+        "Enhance security",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "LangChain",
+      "OpenAI",
+      "FastAPI",
+      "ChromaDB"
+    ],
+    "bootcamp": "الذكاء الاصطناعي التوكيلي",
+    "AI_Domain": "NLP",
+    "AI_Type": "Intent Classification",
+    "team_members": [
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T6269",
+        "skills": [
+          "رؤية حاسوبية",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T8639",
+        "skills": [
+          "DevOps",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T6053",
+        "skills": [
+          "رؤية حاسوبية",
+          "Cybersecurity"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 71,
+    "delivery_date": "2026-11-16",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "مساعد لغوي تحليلي الفوري",
+    "project_name_en": "Analytical Language Assistant Pro",
+    "description_ar": "مساعد لغوي يفهم النصوص والسياق ويولّد ملخصات واقتراحات تلقائيًا.",
+    "description_en": "Language assistant that understands context, summarizes, and generates smart suggestions.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تقليل التكاليف",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Reduce costs",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Python",
+      "LangChain",
+      "OpenAI",
+      "FastAPI",
+      "ChromaDB"
+    ],
+    "bootcamp": "الذكاء الاصطناعي التوكيلي",
+    "AI_Domain": "NLP",
+    "AI_Type": "Text Summarization",
+    "team_members": [
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T4625",
+        "skills": [
+          "واجهة المستخدم",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T5272",
+        "skills": [
+          "DevOps",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T7841",
+        "skills": [
+          "رؤية حاسوبية",
+          "UI/UX"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 70,
+    "delivery_date": "2025-02-05",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "مساعد لغوي تحليلي الذكي",
+    "project_name_en": "Analytical Language Assistant RT",
+    "description_ar": "مساعد لغوي يفهم النصوص والسياق ويولّد ملخصات واقتراحات تلقائيًا.",
+    "description_en": "Language assistant that understands context, summarizes, and generates smart suggestions.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تسريع الإنجاز",
+        "تحسين التجربة"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Speed up delivery",
+        "Improve UX"
+      ]
+    },
+    "tools": [
+      "Python",
+      "LangChain",
+      "OpenAI",
+      "FastAPI",
+      "ChromaDB"
+    ],
+    "bootcamp": "الذكاء الاصطناعي التوكيلي",
+    "AI_Domain": "NLP",
+    "AI_Type": "Text Summarization",
+    "team_members": [
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T3773",
+        "skills": [
+          "واجهة المستخدم",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T9000",
+        "skills": [
+          "واجهة المستخدم",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "أحمد",
+        "name_en": "Ahmed",
+        "id": "T1962",
+        "skills": [
+          "DevOps",
+          "AI"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 41,
+    "delivery_date": "2024-06-01",
+    "related_old_project": {
+      "name_ar": "مشروع الذكاء الاصطناعي التوكيلي القديم",
+      "name_en": "Legacy الذكاء الاصطناعي التوكيلي Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مساعد لغوي تحليلي المتقدّم",
+    "project_name_en": "Analytical Language Assistant Pro",
+    "description_ar": "مساعد لغوي يفهم النصوص والسياق ويولّد ملخصات واقتراحات تلقائيًا.",
+    "description_en": "Language assistant that understands context, summarizes, and generates smart suggestions.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "رفع الكفاءة",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Reduce costs",
+        "Increase efficiency",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Python",
+      "LangChain",
+      "OpenAI",
+      "FastAPI",
+      "ChromaDB"
+    ],
+    "bootcamp": "الذكاء الاصطناعي التوكيلي",
+    "AI_Domain": "NLP",
+    "AI_Type": "RAG",
+    "team_members": [
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T8471",
+        "skills": [
+          "أمن سيبراني",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T8916",
+        "skills": [
+          "هندسة برمجيات",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "أمل",
+        "name_en": "Amal",
+        "id": "T1108",
+        "skills": [
+          "DevOps",
+          "DevOps"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 27,
+    "delivery_date": "2026-04-22",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "مساعد لغوي تحليلي المتقدّم",
+    "project_name_en": "Analytical Language Assistant Cloud",
+    "description_ar": "مساعد لغوي يفهم النصوص والسياق ويولّد ملخصات واقتراحات تلقائيًا.",
+    "description_en": "Language assistant that understands context, summarizes, and generates smart suggestions.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تعزيز الأمان",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Enhance security",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "LangChain",
+      "OpenAI",
+      "FastAPI",
+      "ChromaDB"
+    ],
+    "bootcamp": "الذكاء الاصطناعي التوكيلي",
+    "AI_Domain": "NLP",
+    "AI_Type": "Intent Classification",
+    "team_members": [
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T9591",
+        "skills": [
+          "واجهة المستخدم",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T4144",
+        "skills": [
+          "إنترنت الأشياء",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T5135",
+        "skills": [
+          "أمن سيبراني",
+          "Computer Vision"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 45,
+    "delivery_date": "2026-03-23",
+    "related_old_project": {
+      "name_ar": "مشروع الذكاء الاصطناعي التوكيلي القديم",
+      "name_en": "Legacy الذكاء الاصطناعي التوكيلي Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "مساعد لغوي تحليلي التنبؤي",
+    "project_name_en": "Analytical Language Assistant RT",
+    "description_ar": "مساعد لغوي يفهم النصوص والسياق ويولّد ملخصات واقتراحات تلقائيًا.",
+    "description_en": "Language assistant that understands context, summarizes, and generates smart suggestions.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تحسين التجربة",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Improve UX",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Python",
+      "LangChain",
+      "OpenAI",
+      "FastAPI",
+      "ChromaDB"
+    ],
+    "bootcamp": "الذكاء الاصطناعي التوكيلي",
+    "AI_Domain": "NLP",
+    "AI_Type": "Intent Classification",
+    "team_members": [
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T7213",
+        "skills": [
+          "سحابة",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T8798",
+        "skills": [
+          "ذكاء اصطناعي",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T3807",
+        "skills": [
+          "تحليل البيانات",
+          "Software Engineering"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 82,
+    "delivery_date": "2026-06-07",
+    "related_old_project": {
+      "name_ar": "مشروع الذكاء الاصطناعي التوكيلي القديم",
+      "name_en": "Legacy الذكاء الاصطناعي التوكيلي Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  }
+]

@@ -1,0 +1,666 @@
+[
+  {
+    "project_name_ar": "صيانة تنبؤية للأجهزة التنبؤي",
+    "project_name_en": "Predictive Device Maintenance Coop",
+    "description_ar": "نظام صيانة تنبؤية يعتمد على اهتزاز/حرارة لإطالة عمر الأجهزة.",
+    "description_en": "Predictive maintenance using vibration/thermal signals to extend device lifespan.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تقليل التكاليف",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Reduce costs",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Python",
+      "MATLAB",
+      "Arduino",
+      "Raspberry Pi",
+      "FastAPI"
+    ],
+    "bootcamp": "أساسيات هندسة الميكاترونكس",
+    "AI_Domain": "Mechatronics",
+    "AI_Type": "Predictive Maintenance",
+    "team_members": [
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T6639",
+        "skills": [
+          "ذكاء اصطناعي",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T8046",
+        "skills": [
+          "تحليل البيانات",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T1196",
+        "skills": [
+          "تحليل البيانات",
+          "Cybersecurity"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 16,
+    "delivery_date": "2026-01-10",
+    "related_old_project": {
+      "name_ar": "مشروع أساسيات هندسة الميكاترونكس القديم",
+      "name_en": "Legacy أساسيات هندسة الميكاترونكس Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "صيانة تنبؤية للأجهزة السحابي",
+    "project_name_en": "Predictive Device Maintenance Predict",
+    "description_ar": "نظام صيانة تنبؤية يعتمد على اهتزاز/حرارة لإطالة عمر الأجهزة.",
+    "description_en": "Predictive maintenance using vibration/thermal signals to extend device lifespan.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تسريع الإنجاز",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Speed up delivery",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Python",
+      "MATLAB",
+      "Arduino",
+      "Raspberry Pi",
+      "FastAPI"
+    ],
+    "bootcamp": "أساسيات هندسة الميكاترونكس",
+    "AI_Domain": "Mechatronics",
+    "AI_Type": "Signal Processing",
+    "team_members": [
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T4117",
+        "skills": [
+          "تطوير الويب",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T3794",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T7713",
+        "skills": [
+          "هندسة برمجيات",
+          "Software Engineering"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 50,
+    "delivery_date": "2025-10-26",
+    "related_old_project": {
+      "name_ar": "مشروع أساسيات هندسة الميكاترونكس القديم",
+      "name_en": "Legacy أساسيات هندسة الميكاترونكس Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "صيانة تنبؤية للأجهزة الفوري",
+    "project_name_en": "Predictive Device Maintenance RT",
+    "description_ar": "نظام صيانة تنبؤية يعتمد على اهتزاز/حرارة لإطالة عمر الأجهزة.",
+    "description_en": "Predictive maintenance using vibration/thermal signals to extend device lifespan.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "رفع الكفاءة",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Increase efficiency",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "MATLAB",
+      "Arduino",
+      "Raspberry Pi",
+      "FastAPI"
+    ],
+    "bootcamp": "أساسيات هندسة الميكاترونكس",
+    "AI_Domain": "Mechatronics",
+    "AI_Type": "Predictive Maintenance",
+    "team_members": [
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T7544",
+        "skills": [
+          "أمن سيبراني",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T8116",
+        "skills": [
+          "واجهة المستخدم",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T4013",
+        "skills": [
+          "تطوير الويب",
+          "Data Analysis"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 29,
+    "delivery_date": "2024-02-03",
+    "related_old_project": {
+      "name_ar": "مشروع أساسيات هندسة الميكاترونكس القديم",
+      "name_en": "Legacy أساسيات هندسة الميكاترونكس Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "صيانة تنبؤية للأجهزة الفوري",
+    "project_name_en": "Predictive Device Maintenance AI",
+    "description_ar": "نظام صيانة تنبؤية يعتمد على اهتزاز/حرارة لإطالة عمر الأجهزة.",
+    "description_en": "Predictive maintenance using vibration/thermal signals to extend device lifespan.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "تقليل التكاليف",
+        "تحسين الدقة"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Reduce costs",
+        "Improve accuracy"
+      ]
+    },
+    "tools": [
+      "Python",
+      "MATLAB",
+      "Arduino",
+      "Raspberry Pi",
+      "FastAPI"
+    ],
+    "bootcamp": "أساسيات هندسة الميكاترونكس",
+    "AI_Domain": "Mechatronics",
+    "AI_Type": "Predictive Maintenance",
+    "team_members": [
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T4112",
+        "skills": [
+          "هندسة برمجيات",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T9177",
+        "skills": [
+          "سحابة",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T3618",
+        "skills": [
+          "هندسة برمجيات",
+          "AI"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 53,
+    "delivery_date": "2025-12-24",
+    "related_old_project": {
+      "name_ar": "مشروع أساسيات هندسة الميكاترونكس القديم",
+      "name_en": "Legacy أساسيات هندسة الميكاترونكس Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "صيانة تنبؤية للأجهزة المتقدّم",
+    "project_name_en": "Predictive Device Maintenance Predict",
+    "description_ar": "نظام صيانة تنبؤية يعتمد على اهتزاز/حرارة لإطالة عمر الأجهزة.",
+    "description_en": "Predictive maintenance using vibration/thermal signals to extend device lifespan.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "تعزيز الأمان",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Reduce costs",
+        "Enhance security",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "MATLAB",
+      "Arduino",
+      "Raspberry Pi",
+      "FastAPI"
+    ],
+    "bootcamp": "أساسيات هندسة الميكاترونكس",
+    "AI_Domain": "Mechatronics",
+    "AI_Type": "Signal Processing",
+    "team_members": [
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T1212",
+        "skills": [
+          "رؤية حاسوبية",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T6547",
+        "skills": [
+          "رؤية حاسوبية",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T8028",
+        "skills": [
+          "إنترنت الأشياء",
+          "Data Analysis"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 71,
+    "delivery_date": "2024-09-22",
+    "related_old_project": {
+      "name_ar": "مشروع أساسيات هندسة الميكاترونكس القديم",
+      "name_en": "Legacy أساسيات هندسة الميكاترونكس Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "صيانة تنبؤية للأجهزة التنبؤي",
+    "project_name_en": "Predictive Device Maintenance Coop",
+    "description_ar": "نظام صيانة تنبؤية يعتمد على اهتزاز/حرارة لإطالة عمر الأجهزة.",
+    "description_en": "Predictive maintenance using vibration/thermal signals to extend device lifespan.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تقليل الأخطاء",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Reduce errors",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "MATLAB",
+      "Arduino",
+      "Raspberry Pi",
+      "FastAPI"
+    ],
+    "bootcamp": "أساسيات هندسة الميكاترونكس",
+    "AI_Domain": "Mechatronics",
+    "AI_Type": "Predictive Maintenance",
+    "team_members": [
+      {
+        "name_ar": "أحمد",
+        "name_en": "Ahmed",
+        "id": "T4431",
+        "skills": [
+          "أمن سيبراني",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T6120",
+        "skills": [
+          "هندسة برمجيات",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T6582",
+        "skills": [
+          "إنترنت الأشياء",
+          "Cybersecurity"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 26,
+    "delivery_date": "2025-02-02",
+    "related_old_project": {
+      "name_ar": "مشروع أساسيات هندسة الميكاترونكس القديم",
+      "name_en": "Legacy أساسيات هندسة الميكاترونكس Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "صيانة تنبؤية للأجهزة التنبؤي",
+    "project_name_en": "Predictive Device Maintenance Coop",
+    "description_ar": "نظام صيانة تنبؤية يعتمد على اهتزاز/حرارة لإطالة عمر الأجهزة.",
+    "description_en": "Predictive maintenance using vibration/thermal signals to extend device lifespan.",
+    "objectives": {
+      "ar": [
+        "تعزيز الأمان",
+        "تقليل التكاليف",
+        "تحسين التجربة"
+      ],
+      "en": [
+        "Enhance security",
+        "Reduce costs",
+        "Improve UX"
+      ]
+    },
+    "tools": [
+      "Python",
+      "MATLAB",
+      "Arduino",
+      "Raspberry Pi",
+      "FastAPI"
+    ],
+    "bootcamp": "أساسيات هندسة الميكاترونكس",
+    "AI_Domain": "Mechatronics",
+    "AI_Type": "Signal Processing",
+    "team_members": [
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T1317",
+        "skills": [
+          "أمن سيبراني",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T2566",
+        "skills": [
+          "سحابة",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T6269",
+        "skills": [
+          "تحليل البيانات",
+          "DevOps"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 39,
+    "delivery_date": "2026-10-02",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "صيانة تنبؤية للأجهزة السحابي",
+    "project_name_en": "Predictive Device Maintenance Coop",
+    "description_ar": "نظام صيانة تنبؤية يعتمد على اهتزاز/حرارة لإطالة عمر الأجهزة.",
+    "description_en": "Predictive maintenance using vibration/thermal signals to extend device lifespan.",
+    "objectives": {
+      "ar": [
+        "تقليل الأخطاء",
+        "تحسين الدقة",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Reduce errors",
+        "Improve accuracy",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "MATLAB",
+      "Arduino",
+      "Raspberry Pi",
+      "FastAPI"
+    ],
+    "bootcamp": "أساسيات هندسة الميكاترونكس",
+    "AI_Domain": "Mechatronics",
+    "AI_Type": "Predictive Maintenance",
+    "team_members": [
+      {
+        "name_ar": "أحمد",
+        "name_en": "Ahmed",
+        "id": "T5040",
+        "skills": [
+          "تطوير الويب",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T6361",
+        "skills": [
+          "أمن سيبراني",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "يزيد",
+        "name_en": "Yazeed",
+        "id": "T8906",
+        "skills": [
+          "DevOps",
+          "UI/UX"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 18,
+    "delivery_date": "2025-07-12",
+    "related_old_project": {
+      "name_ar": "مشروع أساسيات هندسة الميكاترونكس القديم",
+      "name_en": "Legacy أساسيات هندسة الميكاترونكس Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "صيانة تنبؤية للأجهزة الفوري",
+    "project_name_en": "Predictive Device Maintenance Predict",
+    "description_ar": "نظام صيانة تنبؤية يعتمد على اهتزاز/حرارة لإطالة عمر الأجهزة.",
+    "description_en": "Predictive maintenance using vibration/thermal signals to extend device lifespan.",
+    "objectives": {
+      "ar": [
+        "تعزيز الأمان",
+        "تقليل الأخطاء",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Enhance security",
+        "Reduce errors",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Python",
+      "MATLAB",
+      "Arduino",
+      "Raspberry Pi",
+      "FastAPI"
+    ],
+    "bootcamp": "أساسيات هندسة الميكاترونكس",
+    "AI_Domain": "Mechatronics",
+    "AI_Type": "Predictive Maintenance",
+    "team_members": [
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T9577",
+        "skills": [
+          "DevOps",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T5066",
+        "skills": [
+          "سحابة",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T1178",
+        "skills": [
+          "رؤية حاسوبية",
+          "Computer Vision"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 78,
+    "delivery_date": "2025-02-22",
+    "related_old_project": {
+      "name_ar": "مشروع أساسيات هندسة الميكاترونكس القديم",
+      "name_en": "Legacy أساسيات هندسة الميكاترونكس Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "صيانة تنبؤية للأجهزة التنبؤي",
+    "project_name_en": "Predictive Device Maintenance Pro",
+    "description_ar": "نظام صيانة تنبؤية يعتمد على اهتزاز/حرارة لإطالة عمر الأجهزة.",
+    "description_en": "Predictive maintenance using vibration/thermal signals to extend device lifespan.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تحسين الدقة",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Improve accuracy",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "MATLAB",
+      "Arduino",
+      "Raspberry Pi",
+      "FastAPI"
+    ],
+    "bootcamp": "أساسيات هندسة الميكاترونكس",
+    "AI_Domain": "Mechatronics",
+    "AI_Type": "Signal Processing",
+    "team_members": [
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T3571",
+        "skills": [
+          "إنترنت الأشياء",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T6146",
+        "skills": [
+          "تحليل البيانات",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T8470",
+        "skills": [
+          "رؤية حاسوبية",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 20,
+    "delivery_date": "2026-07-17",
+    "related_old_project": {
+      "name_ar": "مشروع أساسيات هندسة الميكاترونكس القديم",
+      "name_en": "Legacy أساسيات هندسة الميكاترونكس Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  }
+]

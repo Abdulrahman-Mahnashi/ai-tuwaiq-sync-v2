@@ -1,0 +1,660 @@
+[
+  {
+    "project_name_ar": "منظّم اختبارات ذكي التنبؤي",
+    "project_name_en": "Intelligent Test Orchestrator Predict",
+    "description_ar": "منظّم اختبارات وCI/CD ذكي يحدد الأولويات ويقلل زمن البناء.",
+    "description_en": "Smart CI/CD and test orchestrator that prioritizes and reduces build time.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "تعزيز الأمان",
+        "رفع الكفاءة"
+      ],
+      "en": [
+        "Reduce costs",
+        "Enhance security",
+        "Increase efficiency"
+      ]
+    },
+    "tools": [
+      "Python",
+      "GitHub Actions",
+      "pytest",
+      "Selenium",
+      "Docker"
+    ],
+    "bootcamp": "تطبيق منهجيّة DevOps",
+    "AI_Domain": "DevOps",
+    "AI_Type": "Test Prioritization",
+    "team_members": [
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T4018",
+        "skills": [
+          "DevOps",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T6199",
+        "skills": [
+          "ذكاء اصطناعي",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T4734",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Computer Vision"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 26,
+    "delivery_date": "2025-06-11",
+    "related_old_project": {
+      "name_ar": "مشروع تطبيق منهجيّة DevOps القديم",
+      "name_en": "Legacy تطبيق منهجيّة DevOps Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "منظّم اختبارات ذكي التعاوني",
+    "project_name_en": "Intelligent Test Orchestrator Predict",
+    "description_ar": "منظّم اختبارات وCI/CD ذكي يحدد الأولويات ويقلل زمن البناء.",
+    "description_en": "Smart CI/CD and test orchestrator that prioritizes and reduces build time.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تقليل الأخطاء",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Reduce errors",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "GitHub Actions",
+      "pytest",
+      "Selenium",
+      "Docker"
+    ],
+    "bootcamp": "تطبيق منهجيّة DevOps",
+    "AI_Domain": "DevOps",
+    "AI_Type": "CI/CD Intelligence",
+    "team_members": [
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T2268",
+        "skills": [
+          "تطوير الويب",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "جواد",
+        "name_en": "Jawad",
+        "id": "T6337",
+        "skills": [
+          "إنترنت الأشياء",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "أمل",
+        "name_en": "Amal",
+        "id": "T7815",
+        "skills": [
+          "تحليل البيانات",
+          "Cloud"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 15,
+    "delivery_date": "2025-08-02",
+    "related_old_project": {
+      "name_ar": "مشروع تطبيق منهجيّة DevOps القديم",
+      "name_en": "Legacy تطبيق منهجيّة DevOps Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "منظّم اختبارات ذكي المتقدّم",
+    "project_name_en": "Intelligent Test Orchestrator Predict",
+    "description_ar": "منظّم اختبارات وCI/CD ذكي يحدد الأولويات ويقلل زمن البناء.",
+    "description_en": "Smart CI/CD and test orchestrator that prioritizes and reduces build time.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تحسين الدقة",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Improve UX",
+        "Improve accuracy",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "GitHub Actions",
+      "pytest",
+      "Selenium",
+      "Docker"
+    ],
+    "bootcamp": "تطبيق منهجيّة DevOps",
+    "AI_Domain": "DevOps",
+    "AI_Type": "CI/CD Intelligence",
+    "team_members": [
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T7034",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T3458",
+        "skills": [
+          "إنترنت الأشياء",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T2740",
+        "skills": [
+          "إنترنت الأشياء",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 56,
+    "delivery_date": "2025-10-03",
+    "related_old_project": {
+      "name_ar": "مشروع تطبيق منهجيّة DevOps القديم",
+      "name_en": "Legacy تطبيق منهجيّة DevOps Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "منظّم اختبارات ذكي التعاوني",
+    "project_name_en": "Intelligent Test Orchestrator Coop",
+    "description_ar": "منظّم اختبارات وCI/CD ذكي يحدد الأولويات ويقلل زمن البناء.",
+    "description_en": "Smart CI/CD and test orchestrator that prioritizes and reduces build time.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "تسريع الإنجاز",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Reduce costs",
+        "Speed up delivery",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "GitHub Actions",
+      "pytest",
+      "Selenium",
+      "Docker"
+    ],
+    "bootcamp": "تطبيق منهجيّة DevOps",
+    "AI_Domain": "DevOps",
+    "AI_Type": "Incident Triage",
+    "team_members": [
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T2285",
+        "skills": [
+          "تحليل البيانات",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "نورة",
+        "name_en": "Noura",
+        "id": "T9249",
+        "skills": [
+          "إنترنت الأشياء",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T7849",
+        "skills": [
+          "DevOps",
+          "Data Analysis"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 84,
+    "delivery_date": "2026-12-16",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "منظّم اختبارات ذكي السحابي",
+    "project_name_en": "Intelligent Test Orchestrator RT",
+    "description_ar": "منظّم اختبارات وCI/CD ذكي يحدد الأولويات ويقلل زمن البناء.",
+    "description_en": "Smart CI/CD and test orchestrator that prioritizes and reduces build time.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تقليل التكاليف",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Reduce costs",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "GitHub Actions",
+      "pytest",
+      "Selenium",
+      "Docker"
+    ],
+    "bootcamp": "تطبيق منهجيّة DevOps",
+    "AI_Domain": "DevOps",
+    "AI_Type": "CI/CD Intelligence",
+    "team_members": [
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T4982",
+        "skills": [
+          "أمن سيبراني",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T8468",
+        "skills": [
+          "أمن سيبراني",
+          "Data Analysis"
+        ]
+      },
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T4949",
+        "skills": [
+          "هندسة برمجيات",
+          "Cloud"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 77,
+    "delivery_date": "2026-01-11",
+    "related_old_project": {
+      "name_ar": "مشروع تطبيق منهجيّة DevOps القديم",
+      "name_en": "Legacy تطبيق منهجيّة DevOps Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "منظّم اختبارات ذكي التنبؤي",
+    "project_name_en": "Intelligent Test Orchestrator Cloud",
+    "description_ar": "منظّم اختبارات وCI/CD ذكي يحدد الأولويات ويقلل زمن البناء.",
+    "description_en": "Smart CI/CD and test orchestrator that prioritizes and reduces build time.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تسريع الإنجاز",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Improve UX",
+        "Speed up delivery",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "GitHub Actions",
+      "pytest",
+      "Selenium",
+      "Docker"
+    ],
+    "bootcamp": "تطبيق منهجيّة DevOps",
+    "AI_Domain": "DevOps",
+    "AI_Type": "CI/CD Intelligence",
+    "team_members": [
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T4764",
+        "skills": [
+          "إنترنت الأشياء",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T9808",
+        "skills": [
+          "تطوير الويب",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T3263",
+        "skills": [
+          "إنترنت الأشياء",
+          "Computer Vision"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 19,
+    "delivery_date": "2025-08-10",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "منظّم اختبارات ذكي التنبؤي",
+    "project_name_en": "Intelligent Test Orchestrator Pro",
+    "description_ar": "منظّم اختبارات وCI/CD ذكي يحدد الأولويات ويقلل زمن البناء.",
+    "description_en": "Smart CI/CD and test orchestrator that prioritizes and reduces build time.",
+    "objectives": {
+      "ar": [
+        "تعزيز الأمان",
+        "تسريع الإنجاز",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Enhance security",
+        "Speed up delivery",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "GitHub Actions",
+      "pytest",
+      "Selenium",
+      "Docker"
+    ],
+    "bootcamp": "تطبيق منهجيّة DevOps",
+    "AI_Domain": "DevOps",
+    "AI_Type": "Test Prioritization",
+    "team_members": [
+      {
+        "name_ar": "ليان",
+        "name_en": "Layan",
+        "id": "T3732",
+        "skills": [
+          "تحليل البيانات",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T5315",
+        "skills": [
+          "DevOps",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T2654",
+        "skills": [
+          "واجهة المستخدم",
+          "AI"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 13,
+    "delivery_date": "2026-06-02",
+    "related_old_project": {
+      "name_ar": "مشروع تطبيق منهجيّة DevOps القديم",
+      "name_en": "Legacy تطبيق منهجيّة DevOps Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "منظّم اختبارات ذكي التعاوني",
+    "project_name_en": "Intelligent Test Orchestrator AI",
+    "description_ar": "منظّم اختبارات وCI/CD ذكي يحدد الأولويات ويقلل زمن البناء.",
+    "description_en": "Smart CI/CD and test orchestrator that prioritizes and reduces build time.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "تحسين الدقة",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Improve accuracy",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "GitHub Actions",
+      "pytest",
+      "Selenium",
+      "Docker"
+    ],
+    "bootcamp": "تطبيق منهجيّة DevOps",
+    "AI_Domain": "DevOps",
+    "AI_Type": "CI/CD Intelligence",
+    "team_members": [
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T5806",
+        "skills": [
+          "تحليل البيانات",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "سمير",
+        "name_en": "Sameer",
+        "id": "T6515",
+        "skills": [
+          "إنترنت الأشياء",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T2765",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Data Analysis"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 4,
+    "delivery_date": "2025-12-27",
+    "related_old_project": {
+      "name_ar": "مشروع تطبيق منهجيّة DevOps القديم",
+      "name_en": "Legacy تطبيق منهجيّة DevOps Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "منظّم اختبارات ذكي الفوري",
+    "project_name_en": "Intelligent Test Orchestrator Coop",
+    "description_ar": "منظّم اختبارات وCI/CD ذكي يحدد الأولويات ويقلل زمن البناء.",
+    "description_en": "Smart CI/CD and test orchestrator that prioritizes and reduces build time.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "تقليل التكاليف",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Improve UX",
+        "Reduce costs",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Python",
+      "GitHub Actions",
+      "pytest",
+      "Selenium",
+      "Docker"
+    ],
+    "bootcamp": "تطبيق منهجيّة DevOps",
+    "AI_Domain": "DevOps",
+    "AI_Type": "Test Prioritization",
+    "team_members": [
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T3494",
+        "skills": [
+          "ذكاء اصطناعي",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "أمل",
+        "name_en": "Amal",
+        "id": "T7060",
+        "skills": [
+          "هندسة برمجيات",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "محمد",
+        "name_en": "Mohammed",
+        "id": "T6250",
+        "skills": [
+          "هندسة برمجيات",
+          "UI/UX"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 65,
+    "delivery_date": "2026-11-07",
+    "related_old_project": {
+      "name_ar": "مشروع تطبيق منهجيّة DevOps القديم",
+      "name_en": "Legacy تطبيق منهجيّة DevOps Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "منظّم اختبارات ذكي السحابي",
+    "project_name_en": "Intelligent Test Orchestrator Predict",
+    "description_ar": "منظّم اختبارات وCI/CD ذكي يحدد الأولويات ويقلل زمن البناء.",
+    "description_en": "Smart CI/CD and test orchestrator that prioritizes and reduces build time.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تعزيز الأمان",
+        "تحسين التجربة"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Enhance security",
+        "Improve UX"
+      ]
+    },
+    "tools": [
+      "Python",
+      "GitHub Actions",
+      "pytest",
+      "Selenium",
+      "Docker"
+    ],
+    "bootcamp": "تطبيق منهجيّة DevOps",
+    "AI_Domain": "DevOps",
+    "AI_Type": "Incident Triage",
+    "team_members": [
+      {
+        "name_ar": "أمل",
+        "name_en": "Amal",
+        "id": "T7990",
+        "skills": [
+          "رؤية حاسوبية",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T7292",
+        "skills": [
+          "أمن سيبراني",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T3346",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 7,
+    "delivery_date": "2026-05-31",
+    "related_old_project": {
+      "name_ar": "مشروع تطبيق منهجيّة DevOps القديم",
+      "name_en": "Legacy تطبيق منهجيّة DevOps Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  }
+]

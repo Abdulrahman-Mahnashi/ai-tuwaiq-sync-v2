@@ -1,0 +1,636 @@
+[
+  {
+    "project_name_ar": "فحص بصري تنبؤي المتقدّم",
+    "project_name_en": "Predictive Visual Inspection Coop",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "رفع الكفاءة",
+        "تسريع الإنجاز",
+        "تقليل الأخطاء"
+      ],
+      "en": [
+        "Increase efficiency",
+        "Speed up delivery",
+        "Reduce errors"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "التطوير باستخدام تقنيات الواقع الممتد XR",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Anomaly Detection",
+    "team_members": [
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T5489",
+        "skills": [
+          "تحليل البيانات",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T8644",
+        "skills": [
+          "هندسة برمجيات",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T9474",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 78,
+    "delivery_date": "2024-04-06",
+    "related_old_project": {
+      "name_ar": "مشروع التطوير باستخدام تقنيات الواقع الممتد XR القديم",
+      "name_en": "Legacy التطوير باستخدام تقنيات الواقع الممتد XR Project",
+      "year": 2024,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي الفوري",
+    "project_name_en": "Predictive Visual Inspection Cloud",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "رفع الكفاءة",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Increase efficiency",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "التطوير باستخدام تقنيات الواقع الممتد XR",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Pose Estimation",
+    "team_members": [
+      {
+        "name_ar": "سارة",
+        "name_en": "Sara",
+        "id": "T2219",
+        "skills": [
+          "تطوير الويب",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T3694",
+        "skills": [
+          "أمن سيبراني",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T2029",
+        "skills": [
+          "تحليل البيانات",
+          "AI"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 50,
+    "delivery_date": "2026-09-09",
+    "related_old_project": {
+      "name_ar": "مشروع التطوير باستخدام تقنيات الواقع الممتد XR القديم",
+      "name_en": "Legacy التطوير باستخدام تقنيات الواقع الممتد XR Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي المتقدّم",
+    "project_name_en": "Predictive Visual Inspection Cloud",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "رفع الكفاءة",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Reduce costs",
+        "Increase efficiency",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "التطوير باستخدام تقنيات الواقع الممتد XR",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Pose Estimation",
+    "team_members": [
+      {
+        "name_ar": "خالد",
+        "name_en": "Khaled",
+        "id": "T6465",
+        "skills": [
+          "DevOps",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T2194",
+        "skills": [
+          "إنترنت الأشياء",
+          "IoT"
+        ]
+      },
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T8184",
+        "skills": [
+          "تحليل البيانات",
+          "Software Engineering"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 52,
+    "delivery_date": "2024-09-12",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي المتقدّم",
+    "project_name_en": "Predictive Visual Inspection Pro",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تحسين التجربة",
+        "رفع الكفاءة",
+        "تقليل التكاليف"
+      ],
+      "en": [
+        "Improve UX",
+        "Increase efficiency",
+        "Reduce costs"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "التطوير باستخدام تقنيات الواقع الممتد XR",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Object Detection",
+    "team_members": [
+      {
+        "name_ar": "عبدالرحمن",
+        "name_en": "Abdulrahman",
+        "id": "T5939",
+        "skills": [
+          "إنترنت الأشياء",
+          "Cloud"
+        ]
+      },
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T2077",
+        "skills": [
+          "تحليل البيانات",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T1855",
+        "skills": [
+          "رؤية حاسوبية",
+          "Cloud"
+        ]
+      }
+    ],
+    "status": "قيد التنفيذ",
+    "progress": 50,
+    "delivery_date": "2026-04-02",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي السحابي",
+    "project_name_en": "Predictive Visual Inspection RT",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تعزيز الأمان",
+        "رفع الكفاءة",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Enhance security",
+        "Increase efficiency",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "التطوير باستخدام تقنيات الواقع الممتد XR",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Object Detection",
+    "team_members": [
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T2659",
+        "skills": [
+          "أمن سيبراني",
+          "AI"
+        ]
+      },
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T8439",
+        "skills": [
+          "DevOps",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T4153",
+        "skills": [
+          "تحليل البيانات",
+          "Data Analysis"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 19,
+    "delivery_date": "2024-01-26",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي التعاوني",
+    "project_name_en": "Predictive Visual Inspection Pro",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "تحسين التجربة",
+        "تعزيز الأمان"
+      ],
+      "en": [
+        "Reduce costs",
+        "Improve UX",
+        "Enhance security"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "التطوير باستخدام تقنيات الواقع الممتد XR",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Anomaly Detection",
+    "team_members": [
+      {
+        "name_ar": "رنا",
+        "name_en": "Rana",
+        "id": "T8887",
+        "skills": [
+          "إنترنت الأشياء",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "أحمد",
+        "name_en": "Ahmed",
+        "id": "T4046",
+        "skills": [
+          "تطوير الويب",
+          "UI/UX"
+        ]
+      },
+      {
+        "name_ar": "منى",
+        "name_en": "Mona",
+        "id": "T1722",
+        "skills": [
+          "ذكاء اصطناعي",
+          "UI/UX"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 34,
+    "delivery_date": "2025-09-30",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي الفوري",
+    "project_name_en": "Predictive Visual Inspection Cloud",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تقليل التكاليف",
+        "تسريع الإنجاز",
+        "تحسين الدقة"
+      ],
+      "en": [
+        "Reduce costs",
+        "Speed up delivery",
+        "Improve accuracy"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "التطوير باستخدام تقنيات الواقع الممتد XR",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Anomaly Detection",
+    "team_members": [
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T7042",
+        "skills": [
+          "ذكاء اصطناعي",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T3369",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Web Dev"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T9308",
+        "skills": [
+          "DevOps",
+          "AI"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 55,
+    "delivery_date": "2026-05-14",
+    "related_old_project": {
+      "name_ar": "مشروع التطوير باستخدام تقنيات الواقع الممتد XR القديم",
+      "name_en": "Legacy التطوير باستخدام تقنيات الواقع الممتد XR Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي الذكي",
+    "project_name_en": "Predictive Visual Inspection AI",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "تقليل التكاليف",
+        "تسريع الإنجاز"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Reduce costs",
+        "Speed up delivery"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "التطوير باستخدام تقنيات الواقع الممتد XR",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Pose Estimation",
+    "team_members": [
+      {
+        "name_ar": "ريم",
+        "name_en": "Reem",
+        "id": "T5909",
+        "skills": [
+          "سحابة",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "وليد",
+        "name_en": "Waleed",
+        "id": "T3658",
+        "skills": [
+          "تحليل البيانات",
+          "Software Engineering"
+        ]
+      },
+      {
+        "name_ar": "جمان",
+        "name_en": "Juman",
+        "id": "T1691",
+        "skills": [
+          "هندسة برمجيات",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 35,
+    "delivery_date": "2024-01-08",
+    "related_old_project": null
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي الذكي",
+    "project_name_en": "Predictive Visual Inspection Coop",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تسريع الإنجاز",
+        "تحسين التجربة",
+        "تحسين الدقة"
+      ],
+      "en": [
+        "Speed up delivery",
+        "Improve UX",
+        "Improve accuracy"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "التطوير باستخدام تقنيات الواقع الممتد XR",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Anomaly Detection",
+    "team_members": [
+      {
+        "name_ar": "فيصل",
+        "name_en": "Faisal",
+        "id": "T4018",
+        "skills": [
+          "ذكاء اصطناعي",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T1162",
+        "skills": [
+          "تحليل البيانات",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T1491",
+        "skills": [
+          "DevOps",
+          "Data Analysis"
+        ]
+      }
+    ],
+    "status": "جديد",
+    "progress": 14,
+    "delivery_date": "2024-10-18",
+    "related_old_project": {
+      "name_ar": "مشروع التطوير باستخدام تقنيات الواقع الممتد XR القديم",
+      "name_en": "Legacy التطوير باستخدام تقنيات الواقع الممتد XR Project",
+      "year": 2023,
+      "improvement_note_ar": "تحسينه بإضافة طبقة ذكاء تنبؤي وتكامل API حديث.",
+      "improvement_note_en": "Improved by adding predictive AI and modern API integrations."
+    }
+  },
+  {
+    "project_name_ar": "فحص بصري تنبؤي الفوري",
+    "project_name_en": "Predictive Visual Inspection AI",
+    "description_ar": "حل رؤية حاسوبية لاكتشاف العيوب والشذوذ في الصور والفيديو بالزمن الحقيقي.",
+    "description_en": "Computer vision solution for real-time defect and anomaly detection in images and video.",
+    "objectives": {
+      "ar": [
+        "تحسين الدقة",
+        "رفع الكفاءة",
+        "تحسين التجربة"
+      ],
+      "en": [
+        "Improve accuracy",
+        "Increase efficiency",
+        "Improve UX"
+      ]
+    },
+    "tools": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "PyTorch",
+      "Label Studio"
+    ],
+    "bootcamp": "التطوير باستخدام تقنيات الواقع الممتد XR",
+    "AI_Domain": "Computer Vision",
+    "AI_Type": "Pose Estimation",
+    "team_members": [
+      {
+        "name_ar": "هند",
+        "name_en": "Hind",
+        "id": "T3853",
+        "skills": [
+          "تطوير الويب",
+          "Computer Vision"
+        ]
+      },
+      {
+        "name_ar": "طلال",
+        "name_en": "Talal",
+        "id": "T3855",
+        "skills": [
+          "أمن سيبراني",
+          "DevOps"
+        ]
+      },
+      {
+        "name_ar": "سلمان",
+        "name_en": "Salman",
+        "id": "T5029",
+        "skills": [
+          "واجهة المستخدم",
+          "Web Dev"
+        ]
+      }
+    ],
+    "status": "مكتمل",
+    "progress": 84,
+    "delivery_date": "2024-02-14",
+    "related_old_project": null
+  }
+]

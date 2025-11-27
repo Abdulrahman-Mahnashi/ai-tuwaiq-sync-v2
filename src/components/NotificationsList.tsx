@@ -4,7 +4,6 @@ import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { getNotifications, markAsRead, deleteNotification, markAllAsRead } from "@/services/notificationService";
-import { useAuth } from "@/contexts/AuthContext";
 import { getProjectById } from "@/services/projectService";
 // Simple date formatter without date-fns dependency
 const formatDate = (dateString: string, language: "ar" | "en") => {
@@ -35,20 +34,17 @@ interface NotificationsListProps {
 }
 
 const NotificationsList = ({ language }: NotificationsListProps) => {
-  const { user } = useAuth();
-  const [notifications, setNotifications] = useState(getNotifications(user?.id || ""));
+  const [notifications, setNotifications] = useState(getNotifications("student"));
   const [filter, setFilter] = useState<"all" | "unread" | "high">("all");
 
   useEffect(() => {
     // Refresh notifications every 2 seconds
     const interval = setInterval(() => {
-      if (user?.id) {
-        setNotifications(getNotifications(user.id));
-      }
+      setNotifications(getNotifications("student"));
     }, 2000);
 
     return () => clearInterval(interval);
-  }, [user]);
+  }, []);
 
   const filteredNotifications = notifications.filter((n) => {
     if (filter === "unread") return n.status === "unread";
@@ -57,24 +53,18 @@ const NotificationsList = ({ language }: NotificationsListProps) => {
   });
 
   const handleMarkAsRead = (notificationId: string) => {
-    if (user?.id) {
-      markAsRead(notificationId, user.id);
-      setNotifications(getNotifications(user.id));
-    }
+    markAsRead(notificationId, "student");
+    setNotifications(getNotifications("student"));
   };
 
   const handleDelete = (notificationId: string) => {
-    if (user?.id) {
-      deleteNotification(notificationId, user.id);
-      setNotifications(getNotifications(user.id));
-    }
+    deleteNotification(notificationId, "student");
+    setNotifications(getNotifications("student"));
   };
 
   const handleMarkAllAsRead = () => {
-    if (user?.id) {
-      markAllAsRead(user.id);
-      setNotifications(getNotifications(user.id));
-    }
+    markAllAsRead("student");
+    setNotifications(getNotifications("student"));
   };
 
   const translations = {

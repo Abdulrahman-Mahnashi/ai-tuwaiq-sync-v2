@@ -81,7 +81,8 @@ const BulkUpload = ({ language, onUploadComplete }: BulkUploadProps) => {
       
       return [];
     } catch (error) {
-      throw new Error(`Invalid JSON: ${error instanceof Error ? error.message : 'Unknown error'}`);
+      console.warn(`Invalid JSON: ${error instanceof Error ? error.message : 'Unknown error'}`);
+      return [];
     }
   };
 

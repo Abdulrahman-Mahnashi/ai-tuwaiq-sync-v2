@@ -96,10 +96,16 @@ class ProjectIngestionAgent {
 
       const jsonMatch = jsonString.match(/\{[\s\S]*\}/);
       if (jsonMatch) {
-        return JSON.parse(jsonMatch[0]) as ProjectElements;
+        try {
+          return JSON.parse(jsonMatch[0]) as ProjectElements;
+        } catch {
+          // If JSON parse fails, use fallback
+          return this.fallbackExtraction(projectName, projectDescription, technologies);
+        }
       }
 
-      throw new Error("Invalid JSON response");
+      // If no JSON match, use fallback
+      return this.fallbackExtraction(projectName, projectDescription, technologies);
     } catch (error) {
       console.error("AI extraction failed, using fallback:", error);
       return this.fallbackExtraction(projectName, projectDescription, technologies);

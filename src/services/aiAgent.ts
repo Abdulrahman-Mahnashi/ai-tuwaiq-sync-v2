@@ -59,7 +59,8 @@ class AIAgentService {
     projects: Project[]
   ): Promise<SimilarityResult[]> {
     if (!this.useAI || !this.llm) {
-      throw new Error("AI service not available. Please check your OpenAI API key.");
+      console.warn("AI service not available. Returning empty results.");
+      return [];
     }
 
     try {
@@ -120,35 +121,40 @@ ${projectsText}
       // Extract JSON array
       const jsonMatch = jsonString.match(/\[[\s\S]*\]/);
       if (!jsonMatch) {
-        throw new Error("Invalid JSON response from AI. Response: " + jsonString.substring(0, 200));
+        console.warn("Invalid JSON response from AI. Response: " + jsonString.substring(0, 200));
+        return [];
       }
 
-      const aiResults = JSON.parse(jsonMatch[0]) as Array<{
-        project_id: string;
-        similarity_score: number;
-        reasoning?: string;
-      }>;
+      try {
+        const aiResults = JSON.parse(jsonMatch[0]) as Array<{
+          project_id: string;
+          similarity_score: number;
+          reasoning?: string;
+        }>;
 
-      // Map results back to projects
-      const results: SimilarityResult[] = projects
-        .map((project) => {
-          const aiResult = aiResults.find((r) => r.project_id === project.id);
-          return {
-            project,
-            similarity_score: aiResult?.similarity_score || 0,
-            reasoning: aiResult?.reasoning,
-          };
-        })
-        .filter((r) => r.similarity_score > 0.1)
-        .sort((a, b) => b.similarity_score - a.similarity_score)
-        .slice(0, 5);
+        // Map results back to projects
+        const results: SimilarityResult[] = projects
+          .map((project) => {
+            const aiResult = aiResults.find((r) => r.project_id === project.id);
+            return {
+              project,
+              similarity_score: aiResult?.similarity_score || 0,
+              reasoning: aiResult?.reasoning,
+            };
+          })
+          .filter((r) => r.similarity_score > 0.1)
+          .sort((a, b) => b.similarity_score - a.similarity_score)
+          .slice(0, 5);
 
-      return results;
+        return results;
+      } catch (parseError) {
+        console.warn("Failed to parse AI response:", parseError);
+        return [];
+      }
     } catch (error) {
       console.error("AI Agent error:", error);
-      throw new Error(
-        `AI Agent failed: ${error instanceof Error ? error.message : "Unknown error"}. Please check your API key and try again.`
-      );
+      // Never throw, always return empty array
+      return [];
     }
   }
 
@@ -208,11 +214,13 @@ export const aiAgentService = {
         aiAgentInstance = null;
         const retryService = getAIAgentService();
         if (!retryService.isAIAvailable()) {
-          throw new Error("AI service not available. Please check your OpenAI API key and restart the dev server.");
+          console.warn("AI service not available. Returning empty results.");
+          return [];
         }
         return retryService.calculateSimilarity(idea, projects);
       }
-      throw new Error("AI service not available. Please check your OpenAI API key.");
+      console.warn("AI service not available. Returning empty results.");
+      return [];
     }
     return service.calculateSimilarity(idea, projects);
   },

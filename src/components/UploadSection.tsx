@@ -61,7 +61,8 @@ const UploadSection = ({ language, onDataUpload }: UploadSectionProps) => {
         const data = JSON.parse(text);
         return Array.isArray(data) ? data : [data];
       } catch (error) {
-        throw new Error(`Invalid JSON format in ${file.name}`);
+        console.warn(`Invalid JSON format in ${file.name}`);
+        return [];
       }
     } else if (fileName.endsWith('.csv')) {
       // Basic CSV parsing
@@ -79,7 +80,8 @@ const UploadSection = ({ language, onDataUpload }: UploadSectionProps) => {
       });
       return data;
     } else {
-      throw new Error(`Unsupported file type: ${file.name}`);
+      console.warn(`Unsupported file type: ${file.name}`);
+      return [];
     }
   };
 

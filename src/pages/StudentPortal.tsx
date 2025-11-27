@@ -5,6 +5,7 @@ import { Card } from "@/components/ui/card";
 import { useNavigate } from "react-router-dom";
 import ProjectSubmissionForm from "@/components/ProjectSubmissionForm";
 import NotificationsList from "@/components/NotificationsList";
+import ErrorBoundary from "@/components/ErrorBoundary";
 
 type Language = "en" | "ar";
 type Tab = "submit" | "notifications";
@@ -95,8 +96,16 @@ const StudentPortal = () => {
       {/* Main Content */}
       <main className="max-w-7xl mx-auto">
         <div className="animate-in fade-in duration-500">
-          {activeTab === "submit" && <ProjectSubmissionForm language={language} />}
-          {activeTab === "notifications" && <NotificationsList language={language} />}
+          {activeTab === "submit" && (
+            <ErrorBoundary>
+              <ProjectSubmissionForm language={language} />
+            </ErrorBoundary>
+          )}
+          {activeTab === "notifications" && (
+            <ErrorBoundary>
+              <NotificationsList language={language} />
+            </ErrorBoundary>
+          )}
         </div>
       </main>
     </div>

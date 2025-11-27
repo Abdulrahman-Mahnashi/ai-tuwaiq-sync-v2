@@ -19,7 +19,7 @@ interface ProjectSubmissionFormProps {
 
 const ProjectSubmissionForm = ({ language, onSuccess }: ProjectSubmissionFormProps) => {
   const { toast } = useToast();
-  const { projects: existingProjects } = useLocalProjects();
+  const { projects: existingProjects, isLoading: isLoadingProjects } = useLocalProjects();
   
   // Section A: Team Information
   const [teamMembers, setTeamMembers] = useState<TeamMember[]>([
@@ -196,7 +196,7 @@ const ProjectSubmissionForm = ({ language, onSuccess }: ProjectSubmissionFormPro
     // Always submit project, never fail
     try {
       // Try to execute workflow but never fail if it errors
-      if (existingProjects && existingProjects.length > 0) {
+      if (!isLoadingProjects && existingProjects && existingProjects.length > 0) {
         try {
           const workflowResult = await workflowOrchestrator.executeWorkflow(
             {

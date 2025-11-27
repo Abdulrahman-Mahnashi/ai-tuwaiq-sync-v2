@@ -18,7 +18,7 @@ const SignUp = () => {
   const [bootcampName, setBootcampName] = useState("");
   const [isLoading, setIsLoading] = useState(false);
   const [language, setLanguage] = useState<"ar" | "en">("ar");
-  const { signup } = useAuth();
+  const { signup, user } = useAuth();
   const { toast } = useToast();
   const navigate = useNavigate();
 
@@ -29,6 +29,21 @@ const SignUp = () => {
       setRole(roleParam);
     }
   }, [searchParams]);
+
+  // Auto-navigate after successful signup when user is set
+  useEffect(() => {
+    if (user) {
+      // Small delay to ensure everything is ready
+      const timer = setTimeout(() => {
+        if (user.role === "student") {
+          navigate("/student", { replace: true });
+        } else {
+          navigate("/supervisor", { replace: true });
+        }
+      }, 100);
+      return () => clearTimeout(timer);
+    }
+  }, [user, navigate]);
 
   const isRTL = language === "ar";
 
@@ -111,13 +126,10 @@ const SignUp = () => {
           title: t.success,
           description: language === "ar" ? "مرحباً بك في طويق بروجيكت سنك!" : "Welcome to Tuwaiq Project Sync!",
         });
-        // Navigate based on role
-        if (role === "student") {
-          navigate("/student");
-        } else {
-          navigate("/supervisor");
-        }
+        // Navigation will happen automatically via useEffect when user is set
+        // Don't navigate here to avoid race condition
       } else {
+        setIsLoading(false);
         toast({
           title: t.error,
           description: language === "ar" ? "البريد الإلكتروني مستخدم بالفعل" : "Email already exists",
@@ -125,13 +137,12 @@ const SignUp = () => {
         });
       }
     } catch (error) {
+      setIsLoading(false);
       toast({
         title: t.error,
         description: t.errorMessage,
         variant: "destructive",
       });
-    } finally {
-      setIsLoading(false);
     }
   };
 

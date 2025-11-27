@@ -90,13 +90,10 @@ const Login = () => {
           title: t.success,
           description: language === "ar" ? "تم تسجيل الدخول بنجاح" : "Welcome back!",
         });
-        // Navigate based on role
-        if (role === "student") {
-          navigate("/student");
-        } else {
-          navigate("/supervisor");
-        }
+        // Navigation will happen automatically via useEffect when user is set
+        // Don't navigate here to avoid race condition
       } else {
+        setIsLoading(false);
         toast({
           title: t.error,
           description: t.errorMessage,
@@ -104,13 +101,12 @@ const Login = () => {
         });
       }
     } catch (error) {
+      setIsLoading(false);
       toast({
         title: t.error,
         description: t.errorMessage,
         variant: "destructive",
       });
-    } finally {
-      setIsLoading(false);
     }
   };
 

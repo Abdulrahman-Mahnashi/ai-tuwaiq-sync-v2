@@ -1,9 +1,8 @@
-import { useState, useEffect } from "react";
-import { GraduationCap, Bell, ArrowLeft, Languages, LogOut } from "lucide-react";
+import { useState } from "react";
+import { GraduationCap, Bell, ArrowLeft, Languages } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { useNavigate } from "react-router-dom";
-import { useAuth } from "@/contexts/AuthContext";
 import ProjectSubmissionForm from "@/components/ProjectSubmissionForm";
 import NotificationsList from "@/components/NotificationsList";
 
@@ -14,18 +13,6 @@ const StudentPortal = () => {
   const [language, setLanguage] = useState<Language>("ar");
   const [activeTab, setActiveTab] = useState<Tab>("submit");
   const navigate = useNavigate();
-  const { user, logout } = useAuth();
-
-  // Redirect if not student
-  useEffect(() => {
-    if (user && user.role !== "student") {
-      navigate("/supervisor");
-    }
-  }, [user, navigate]);
-
-  if (user && user.role !== "student") {
-    return null;
-  }
 
   const isRTL = language === "ar";
 
@@ -71,17 +58,6 @@ const StudentPortal = () => {
             <h1 className="text-3xl font-bold gradient-text">{t.title}</h1>
           </div>
           <div className="flex items-center gap-2">
-            {user && (
-              <Button
-                variant="ghost"
-                size="sm"
-                onClick={logout}
-                className="text-muted-foreground hover:text-red-400"
-              >
-                <LogOut className="h-4 w-4 mr-2" />
-                {language === "ar" ? "تسجيل الخروج" : "Logout"}
-              </Button>
-            )}
             <Button
               variant="ghost"
               size="icon"

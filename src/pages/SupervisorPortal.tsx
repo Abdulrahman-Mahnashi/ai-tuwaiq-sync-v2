@@ -1,9 +1,8 @@
 import { useState, useEffect } from "react";
-import { UserCheck, FileText, BarChart3, ArrowLeft, Languages, LogOut } from "lucide-react";
+import { UserCheck, FileText, BarChart3, ArrowLeft, Languages } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { useNavigate } from "react-router-dom";
-import { useAuth } from "@/contexts/AuthContext";
 import { Badge } from "@/components/ui/badge";
 import { getSubmittedProjects } from "@/services/projectService";
 import SupervisorResponseDialog from "@/components/SupervisorResponseDialog";
@@ -21,48 +20,21 @@ const SupervisorPortal = () => {
   const [selectedProject, setSelectedProject] = useState<string | null>(null);
   const [responseDialogOpen, setResponseDialogOpen] = useState(false);
   const navigate = useNavigate();
-  const { user, logout } = useAuth();
   const [mergeNotifications, setMergeNotifications] = useState<Array<any>>([]);
   const { projects: pastProjects, isLoading: isLoadingPastProjects } = useLocalProjects();
 
-  // Refresh projects and notifications when tab changes or user changes
+  // Refresh projects and notifications when tab changes
   useEffect(() => {
     setSubmittedProjects(getSubmittedProjects());
-    if (user?.id) {
-      const notifications = getNotifications(user.id);
-      setMergeNotifications(notifications.filter(n => 
-        n.title?.includes("فرصة دمج") || 
-        n.title?.includes("Merge Opportunity") ||
-        n.message?.includes("معسكرين مختلفين") ||
-        n.message?.includes("different bootcamps")
-      ));
-    } else {
-      setMergeNotifications([]);
-    }
-  }, [activeTab, user]);
-
-  // Redirect if not supervisor
-  useEffect(() => {
-    if (user && user.role !== "supervisor") {
-      navigate("/student", { replace: true });
-    }
-  }, [user, navigate]);
-
-  // Show loading if user is not loaded yet
-  if (!user) {
-    return (
-      <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-[#0a1f1a] via-[#0d2b24] to-[#0a1f1a]">
-        <div className="text-center">
-          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-[#00d4aa] mx-auto mb-4"></div>
-          <p className="text-muted-foreground">جاري التحميل...</p>
-        </div>
-      </div>
-    );
-  }
-
-  if (user.role !== "supervisor") {
-    return null;
-  }
+    // Get all notifications (no user filter needed)
+    const allNotifications = getNotifications("supervisor");
+    setMergeNotifications(allNotifications.filter(n => 
+      n.title?.includes("فرصة دمج") || 
+      n.title?.includes("Merge Opportunity") ||
+      n.message?.includes("معسكرين مختلفين") ||
+      n.message?.includes("different bootcamps")
+    ));
+  }, [activeTab]);
 
   const isRTL = language === "ar";
 
@@ -142,17 +114,6 @@ const SupervisorPortal = () => {
             <h1 className="text-3xl font-bold gradient-text">{t.title}</h1>
           </div>
           <div className="flex items-center gap-2">
-            {user && (
-              <Button
-                variant="ghost"
-                size="sm"
-                onClick={logout}
-                className="text-muted-foreground hover:text-red-400"
-              >
-                <LogOut className="h-4 w-4 mr-2" />
-                {language === "ar" ? "تسجيل الخروج" : "Logout"}
-              </Button>
-            )}
             <Button
               variant="ghost"
               size="icon"

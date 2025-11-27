@@ -1,43 +1,12 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import { GraduationCap, UserCheck, Languages, LogIn } from "lucide-react";
+import { GraduationCap, UserCheck, Languages } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
-import { useAuth } from "@/contexts/AuthContext";
 
 const Home = () => {
   const navigate = useNavigate();
-  const { user, isLoading } = useAuth();
   const [language, setLanguage] = useState<"ar" | "en">("ar");
-
-  useEffect(() => {
-    // Wait for auth to load
-    if (isLoading) return;
-
-    // If user is logged in, redirect to their portal automatically
-    if (user) {
-      if (user.role === "student") {
-        navigate("/student", { replace: true });
-      } else {
-        navigate("/supervisor", { replace: true });
-      }
-    } else {
-      // If not logged in, redirect to login page automatically
-      navigate("/login", { replace: true });
-    }
-  }, [user, isLoading, navigate]);
-
-  // Show loading or nothing while redirecting
-  if (isLoading || user) {
-    return (
-      <div className="min-h-screen w-full flex items-center justify-center bg-gradient-to-br from-[#0a1f1a] via-[#0d2b24] to-[#0a1f1a]">
-        <div className="text-center">
-          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-[#00d4aa] mx-auto mb-4"></div>
-          <p className="text-muted-foreground">جاري التوجيه...</p>
-        </div>
-      </div>
-    );
-  }
 
   const isRTL = language === "ar";
 
@@ -102,10 +71,10 @@ const Home = () => {
               </div>
               <Button
                 size="lg"
-                onClick={() => navigate("/login?role=student")}
+                onClick={() => navigate("/student")}
                 className="w-full neon-glow bg-gradient-to-r from-emerald-500 to-teal-400 hover:from-emerald-400 hover:to-teal-300 text-emerald-950 font-bold"
               >
-                <LogIn className="mr-2 h-5 w-5" />
+                <GraduationCap className="mr-2 h-5 w-5" />
                 {t.studentButton}
               </Button>
             </div>
@@ -128,10 +97,10 @@ const Home = () => {
               </div>
               <Button
                 size="lg"
-                onClick={() => navigate("/login?role=supervisor")}
+                onClick={() => navigate("/supervisor")}
                 className="w-full neon-glow bg-gradient-to-r from-cyan-500 to-blue-400 hover:from-cyan-400 hover:to-blue-300 text-cyan-950 font-bold"
               >
-                <LogIn className="mr-2 h-5 w-5" />
+                <UserCheck className="mr-2 h-5 w-5" />
                 {t.supervisorButton}
               </Button>
             </div>

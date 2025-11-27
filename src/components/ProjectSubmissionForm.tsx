@@ -7,7 +7,6 @@ import { Label } from "@/components/ui/label";
 import { Textarea } from "@/components/ui/textarea";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { useToast } from "@/hooks/use-toast";
-import { useAuth } from "@/contexts/AuthContext";
 import { submitProject, TeamMember, type ProjectSubmission } from "@/services/projectService";
 import { useLocalProjects } from "@/services/localProjects";
 import { workflowOrchestrator } from "@/services/workflowOrchestrator";
@@ -19,7 +18,6 @@ interface ProjectSubmissionFormProps {
 }
 
 const ProjectSubmissionForm = ({ language, onSuccess }: ProjectSubmissionFormProps) => {
-  const { user } = useAuth();
   const { toast } = useToast();
   const { projects: existingProjects } = useLocalProjects();
   
@@ -190,7 +188,7 @@ const ProjectSubmissionForm = ({ language, onSuccess }: ProjectSubmissionFormPro
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     
-    if (!validateForm() || !user) return;
+    if (!validateForm()) return;
 
     setIsSubmitting(true);
     setIsAnalyzing(true);
@@ -208,7 +206,7 @@ const ProjectSubmissionForm = ({ language, onSuccess }: ProjectSubmissionFormPro
               bootcamp_name: bootcampName,
               tools_technologies: toolsTechnologies,
               team: teamMembers,
-              submitted_by: user.id,
+              submitted_by: "student-user",
             },
             existingProjects.map((p) => ({
               id: p.id,
